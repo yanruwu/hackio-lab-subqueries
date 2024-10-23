@@ -1,0 +1,1692 @@
+,municipio_id,fecha,daystage,cielo,prob._precip.__(%),prob._de_nieve_(%),prob._de_tormenta_(%),dirección_viento,temp._(°c),sen._térmica_(°c),racha_máx._(km/h),precipitación_(mm),nieve_(mm),humedad_relativa_(%),velocidad_del_viento
+0,acebeda-la,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,S,21.0,21.0,25.0,0.0,0.0,69.0,7.0
+1,acebeda-la,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,22.0,22.0,30.83,0.02,0.0,60.0,16.67
+2,acebeda-la,2024-08-29,noche,['Nubes altas' 'Nuboso'],Muy alta,Baja,Media,['NO' 'S'],17.8,17.8,12.4,0.0,0.0,56.2,7.2
+3,acebeda-la,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,N,14.17,14.17,10.0,0.02,0.0,89.17,5.83
+4,acebeda-la,2024-08-30,mediodia,['Cubierto' 'Poco nuboso'],Muy alta,Baja,Alta,['N' 'SE'],15.71,15.71,17.71,3.0,0.0,91.57,7.0
+5,acebeda-la,2024-08-30,tarde,['Nubes altas' 'Poco nuboso'],Muy alta,Baja,Alta,SE,24.67,24.67,14.5,0.52,0.0,49.33,7.5
+6,acebeda-la,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,['NO' 'S'],20.8,20.8,6.8,0.0,0.0,68.0,5.2
+7,acebeda-la,2024-08-31,madrugada,['Nuboso' 'Poco nuboso'],Baja,Baja,Baja,O,15.17,15.17,5.33,0.0,0.0,94.5,2.0
+8,acebeda-la,2024-08-31,mediodia,['Nubes altas' 'Nuboso'],Baja,Baja,Baja,NO,13.5,13.5,11.5,0.0,0.0,95.0,6.5
+9,ajalvir,2024-08-29,mediodia,Cubierto con tormenta y lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,15.0,0.1,0.0,64.0,8.0
+10,ajalvir,2024-08-29,tarde,['Cubierto con tormenta y lluvia escasa' 'Nubes altas'],Muy alta,Baja,Alta,['E' 'S' 'SO'],26.5,26.5,29.33,0.03,0.0,49.33,10.33
+11,ajalvir,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,['E' 'NE'],21.4,21.4,20.0,1.66,0.0,69.4,15.8
+12,ajalvir,2024-08-30,madrugada,Intervalos nubosos,Baja,Baja,Baja,N,18.5,18.5,22.33,0.13,0.0,94.83,14.83
+13,ajalvir,2024-08-30,mediodia,Muy nuboso,Muy alta,Baja,Baja,NE,20.29,20.29,24.86,0.0,0.0,87.86,14.14
+14,ajalvir,2024-08-30,tarde,Cubierto con lluvia escasa,Muy alta,Baja,Media,NE,28.0,28.67,21.33,0.08,0.0,53.0,12.67
+15,ajalvir,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,22.6,22.6,13.8,0.02,0.0,85.2,9.6
+16,ajalvir,2024-08-31,madrugada,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,NE,19.17,19.17,12.83,0.0,0.0,91.67,8.33
+17,ajalvir,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'NE'],17.0,17.0,9.5,0.0,0.0,94.5,9.0
+18,alameda-del-valle,2024-08-29,mediodia,Muy nuboso,Muy alta,Baja,Alta,E,23.0,23.0,23.0,0.0,0.0,64.0,6.0
+19,alameda-del-valle,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,S,24.5,24.5,33.17,0.02,0.0,51.0,13.33
+20,alameda-del-valle,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Media,NO,17.6,17.6,10.8,0.02,0.0,60.2,8.0
+21,alameda-del-valle,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NO,12.33,12.33,12.33,0.0,0.0,86.33,5.67
+22,alameda-del-valle,2024-08-30,mediodia,['Cielo despejado' 'Cubierto con lluvia'],Muy alta,Baja,Alta,NO,16.0,16.0,16.43,2.0,0.0,86.0,5.71
+23,alameda-del-valle,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['S' 'SE'],26.67,26.67,16.17,0.53,0.0,44.17,7.5
+24,alameda-del-valle,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NO,21.0,21.0,10.6,0.0,0.0,58.0,5.6
+25,alameda-del-valle,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,N,12.83,12.83,11.67,0.0,0.0,88.83,5.5
+26,alameda-del-valle,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['NO' 'O'],12.0,12.0,11.5,0.0,0.0,87.5,7.0
+27,alamo-el,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,16.0,0.1,0.0,55.0,8.0
+28,alamo-el,2024-08-29,tarde,['Intervalos nubosos con lluvia escasa' 'Nubes altas'],Muy alta,Baja,Alta,S,28.0,28.33,29.67,0.25,0.0,45.33,11.33
+29,alamo-el,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Alta,['N' 'NE'],21.4,21.4,18.4,0.04,0.0,85.6,13.0
+30,alamo-el,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NE,18.33,18.33,22.17,0.0,0.0,91.5,14.5
+31,alamo-el,2024-08-30,mediodia,Muy nuboso,Muy alta,Baja,Baja,NE,20.71,20.71,26.71,0.0,0.0,85.57,17.43
+32,alamo-el,2024-08-30,tarde,Nuboso,Muy alta,Baja,Media,NE,29.17,30.33,26.33,0.0,0.0,55.17,18.0
+33,alamo-el,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,25.6,26.4,16.2,0.0,0.0,74.4,11.4
+34,alamo-el,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,['E' 'NE'],20.17,20.17,15.67,0.0,0.0,87.0,10.83
+35,alamo-el,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'NE'],18.5,18.5,9.0,0.0,0.0,90.0,7.0
+36,alcala-de-henares,2024-08-29,mediodia,Nuboso con tormenta y lluvia escasa,Muy alta,Baja,Alta,SE,25.0,25.0,18.0,0.1,0.0,61.0,8.0
+37,alcala-de-henares,2024-08-29,tarde,Cubierto,Muy alta,Baja,Muy alta,S,27.33,27.5,28.5,0.02,0.0,46.83,13.0
+38,alcala-de-henares,2024-08-29,noche,Muy nuboso,Muy alta,Baja,Alta,['N' 'NE'],22.2,22.2,27.8,1.36,0.0,75.0,12.6
+39,alcala-de-henares,2024-08-30,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,NE,18.33,18.33,24.67,0.0,0.0,99.0,14.83
+40,alcala-de-henares,2024-08-30,mediodia,['Cubierto' 'Muy nuboso'],Muy alta,Baja,Baja,NE,20.71,20.71,24.86,0.0,0.0,87.71,14.43
+41,alcala-de-henares,2024-08-30,tarde,Cubierto,Muy alta,Baja,Alta,NE,28.83,30.0,20.83,0.02,0.0,52.83,13.0
+42,alcala-de-henares,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NE,23.2,23.2,13.4,0.0,0.0,80.2,8.4
+43,alcala-de-henares,2024-08-31,madrugada,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,NE,19.0,19.0,11.5,0.0,0.0,89.17,6.0
+44,alcala-de-henares,2024-08-31,mediodia,['Nuboso' 'Poco nuboso'],Baja,Baja,Baja,E,17.0,17.0,10.0,0.0,0.0,94.5,6.0
+45,alcobendas,2024-08-29,mediodia,Cubierto con lluvia escasa,Muy alta,Baja,Alta,E,23.0,23.0,16.0,0.1,0.0,65.0,9.0
+46,alcobendas,2024-08-29,tarde,['Cubierto con tormenta y lluvia escasa' 'Nubes altas'],Muy alta,Baja,Alta,S,26.5,26.83,28.83,0.35,0.0,54.83,10.83
+47,alcobendas,2024-08-29,noche,"['Cielo despejado' 'Cubierto' 'Muy nuboso con lluvia escasa' 'Nubes altas'
+ 'Nuboso']",Muy alta,Baja,Alta,['N' 'NO'],21.8,21.8,21.8,0.02,0.0,69.0,15.4
+48,alcobendas,2024-08-30,madrugada,Cubierto,Baja,Baja,Baja,N,19.33,19.33,24.67,0.02,0.0,88.0,14.67
+49,alcobendas,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.86,20.86,23.14,0.0,0.0,85.43,12.71
+50,alcobendas,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Media,NE,28.17,28.5,24.0,0.02,0.0,50.67,10.83
+51,alcobendas,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,23.0,23.0,15.2,0.0,0.0,78.8,10.6
+52,alcobendas,2024-08-31,madrugada,['Cubierto' 'Muy nuboso'],Baja,Baja,Baja,E,20.0,20.0,13.33,0.0,0.0,84.17,7.33
+53,alcobendas,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'NE'],18.5,18.5,8.0,0.0,0.0,90.5,8.5
+54,alcorcon,2024-08-29,mediodia,['Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia escasa'],Muy alta,Baja,Alta,E,23.5,23.5,19.0,0.1,0.0,64.0,9.5
+55,alcorcon,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,SE,26.33,26.33,22.83,0.15,0.0,48.83,9.17
+56,alcorcon,2024-08-29,noche,Cubierto con lluvia escasa,Muy alta,Baja,Alta,NE,19.8,19.8,22.8,0.08,0.0,77.8,13.4
+57,alcorcon,2024-08-30,madrugada,['Intervalos nubosos con lluvia escasa' 'Muy nuboso'],Baja,Baja,Baja,NE,18.0,18.0,30.17,0.03,0.0,89.67,18.0
+58,alcorcon,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.0,20.0,30.71,0.0,0.0,85.71,17.14
+59,alcorcon,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,NE,27.5,27.83,29.17,0.08,0.0,50.33,16.5
+60,alcorcon,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,22.2,22.2,20.0,0.02,0.0,75.8,12.4
+61,alcorcon,2024-08-31,madrugada,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],19.17,19.17,19.0,0.0,0.0,86.83,11.67
+62,alcorcon,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NE,18.0,18.0,11.5,0.0,0.0,87.5,8.0
+63,aldea-del-fresno,2024-08-29,mediodia,Muy nuboso con lluvia escasa,Alta,Baja,Alta,E,26.0,26.0,16.0,0.1,0.0,51.0,9.0
+64,aldea-del-fresno,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,SE,29.17,29.33,22.33,0.22,0.0,41.5,8.5
+65,aldea-del-fresno,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Media,NE,22.4,22.4,18.4,0.0,0.0,69.6,12.4
+66,aldea-del-fresno,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NE,19.0,19.0,15.5,0.0,0.0,82.17,9.33
+67,aldea-del-fresno,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,21.43,21.71,27.86,0.0,0.0,83.0,14.86
+68,aldea-del-fresno,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,NE,30.5,31.0,29.17,0.0,0.0,45.0,16.83
+69,aldea-del-fresno,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,25.4,25.4,18.8,0.0,0.0,60.8,12.4
+70,aldea-del-fresno,2024-08-31,madrugada,['Cielo despejado' 'Nuboso'],Baja,Baja,Baja,NE,20.17,20.17,19.67,0.0,0.0,83.33,12.0
+71,aldea-del-fresno,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,19.0,19.0,9.0,0.0,0.0,82.5,6.0
+72,algete,2024-08-29,mediodia,Cubierto con tormenta y lluvia escasa,Muy alta,Baja,Alta,E,23.0,23.0,15.5,0.1,0.0,71.0,8.0
+73,algete,2024-08-29,tarde,['Cubierto' 'Cubierto con tormenta y lluvia escasa' 'Nubes altas'],Muy alta,Baja,Alta,S,25.83,26.0,27.83,0.03,0.0,52.0,10.83
+74,algete,2024-08-29,noche,Cubierto,Muy alta,Baja,Alta,NE,21.0,21.0,23.4,0.4,0.0,68.8,15.8
+75,algete,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NE,18.33,18.33,20.17,0.17,0.0,94.5,14.5
+76,algete,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.0,20.0,23.43,0.0,0.0,88.71,13.29
+77,algete,2024-08-30,tarde,['Nubes altas' 'Poco nuboso'],Muy alta,Baja,Alta,NE,27.67,28.0,20.17,0.02,0.0,51.67,11.33
+78,algete,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NE,23.0,23.0,15.6,0.0,0.0,81.6,9.4
+79,algete,2024-08-31,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,E,19.0,19.0,13.17,0.0,0.0,88.33,9.67
+80,algete,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'N'],17.0,17.0,16.0,0.0,0.0,90.5,11.0
+81,alpedrete,2024-08-29,mediodia,Muy nuboso con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,27.0,0.1,0.0,61.0,8.0
+82,alpedrete,2024-08-29,tarde,Cubierto con tormenta y lluvia escasa,Muy alta,Baja,Alta,['S' 'SE'],25.5,25.5,31.67,0.1,0.0,49.5,17.5
+83,alpedrete,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,20.0,20.0,10.4,0.1,0.0,56.6,7.2
+84,alpedrete,2024-08-30,madrugada,Nuboso,Baja,Baja,Baja,NO,18.17,18.17,10.0,0.03,0.0,73.0,4.83
+85,alpedrete,2024-08-30,mediodia,Cielo despejado,Muy alta,Baja,Media,NE,20.43,20.43,28.0,1.47,0.0,82.0,13.57
+86,alpedrete,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,O,27.67,27.67,15.33,0.18,0.0,46.0,9.33
+87,alpedrete,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,22.6,22.6,9.6,0.0,0.0,66.6,6.8
+88,alpedrete,2024-08-31,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,['E' 'N'],19.0,19.0,8.67,0.0,0.0,85.0,4.83
+89,alpedrete,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NO,17.5,17.5,11.5,0.0,0.0,85.5,8.5
+90,ambite,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,24.0,24.0,18.0,0.1,0.0,65.0,8.0
+91,ambite,2024-08-29,tarde,Cubierto,Muy alta,Baja,Muy alta,SE,25.33,25.33,27.0,0.03,0.0,51.0,13.17
+92,ambite,2024-08-29,noche,['Cielo despejado' 'Cubierto'],Muy alta,Baja,Alta,NE,20.8,20.8,20.6,0.02,0.0,67.8,12.0
+93,ambite,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,['E' 'NE'],17.83,17.83,10.5,0.02,0.0,90.33,6.33
+94,ambite,2024-08-30,mediodia,['Cubierto' 'Muy nuboso' 'Nubes altas'],Muy alta,Baja,Baja,['E' 'NE'],19.86,19.86,23.0,0.0,0.0,87.86,9.43
+95,ambite,2024-08-30,tarde,Muy nuboso,Muy alta,Baja,Alta,E,28.17,28.5,24.33,0.05,0.0,50.33,10.5
+96,ambite,2024-08-30,noche,Poco nuboso,Media,Baja,Media,['E' 'SE'],21.6,21.6,17.6,0.0,0.0,67.2,11.2
+97,ambite,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,['E' 'NE' 'SE'],18.5,18.5,14.83,0.0,0.0,72.0,8.17
+98,ambite,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'NE'],17.0,17.0,7.5,0.0,0.0,78.0,5.0
+99,anchuelo,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,SE,24.0,24.0,19.0,0.0,0.0,65.0,11.0
+100,anchuelo,2024-08-29,tarde,['Cubierto' 'Nubes altas'],Muy alta,Baja,Muy alta,S,24.83,24.83,31.17,0.0,0.0,51.67,15.67
+101,anchuelo,2024-08-29,noche,Cubierto con lluvia escasa,Muy alta,Baja,Alta,['N' 'NE'],19.8,19.8,26.6,0.14,0.0,78.4,14.8
+102,anchuelo,2024-08-30,madrugada,['Cielo despejado' 'Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,E,17.17,17.17,22.83,0.0,0.0,94.67,16.33
+103,anchuelo,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,E,19.14,19.14,28.57,0.0,0.0,90.29,16.43
+104,anchuelo,2024-08-30,tarde,"['Cielo despejado' 'Cubierto' 'Intervalos nubosos con lluvia escasa'
+ 'Muy nuboso' 'Nubes altas' 'Nuboso']",Muy alta,Baja,Alta,['N' 'NE'],27.0,27.83,21.5,0.02,0.0,61.17,12.67
+105,anchuelo,2024-08-30,noche,Cielo despejado,Baja,Baja,Baja,E,21.2,21.2,18.2,0.0,0.0,86.2,9.4
+106,anchuelo,2024-08-31,madrugada,['Cielo despejado' 'Nuboso'],Baja,Baja,Baja,E,17.67,17.67,24.17,0.0,0.0,86.67,16.0
+107,anchuelo,2024-08-31,mediodia,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,['E' 'NE'],15.5,15.5,13.0,0.0,0.0,96.5,6.0
+108,aranjuez,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,19.0,0.1,0.0,51.0,8.0
+109,aranjuez,2024-08-29,tarde,Cubierto con lluvia escasa,Muy alta,Baja,Alta,S,27.67,27.67,28.83,0.1,0.0,39.17,13.17
+110,aranjuez,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,21.4,21.4,25.8,0.1,0.0,72.2,16.0
+111,aranjuez,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,N,17.83,17.83,13.0,0.03,0.0,92.83,9.83
+112,aranjuez,2024-08-30,mediodia,['Cubierto' 'Muy nuboso' 'Poco nuboso'],Muy alta,Baja,Baja,['NE' 'SE'],21.14,21.43,23.29,0.0,0.0,85.86,11.71
+113,aranjuez,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Alta,N,29.5,31.17,31.5,0.02,0.0,56.17,17.5
+114,aranjuez,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,24.8,25.2,14.2,0.0,0.0,70.8,11.4
+115,aranjuez,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,['E' 'NE' 'SE'],19.17,19.17,30.83,0.0,0.0,87.17,17.5
+116,aranjuez,2024-08-31,mediodia,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,N,18.0,18.0,9.0,0.0,0.0,95.5,8.5
+117,arganda-del-rey,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,19.0,0.1,0.0,56.0,10.0
+118,arganda-del-rey,2024-08-29,tarde,['Cubierto' 'Muy nuboso'],Muy alta,Baja,Alta,S,26.67,26.67,29.67,0.02,0.0,44.17,14.17
+119,arganda-del-rey,2024-08-29,noche,"['Cielo despejado' 'Cubierto' 'Cubierto con tormenta y lluvia escasa'
+ 'Intervalos nubosos con lluvia escasa' 'Poco nuboso']",Muy alta,Baja,Alta,NE,21.2,21.2,28.0,0.22,0.0,73.2,15.0
+120,arganda-del-rey,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,E,17.33,17.33,17.33,0.0,0.0,94.33,11.17
+121,arganda-del-rey,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,['E' 'SE'],20.14,20.14,26.71,0.0,0.0,88.29,15.29
+122,arganda-del-rey,2024-08-30,tarde,['Cielo despejado' 'Nubes altas'],Muy alta,Baja,Alta,N,28.5,29.83,27.17,0.02,0.0,56.83,17.17
+123,arganda-del-rey,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,E,23.0,23.0,14.2,0.0,0.0,72.2,11.4
+124,arganda-del-rey,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,SE,18.83,18.83,27.33,0.0,0.0,81.33,16.0
+125,arganda-del-rey,2024-08-31,mediodia,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],17.0,17.0,13.5,0.0,0.0,91.5,6.5
+126,arroyomolinos,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,18.0,0.1,0.0,56.0,8.0
+127,arroyomolinos,2024-08-29,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,27.33,27.33,28.5,0.33,0.0,47.0,12.5
+128,arroyomolinos,2024-08-29,noche,Muy nuboso,Muy alta,Baja,Alta,['N' 'NE'],20.4,20.4,20.4,0.02,0.0,84.2,11.2
+129,arroyomolinos,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NE,18.33,18.33,22.33,0.0,0.0,90.33,14.5
+130,arroyomolinos,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.71,20.71,28.43,0.0,0.0,85.29,17.43
+131,arroyomolinos,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,NE,28.83,29.5,26.83,0.08,0.0,51.67,17.67
+132,arroyomolinos,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,24.8,25.4,16.6,0.02,0.0,73.4,10.8
+133,arroyomolinos,2024-08-31,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],20.0,20.0,16.0,0.0,0.0,84.83,10.33
+134,arroyomolinos,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,18.0,18.0,9.0,0.0,0.0,85.5,7.5
+135,atazar-el,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,SE,22.0,22.0,20.0,0.0,0.0,75.0,6.0
+136,atazar-el,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,23.67,23.67,24.5,0.05,0.0,65.5,10.0
+137,atazar-el,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,NE,19.8,19.8,14.6,0.04,0.0,64.8,5.4
+138,atazar-el,2024-08-30,madrugada,Nuboso,Baja,Baja,Baja,['N' 'NO'],16.17,16.17,14.33,0.23,0.0,94.83,6.0
+139,atazar-el,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,['NO' 'SE'],18.0,18.0,18.29,0.0,0.0,90.43,6.71
+140,atazar-el,2024-08-30,tarde,['Intervalos nubosos con lluvia escasa' 'Nubes altas'],Muy alta,Baja,Alta,['O' 'S'],27.0,27.0,19.33,0.03,0.0,43.83,6.17
+141,atazar-el,2024-08-30,noche,Poco nuboso,Media,Baja,Media,['NE' 'SE'],21.8,21.8,10.2,0.0,0.0,69.2,5.0
+142,atazar-el,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,E,17.0,17.0,11.5,0.0,0.0,86.67,5.0
+143,atazar-el,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,N,15.0,15.0,10.0,0.0,0.0,93.5,5.0
+144,batres,2024-08-29,mediodia,Muy nuboso con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,15.0,0.1,0.0,54.0,8.0
+145,batres,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,['E' 'SE'],27.5,27.5,24.83,0.05,0.0,43.83,11.17
+146,batres,2024-08-29,noche,['Muy nuboso' 'Poco nuboso'],Muy alta,Baja,Alta,['E' 'NE'],20.8,20.8,27.6,0.02,0.0,72.4,16.4
+147,batres,2024-08-30,madrugada,Nuboso,Baja,Baja,Baja,NE,18.17,18.17,32.83,0.02,0.0,91.17,22.67
+148,batres,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.57,20.57,29.86,0.0,0.0,87.43,20.86
+149,batres,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Media,NE,29.0,30.33,27.0,0.02,0.0,56.17,18.0
+150,batres,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,E,25.0,25.6,21.4,0.0,0.0,68.4,12.6
+151,batres,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,E,20.0,20.0,25.67,0.0,0.0,77.17,18.17
+152,batres,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'NE'],18.0,18.0,10.5,0.0,0.0,81.5,8.5
+153,becerril-de-la-sierra,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,E,23.0,23.0,28.0,0.0,0.0,68.0,12.0
+154,becerril-de-la-sierra,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,24.17,24.17,29.33,0.0,0.0,54.5,14.33
+155,becerril-de-la-sierra,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,NE,18.4,18.4,13.2,0.06,0.0,62.0,5.6
+156,becerril-de-la-sierra,2024-08-30,madrugada,['Muy nuboso' 'Nubes altas'],Baja,Baja,Baja,E,16.33,16.33,17.83,0.0,0.0,80.0,9.17
+157,becerril-de-la-sierra,2024-08-30,mediodia,['Cielo despejado' 'Poco nuboso'],Muy alta,Baja,Alta,E,18.86,18.86,26.43,1.73,0.0,86.86,13.0
+158,becerril-de-la-sierra,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,NE,26.0,26.0,17.33,0.35,0.0,48.17,7.83
+159,becerril-de-la-sierra,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NE,21.4,21.4,14.4,0.0,0.0,66.4,8.6
+160,becerril-de-la-sierra,2024-08-31,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],16.83,16.83,16.17,0.0,0.0,89.0,9.5
+161,becerril-de-la-sierra,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,16.0,16.0,7.0,0.0,0.0,84.5,5.0
+162,belmonte-de-tajo,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,21.0,0.1,0.0,61.0,11.0
+163,belmonte-de-tajo,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,S,26.33,26.33,31.83,0.03,0.0,46.83,17.17
+164,belmonte-de-tajo,2024-08-29,noche,['Cielo despejado' 'Poco nuboso'],Muy alta,Baja,Alta,NE,20.2,20.2,29.8,0.02,0.0,71.0,19.2
+165,belmonte-de-tajo,2024-08-30,madrugada,['Nuboso' 'Poco nuboso'],Baja,Baja,Baja,SE,17.33,17.33,26.17,0.02,0.0,92.5,18.5
+166,belmonte-de-tajo,2024-08-30,mediodia,Poco nuboso,Muy alta,Baja,Baja,SE,20.0,20.0,34.29,0.0,0.0,86.43,22.0
+167,belmonte-de-tajo,2024-08-30,tarde,"['Cubierto' 'Intervalos nubosos con lluvia escasa' 'Muy nuboso' 'Nuboso'
+ 'Nuboso con lluvia escasa' 'Poco nuboso']",Muy alta,Baja,Alta,E,28.0,28.17,32.0,0.03,0.0,46.0,16.67
+168,belmonte-de-tajo,2024-08-30,noche,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,E,22.2,22.2,26.0,0.0,0.0,70.6,18.2
+169,belmonte-de-tajo,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,SE,18.83,18.83,31.17,0.0,0.0,81.33,20.67
+170,belmonte-de-tajo,2024-08-31,mediodia,Poco nuboso,Baja,Baja,Baja,N,17.0,17.0,11.5,0.0,0.0,93.5,6.0
+171,berrueco-el,2024-08-29,mediodia,Cubierto con tormenta y lluvia escasa,Muy alta,Baja,Alta,SE,22.0,22.0,13.0,0.1,0.0,78.0,5.0
+172,berrueco-el,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,SE,23.5,23.5,26.67,0.08,0.0,67.0,6.17
+173,berrueco-el,2024-08-29,noche,"['Cielo despejado' 'Cubierto con lluvia escasa'
+ 'Cubierto con tormenta y lluvia escasa' 'Muy nuboso' 'Nubes altas']",Muy alta,Baja,Alta,N,19.2,19.2,18.4,0.2,0.0,71.4,10.0
+174,berrueco-el,2024-08-30,madrugada,Nuboso,Baja,Baja,Baja,N,16.17,16.17,27.83,0.0,0.0,93.5,13.67
+175,berrueco-el,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,N,17.86,17.86,24.14,0.0,0.0,89.86,11.43
+176,berrueco-el,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['N' 'SE'],26.83,26.83,23.33,0.07,0.0,46.17,11.83
+177,berrueco-el,2024-08-30,noche,"['Cielo despejado' 'Intervalos nubosos con lluvia escasa' 'Nubes altas'
+ 'Nuboso' 'Poco nuboso']",Media,Baja,Media,N,21.8,21.8,10.0,0.02,0.0,75.2,4.0
+178,berrueco-el,2024-08-31,madrugada,['Nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,17.67,17.67,12.33,0.0,0.0,88.83,5.5
+179,berrueco-el,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,N,15.5,15.5,25.5,0.0,0.0,92.5,11.5
+180,berzosa-del-lozoya,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,S,22.0,22.0,22.0,0.0,0.0,76.0,8.0
+181,berzosa-del-lozoya,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,22.67,22.67,24.0,0.02,0.0,62.33,12.5
+182,berzosa-del-lozoya,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,E,18.8,18.8,12.0,0.0,0.0,55.4,6.4
+183,berzosa-del-lozoya,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NE,15.0,15.0,8.83,0.83,0.0,94.0,6.17
+184,berzosa-del-lozoya,2024-08-30,mediodia,Cielo despejado,Muy alta,Baja,Media,SE,17.0,17.0,15.29,2.14,0.0,90.57,7.86
+185,berzosa-del-lozoya,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,S,26.33,26.33,16.67,0.35,0.0,44.83,8.0
+186,berzosa-del-lozoya,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,['E' 'S'],21.4,21.4,7.4,0.0,0.0,68.2,6.0
+187,berzosa-del-lozoya,2024-08-31,madrugada,['Cielo despejado' 'Nuboso' 'Poco nuboso'],Baja,Baja,Baja,['E' 'SE'],16.0,16.0,8.5,0.0,0.0,89.0,4.83
+188,berzosa-del-lozoya,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NE,14.5,14.5,10.0,0.0,0.0,90.5,6.0
+189,boadilla-del-monte,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,21.0,0.1,0.0,59.0,9.0
+190,boadilla-del-monte,2024-08-29,tarde,['Cubierto' 'Cubierto con lluvia escasa'],Muy alta,Baja,Alta,SE,26.33,26.33,30.0,0.7,0.0,48.83,15.67
+191,boadilla-del-monte,2024-08-29,noche,Nuboso,Muy alta,Baja,Alta,NE,20.2,20.2,24.6,0.02,0.0,80.4,14.2
+192,boadilla-del-monte,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NE,18.0,18.0,31.83,0.0,0.0,89.83,20.0
+193,boadilla-del-monte,2024-08-30,mediodia,['Cubierto' 'Nuboso'],Muy alta,Baja,Baja,NE,20.29,20.29,33.43,0.0,0.0,86.29,19.86
+194,boadilla-del-monte,2024-08-30,tarde,['Muy nuboso' 'Nubes altas'],Muy alta,Baja,Alta,NE,27.83,28.0,28.5,0.0,0.0,50.0,19.0
+195,boadilla-del-monte,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,22.4,22.4,21.4,0.02,0.0,77.4,13.4
+196,boadilla-del-monte,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,NE,19.0,19.0,17.83,0.0,0.0,88.17,12.33
+197,boadilla-del-monte,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,18.0,18.0,13.5,0.0,0.0,86.5,8.5
+198,boalo-el,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,E,23.0,23.0,27.0,0.0,0.0,67.0,13.0
+199,boalo-el,2024-08-29,tarde,['Cubierto' 'Muy nuboso' 'Nuboso'],Muy alta,Baja,Alta,SE,25.0,25.0,29.17,0.0,0.0,53.83,14.33
+200,boalo-el,2024-08-29,noche,"['Cubierto' 'Intervalos nubosos con lluvia escasa' 'Nubes altas' 'Nuboso'
+ 'Nuboso con tormenta y lluvia escasa']",Muy alta,Baja,Alta,['E' 'N' 'NO' 'S' 'SE'],19.2,19.2,9.6,0.04,0.0,60.8,5.2
+201,boalo-el,2024-08-30,madrugada,Nuboso,Baja,Baja,Baja,E,16.67,16.67,16.67,0.0,0.0,81.33,9.67
+202,boalo-el,2024-08-30,mediodia,Cielo despejado,Muy alta,Baja,Alta,E,19.43,19.43,26.14,4.29,0.0,86.29,14.71
+203,boalo-el,2024-08-30,tarde,['Intervalos nubosos con lluvia escasa' 'Nubes altas'],Muy alta,Baja,Alta,E,26.83,26.83,14.83,0.7,0.0,48.0,7.67
+204,boalo-el,2024-08-30,noche,Poco nuboso,Media,Baja,Media,E,22.0,22.0,7.0,0.0,0.0,70.4,4.8
+205,boalo-el,2024-08-31,madrugada,['Muy nuboso' 'Nuboso'],Baja,Baja,Baja,E,17.5,17.5,10.33,0.0,0.0,91.0,7.17
+206,boalo-el,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['O' 'S'],17.0,17.0,9.0,0.0,0.0,88.5,5.0
+207,braojos,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,S,22.0,22.0,25.0,0.0,0.0,69.0,7.0
+208,braojos,2024-08-29,tarde,['Nubes altas' 'Nuboso'],Muy alta,Baja,Muy alta,S,22.67,22.67,30.83,0.02,0.0,60.0,16.67
+209,braojos,2024-08-29,noche,Nubes altas,Muy alta,Baja,Media,['NO' 'S'],17.8,17.8,12.4,0.0,0.0,56.2,7.2
+210,braojos,2024-08-30,madrugada,"['Cielo despejado' 'Cubierto' 'Intervalos nubosos con lluvia escasa'
+ 'Nubes altas' 'Nuboso' 'Poco nuboso']",Baja,Baja,Baja,N,14.33,14.33,10.0,0.02,0.0,89.17,5.83
+211,braojos,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Alta,['N' 'SE'],16.0,16.0,17.71,3.0,0.0,91.57,7.0
+212,braojos,2024-08-30,tarde,['Nubes altas' 'Poco nuboso'],Muy alta,Baja,Alta,SE,25.5,25.5,14.5,0.52,0.0,49.33,7.5
+213,braojos,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['NO' 'S'],21.4,21.4,6.8,0.0,0.0,68.0,5.2
+214,braojos,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,O,15.0,15.0,5.33,0.0,0.0,94.5,2.0
+215,braojos,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NO,13.5,13.5,11.5,0.0,0.0,95.0,6.5
+216,brea-de-tajo,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,23.0,23.0,21.0,0.1,0.0,66.0,11.0
+217,brea-de-tajo,2024-08-29,tarde,Cubierto,Muy alta,Baja,Muy alta,['S' 'SE'],25.17,25.17,29.5,0.03,0.0,51.17,15.0
+218,brea-de-tajo,2024-08-29,noche,Nuboso,Muy alta,Baja,Alta,N,20.8,20.8,28.0,0.02,0.0,66.8,19.0
+219,brea-de-tajo,2024-08-30,madrugada,['Cielo despejado' 'Nuboso'],Baja,Baja,Baja,SE,17.5,17.5,17.67,0.0,0.0,91.0,12.5
+220,brea-de-tajo,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,SE,19.86,19.86,26.57,0.0,0.0,87.57,15.71
+221,brea-de-tajo,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Alta,['NE' 'SE'],27.67,27.83,24.83,0.02,0.0,48.5,12.17
+222,brea-de-tajo,2024-08-30,noche,Cielo despejado,Baja,Baja,Baja,E,21.2,21.2,20.2,0.0,0.0,70.6,14.0
+223,brea-de-tajo,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,SE,18.17,18.17,20.83,0.0,0.0,74.5,12.83
+224,brea-de-tajo,2024-08-31,mediodia,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,NE,16.5,16.5,17.5,0.0,0.0,80.5,14.0
+225,brunete,2024-08-29,mediodia,Muy nuboso con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,20.0,0.1,0.0,60.0,10.0
+226,brunete,2024-08-29,tarde,['Cubierto' 'Cubierto con lluvia'],Muy alta,Baja,Alta,SE,27.17,27.17,28.17,0.68,0.0,47.67,10.83
+227,brunete,2024-08-29,noche,['Cubierto con lluvia escasa' 'Muy nuboso'],Muy alta,Baja,Alta,['N' 'NE'],20.2,20.2,18.6,0.1,0.0,81.0,11.2
+228,brunete,2024-08-30,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,18.33,18.33,19.33,0.0,0.0,89.17,12.0
+229,brunete,2024-08-30,mediodia,['Cubierto' 'Poco nuboso'],Muy alta,Baja,Baja,NE,20.71,20.71,29.14,0.0,0.0,86.71,15.57
+230,brunete,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,NE,28.5,28.83,24.67,0.0,0.0,49.0,17.5
+231,brunete,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,22.6,22.6,14.4,0.0,0.0,75.8,9.8
+232,brunete,2024-08-31,madrugada,['Cielo despejado' 'Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,19.5,19.5,15.67,0.0,0.0,88.0,10.33
+233,brunete,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,18.0,18.0,8.5,0.0,0.0,87.0,6.0
+234,buitrago-del-lozoya,2024-08-29,mediodia,Nuboso,Muy alta,Baja,Alta,SE,23.0,23.0,23.0,0.0,0.0,68.0,7.0
+235,buitrago-del-lozoya,2024-08-29,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Muy alta,SE,24.0,24.0,26.83,0.08,0.0,58.67,13.17
+236,buitrago-del-lozoya,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,['E' 'NE' 'NO' 'S' 'SE'],19.6,19.6,10.4,0.02,0.0,57.4,5.4
+237,buitrago-del-lozoya,2024-08-30,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,['NO' 'O'],15.0,15.0,8.17,0.33,0.0,94.17,4.5
+238,buitrago-del-lozoya,2024-08-30,mediodia,['Cielo despejado' 'Cubierto' 'Cubierto con lluvia'],Muy alta,Baja,Alta,['NO' 'O'],16.57,16.57,14.43,2.71,0.0,89.86,6.29
+239,buitrago-del-lozoya,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['N' 'S'],26.83,26.83,14.67,0.18,0.0,45.67,7.17
+240,buitrago-del-lozoya,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,['N' 'S'],22.2,22.2,7.0,0.0,0.0,70.2,4.8
+241,buitrago-del-lozoya,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,['N' 'NO'],15.17,15.17,6.17,0.0,0.0,97.83,2.5
+242,buitrago-del-lozoya,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NO'],13.5,13.5,5.5,0.0,0.0,98.5,4.0
+243,bustarviejo,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,SE,21.0,21.0,27.0,0.0,0.0,66.0,5.0
+244,bustarviejo,2024-08-29,tarde,"['Cubierto con tormenta y lluvia escasa'
+ 'Intervalos nubosos con lluvia escasa']",Muy alta,Baja,Alta,S,21.83,21.83,37.83,0.08,0.0,57.67,11.33
+245,bustarviejo,2024-08-29,noche,"['Cubierto' 'Intervalos nubosos con lluvia escasa' 'Nubes altas' 'Nuboso'
+ 'Poco nuboso']",Muy alta,Baja,Alta,['S' 'SO'],17.0,17.0,13.0,0.02,0.0,64.4,8.8
+246,bustarviejo,2024-08-30,madrugada,Cubierto,Baja,Baja,Baja,SO,14.33,14.33,7.5,0.13,0.0,96.67,3.5
+247,bustarviejo,2024-08-30,mediodia,['Cielo despejado' 'Cubierto'],Muy alta,Baja,Alta,['SE' 'SO'],16.29,16.29,21.43,0.76,0.0,89.86,5.43
+248,bustarviejo,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,S,24.5,24.5,19.5,0.52,0.0,45.0,9.33
+249,bustarviejo,2024-08-30,noche,Poco nuboso,Media,Baja,Media,S,20.2,20.2,7.8,0.0,0.0,64.6,3.6
+250,bustarviejo,2024-08-31,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,SE,15.5,15.5,9.83,0.0,0.0,90.67,3.67
+251,bustarviejo,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,SO,14.5,14.5,10.5,0.0,0.0,90.5,4.5
+252,cabanillas-de-la-sierra,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,E,22.0,22.0,14.0,0.0,0.0,77.0,5.0
+253,cabanillas-de-la-sierra,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,['E' 'SO'],23.83,23.83,32.0,0.03,0.0,61.17,8.0
+254,cabanillas-de-la-sierra,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Alta,N,19.0,19.0,14.8,0.08,0.0,71.2,11.0
+255,cabanillas-de-la-sierra,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,N,16.33,16.33,18.0,0.08,0.0,92.5,10.67
+256,cabanillas-de-la-sierra,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,18.29,18.29,22.86,0.0,0.0,90.57,10.71
+257,cabanillas-de-la-sierra,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,N,27.0,27.0,18.5,0.02,0.0,45.33,10.0
+258,cabanillas-de-la-sierra,2024-08-30,noche,Poco nuboso,Media,Baja,Media,N,22.0,22.0,6.4,0.0,0.0,73.2,3.6
+259,cabanillas-de-la-sierra,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,['N' 'NE'],17.67,17.67,7.33,0.0,0.0,90.33,3.83
+260,cabanillas-de-la-sierra,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'SO'],16.5,16.5,4.0,0.0,0.0,89.0,3.5
+261,cabrera-la,2024-08-29,mediodia,Muy nuboso,Muy alta,Baja,Alta,SE,22.0,22.0,20.0,0.0,0.0,74.0,6.0
+262,cabrera-la,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,S,23.0,23.0,35.5,0.02,0.0,61.5,12.0
+263,cabrera-la,2024-08-29,noche,"['Intervalos nubosos con lluvia escasa' 'Muy nuboso'
+ 'Muy nuboso con tormenta y lluvia escasa' 'Nubes altas' 'Poco nuboso']",Muy alta,Baja,Alta,['N' 'NE' 'NO' 'O' 'SO'],18.2,18.2,11.0,0.16,0.0,65.6,9.0
+264,cabrera-la,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NO,15.67,15.67,16.67,1.03,0.0,95.17,8.5
+265,cabrera-la,2024-08-30,mediodia,['Cielo despejado' 'Cubierto' 'Cubierto con lluvia'],Muy alta,Baja,Media,NO,17.29,17.29,17.86,1.43,0.0,89.14,8.0
+266,cabrera-la,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,S,26.0,26.0,22.83,0.22,0.0,43.67,9.0
+267,cabrera-la,2024-08-30,noche,"['Cielo despejado' 'Intervalos nubosos con lluvia escasa' 'Muy nuboso'
+ 'Nubes altas' 'Poco nuboso']",Media,Baja,Media,O,21.2,21.2,5.6,0.02,0.0,70.0,3.8
+268,cabrera-la,2024-08-31,madrugada,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,SE,17.17,17.17,9.17,0.0,0.0,87.5,3.33
+269,cabrera-la,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NO,15.5,15.5,8.5,0.0,0.0,90.0,6.5
+270,cadalso-de-los-vidrios,2024-08-29,mediodia,Cubierto con lluvia escasa,Media,Baja,Media,E,24.0,24.0,23.0,0.1,0.0,55.0,9.0
+271,cadalso-de-los-vidrios,2024-08-29,tarde,Poco nuboso,Muy alta,Baja,Alta,['S' 'SE'],26.33,26.33,29.33,0.02,0.0,42.67,13.0
+272,cadalso-de-los-vidrios,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Media,N,20.6,20.6,14.6,0.08,0.0,75.6,8.2
+273,cadalso-de-los-vidrios,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,['N' 'NO'],17.0,17.0,13.17,0.0,0.0,81.83,7.5
+274,cadalso-de-los-vidrios,2024-08-30,mediodia,Poco nuboso,Muy alta,Baja,Baja,N,19.71,19.71,19.0,0.0,0.0,82.71,9.43
+275,cadalso-de-los-vidrios,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Media,NE,27.83,28.0,22.33,0.08,0.0,50.17,10.17
+276,cadalso-de-los-vidrios,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,23.4,23.4,15.4,0.02,0.0,64.0,9.0
+277,cadalso-de-los-vidrios,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,NE,18.67,18.67,15.83,0.0,0.0,86.17,8.67
+278,cadalso-de-los-vidrios,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NO,17.5,17.5,10.5,0.0,0.0,87.5,7.5
+279,camarma-de-esteruelas,2024-08-29,mediodia,Cubierto con tormenta y lluvia escasa,Muy alta,Baja,Alta,SE,25.0,25.0,17.0,0.1,0.0,64.0,8.0
+280,camarma-de-esteruelas,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,26.5,26.5,28.0,0.02,0.0,50.83,13.83
+281,camarma-de-esteruelas,2024-08-29,noche,"['Cubierto' 'Cubierto con lluvia' 'Cubierto con lluvia escasa'
+ 'Intervalos nubosos con lluvia' 'Nubes altas']",Muy alta,Baja,Alta,N,21.6,21.6,27.4,0.88,0.0,79.4,15.2
+282,camarma-de-esteruelas,2024-08-30,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,NE,18.33,18.33,27.33,0.05,0.0,98.17,18.0
+283,camarma-de-esteruelas,2024-08-30,mediodia,['Cubierto' 'Muy nuboso' 'Poco nuboso'],Muy alta,Baja,Media,NE,20.14,20.14,27.29,0.0,0.0,89.57,15.57
+284,camarma-de-esteruelas,2024-08-30,tarde,Muy nuboso,Muy alta,Baja,Alta,['E' 'N'],28.5,29.67,18.17,0.02,0.0,54.67,12.83
+285,camarma-de-esteruelas,2024-08-30,noche,Poco nuboso,Media,Baja,Media,NE,22.8,22.8,16.0,0.0,0.0,81.8,10.0
+286,camarma-de-esteruelas,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,E,18.5,18.5,13.17,0.0,0.0,90.83,8.5
+287,camarma-de-esteruelas,2024-08-31,mediodia,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,['E' 'N'],17.0,17.0,14.0,0.0,0.0,93.0,9.0
+288,campo-real,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,24.0,24.0,20.0,0.1,0.0,62.0,12.0
+289,campo-real,2024-08-29,tarde,"['Cubierto con tormenta y lluvia escasa'
+ 'Intervalos nubosos con lluvia escasa'
+ 'Muy nuboso con tormenta y lluvia escasa']",Muy alta,Baja,Muy alta,S,26.0,26.0,31.33,0.1,0.0,48.83,16.83
+290,campo-real,2024-08-29,noche,"['Intervalos nubosos con lluvia escasa' 'Muy nuboso' 'Nuboso'
+ 'Nuboso con tormenta y lluvia escasa' 'Poco nuboso']",Muy alta,Baja,Alta,NO,20.2,20.2,31.0,0.04,0.0,76.8,17.2
+291,campo-real,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,['E' 'NE' 'SE'],17.33,17.33,28.83,0.0,0.0,92.17,19.67
+292,campo-real,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,E,19.86,19.86,27.29,0.0,0.0,90.0,17.71
+293,campo-real,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Alta,N,27.67,29.0,25.33,0.02,0.0,62.17,16.33
+294,campo-real,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,E,22.2,22.2,17.0,0.0,0.0,80.0,12.4
+295,campo-real,2024-08-31,madrugada,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,['E' 'SE'],18.67,18.67,25.33,0.0,0.0,83.33,17.0
+296,campo-real,2024-08-31,mediodia,['Cielo despejado' 'Nuboso'],Baja,Baja,Baja,['N' 'NE'],16.5,16.5,14.5,0.0,0.0,95.0,8.0
+297,canencia,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,E,22.0,22.0,24.0,0.0,0.0,66.0,7.0
+298,canencia,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,S,23.0,23.0,32.5,0.02,0.0,52.0,14.5
+299,canencia,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,NO,18.0,18.0,11.6,0.0,0.0,59.2,8.6
+300,canencia,2024-08-30,madrugada,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,NO,14.0,14.0,7.83,0.02,0.0,86.67,3.83
+301,canencia,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Alta,NO,16.43,16.43,19.14,0.43,0.0,89.0,7.43
+302,canencia,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['N' 'SE'],25.17,25.17,17.0,0.18,0.0,45.0,6.0
+303,canencia,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,['E' 'NO'],20.8,20.8,10.4,0.0,0.0,60.4,6.4
+304,canencia,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,['N' 'NE' 'NO'],15.33,15.33,9.33,0.0,0.0,89.83,4.83
+305,canencia,2024-08-31,mediodia,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,['NO' 'O'],14.5,14.5,13.0,0.0,0.0,88.0,8.0
+306,carabana,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,22.0,0.1,0.0,62.0,10.0
+307,carabana,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,25.5,25.5,28.83,0.03,0.0,47.67,13.83
+308,carabana,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,NE,20.6,20.6,31.4,0.08,0.0,66.6,15.8
+309,carabana,2024-08-30,madrugada,['Cubierto' 'Muy nuboso con lluvia escasa' 'Poco nuboso'],Baja,Baja,Baja,E,17.67,17.67,22.67,0.03,0.0,90.83,13.83
+310,carabana,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,E,20.0,20.0,31.29,0.0,0.0,85.29,14.86
+311,carabana,2024-08-30,tarde,['Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia escasa'],Muy alta,Baja,Alta,E,28.17,28.33,27.67,0.08,0.0,46.83,12.0
+312,carabana,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,E,21.8,21.8,21.8,0.02,0.0,67.2,14.0
+313,carabana,2024-08-31,madrugada,['Cubierto' 'Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,SE,18.5,18.5,24.33,0.0,0.0,73.17,14.33
+314,carabana,2024-08-31,mediodia,['Intervalos nubosos' 'Muy nuboso'],Baja,Baja,Baja,NE,17.0,17.0,14.0,0.0,0.0,76.0,8.0
+315,casarrubuelos,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,26.0,26.0,16.0,0.1,0.0,52.0,7.0
+316,casarrubuelos,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,SE,27.17,27.33,17.17,0.85,0.0,49.83,8.33
+317,casarrubuelos,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['N' 'NE'],21.2,21.2,22.8,0.08,0.0,84.8,15.0
+318,casarrubuelos,2024-08-30,madrugada,"['Cielo despejado' 'Cubierto' 'Muy nuboso' 'Muy nuboso con lluvia escasa'
+ 'Nuboso' 'Nuboso con lluvia escasa']",Baja,Baja,Baja,NE,18.0,18.0,22.17,0.03,0.0,99.17,14.5
+319,casarrubuelos,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.57,20.57,26.57,0.0,0.0,89.86,17.43
+320,casarrubuelos,2024-08-30,tarde,"['Cielo despejado' 'Cubierto' 'Muy nuboso' 'Nubes altas' 'Nuboso'
+ 'Poco nuboso']",Muy alta,Baja,Media,NE,28.83,29.33,31.33,0.0,0.0,50.17,19.17
+321,casarrubuelos,2024-08-30,noche,['Nubes altas' 'Nuboso'],Baja,Baja,Baja,E,24.8,25.2,22.0,0.0,0.0,63.0,14.0
+322,casarrubuelos,2024-08-31,madrugada,['Cubierto' 'Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,E,20.0,20.0,25.17,0.0,0.0,76.5,16.17
+323,casarrubuelos,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'NE'],18.0,18.0,14.5,0.0,0.0,79.5,11.5
+324,cenicientos,2024-08-29,mediodia,Cubierto con lluvia escasa,Media,Baja,Media,E,25.0,25.0,23.0,0.1,0.0,55.0,9.0
+325,cenicientos,2024-08-29,tarde,"['Cielo despejado' 'Cubierto' 'Cubierto con lluvia escasa' 'Muy nuboso'
+ 'Nuboso' 'Poco nuboso']",Muy alta,Baja,Alta,['S' 'SE'],26.83,26.83,29.33,0.02,0.0,42.67,13.0
+326,cenicientos,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Media,N,20.8,20.8,14.6,0.08,0.0,75.6,8.2
+327,cenicientos,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,['N' 'NO'],17.67,17.67,13.17,0.0,0.0,81.83,7.5
+328,cenicientos,2024-08-30,mediodia,['Cubierto' 'Poco nuboso'],Muy alta,Baja,Baja,N,19.86,19.86,19.0,0.0,0.0,82.71,9.43
+329,cenicientos,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Media,NE,28.17,28.33,22.33,0.08,0.0,50.17,10.17
+330,cenicientos,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,24.2,24.4,15.4,0.02,0.0,64.0,9.0
+331,cenicientos,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,NE,19.33,19.33,15.83,0.0,0.0,86.17,8.67
+332,cenicientos,2024-08-31,mediodia,['Nubes altas' 'Nuboso'],Baja,Baja,Baja,NO,18.0,18.0,10.5,0.0,0.0,87.5,7.5
+333,cercedilla,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,SE,22.0,22.0,34.0,0.0,0.0,62.0,10.0
+334,cercedilla,2024-08-29,tarde,['Cubierto' 'Nubes altas'],Muy alta,Baja,Alta,S,23.33,23.33,35.5,0.02,0.0,53.67,14.5
+335,cercedilla,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,NE,18.2,18.2,12.2,0.02,0.0,60.0,5.4
+336,cercedilla,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,E,15.67,15.67,12.0,0.0,0.0,79.33,5.83
+337,cercedilla,2024-08-30,mediodia,Cielo despejado,Muy alta,Baja,Alta,N,18.29,18.29,23.14,0.73,0.0,78.14,6.14
+338,cercedilla,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['SE' 'SO'],25.33,25.33,20.83,0.42,0.0,44.0,9.17
+339,cercedilla,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,E,20.8,20.8,14.8,0.02,0.0,62.8,6.8
+340,cercedilla,2024-08-31,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,SE,16.17,16.17,18.67,0.0,0.0,82.83,8.0
+341,cercedilla,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],15.0,15.0,8.5,0.0,0.0,77.5,4.5
+342,cervera-de-buitrago,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,SE,23.0,23.0,16.0,0.0,0.0,74.0,5.0
+343,cervera-de-buitrago,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,SE,24.17,24.17,24.67,0.02,0.0,65.5,10.33
+344,cervera-de-buitrago,2024-08-29,noche,Muy nuboso,Muy alta,Baja,Alta,['NE' 'NO'],19.8,19.8,10.4,0.08,0.0,73.0,5.2
+345,cervera-de-buitrago,2024-08-30,madrugada,Nuboso,Baja,Baja,Baja,NO,16.17,16.17,16.67,0.12,0.0,94.33,8.5
+346,cervera-de-buitrago,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,N,18.14,18.14,18.57,0.0,0.0,88.86,8.43
+347,cervera-de-buitrago,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['NO' 'S'],27.5,27.5,20.0,0.08,0.0,44.83,9.0
+348,cervera-de-buitrago,2024-08-30,noche,"['Cielo despejado' 'Intervalos nubosos con lluvia escasa' 'Muy nuboso'
+ 'Nubes altas' 'Poco nuboso']",Media,Baja,Media,['NE' 'NO' 'O' 'S' 'SE'],22.4,22.4,4.2,0.02,0.0,73.6,2.6
+349,cervera-de-buitrago,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,N,17.5,17.5,6.83,0.0,0.0,93.33,2.5
+350,cervera-de-buitrago,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,N,15.5,15.5,10.5,0.0,0.0,95.5,8.0
+351,chapineria,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,21.0,0.1,0.0,56.0,11.0
+352,chapineria,2024-08-29,tarde,Muy nuboso,Muy alta,Baja,Alta,SE,27.67,27.83,25.83,0.07,0.0,43.83,10.5
+353,chapineria,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Media,NE,21.0,21.0,16.6,0.0,0.0,64.0,11.6
+354,chapineria,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NE,18.33,18.33,15.83,0.0,0.0,77.17,7.5
+355,chapineria,2024-08-30,mediodia,['Cubierto' 'Muy nuboso'],Muy alta,Baja,Baja,E,20.57,20.57,30.71,0.0,0.0,83.57,16.71
+356,chapineria,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,NE,29.0,29.17,27.17,0.07,0.0,45.0,15.33
+357,chapineria,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,23.2,23.2,19.6,0.02,0.0,67.0,11.6
+358,chapineria,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,NE,19.33,19.33,19.0,0.0,0.0,84.83,12.33
+359,chapineria,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NO,18.0,18.0,9.0,0.0,0.0,85.0,5.5
+360,chinchon,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,20.0,0.1,0.0,59.0,10.0
+361,chinchon,2024-08-29,tarde,['Cubierto' 'Poco nuboso'],Muy alta,Baja,Alta,S,26.17,26.17,31.83,0.02,0.0,45.0,16.5
+362,chinchon,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,20.2,20.2,25.4,0.12,0.0,73.0,16.6
+363,chinchon,2024-08-30,madrugada,['Muy nuboso' 'Muy nuboso con lluvia escasa'],Baja,Baja,Baja,SE,17.17,17.17,30.83,0.03,0.0,93.83,19.83
+364,chinchon,2024-08-30,mediodia,Poco nuboso,Muy alta,Baja,Baja,SE,19.86,19.86,37.29,0.0,0.0,86.71,21.86
+365,chinchon,2024-08-30,tarde,Muy nuboso con lluvia escasa,Muy alta,Baja,Alta,E,28.33,28.67,31.67,0.08,0.0,47.33,16.17
+366,chinchon,2024-08-30,noche,"['Cielo despejado' 'Cubierto con lluvia escasa' 'Nubes altas' 'Nuboso'
+ 'Poco nuboso']",Baja,Baja,Baja,E,22.8,22.8,29.2,0.02,0.0,68.2,18.6
+367,chinchon,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,SE,18.67,18.67,39.67,0.0,0.0,81.33,26.33
+368,chinchon,2024-08-31,mediodia,Cielo despejado,Baja,Baja,Baja,['N' 'NE'],17.0,17.0,13.0,0.0,0.0,91.5,7.5
+369,ciempozuelos,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,26.0,26.0,17.0,0.1,0.0,53.0,7.0
+370,ciempozuelos,2024-08-29,tarde,Muy nuboso,Muy alta,Baja,Alta,S,27.33,27.33,36.83,0.02,0.0,43.5,15.0
+371,ciempozuelos,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Alta,['N' 'NE'],20.6,20.6,24.2,0.14,0.0,77.4,20.4
+372,ciempozuelos,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,N,17.67,17.67,18.5,0.0,0.0,94.33,12.67
+373,ciempozuelos,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,N,20.43,20.43,23.86,0.0,0.0,89.57,12.29
+374,ciempozuelos,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Media,N,29.0,30.67,29.0,0.08,0.0,58.83,19.33
+375,ciempozuelos,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,N,24.2,24.6,14.4,0.02,0.0,71.2,8.4
+376,ciempozuelos,2024-08-31,madrugada,['Cubierto' 'Muy nuboso'],Baja,Baja,Baja,E,19.0,19.0,19.83,0.0,0.0,82.0,11.17
+377,ciempozuelos,2024-08-31,mediodia,Nuboso,Baja,Baja,Baja,N,17.5,17.5,11.5,0.0,0.0,91.5,9.5
+378,cobena,2024-08-29,mediodia,Cubierto con tormenta y lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,15.0,0.1,0.0,67.0,8.0
+379,cobena,2024-08-29,tarde,['Cubierto con tormenta y lluvia escasa' 'Muy nuboso' 'Nubes altas'],Muy alta,Baja,Alta,S,26.17,26.33,27.83,0.03,0.0,52.0,10.83
+380,cobena,2024-08-29,noche,Nuboso,Muy alta,Baja,Alta,NE,21.4,21.4,23.4,0.4,0.0,68.8,15.8
+381,cobena,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NE,18.33,18.33,20.17,0.17,0.0,94.5,14.5
+382,cobena,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.29,20.29,23.43,0.0,0.0,88.71,13.29
+383,cobena,2024-08-30,tarde,['Muy nuboso' 'Poco nuboso'],Muy alta,Baja,Alta,NE,28.0,28.33,20.17,0.02,0.0,51.67,11.33
+384,cobena,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NE,22.6,22.6,15.6,0.0,0.0,81.6,9.4
+385,cobena,2024-08-31,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,E,19.0,19.0,13.17,0.0,0.0,88.33,9.67
+386,cobena,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'N'],17.0,17.0,16.0,0.0,0.0,90.5,11.0
+387,collado-mediano,2024-08-29,mediodia,Muy nuboso,Muy alta,Baja,Alta,E,24.0,24.0,27.0,0.0,0.0,65.0,10.0
+388,collado-mediano,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,['S' 'SE'],25.17,25.17,31.0,0.02,0.0,51.17,15.67
+389,collado-mediano,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Alta,NE,19.0,19.0,11.8,0.02,0.0,58.2,6.6
+390,collado-mediano,2024-08-30,madrugada,['Muy nuboso' 'Nubes altas'],Baja,Baja,Baja,['NE' 'NO'],17.17,17.17,9.33,0.0,0.0,75.5,4.33
+391,collado-mediano,2024-08-30,mediodia,['Cielo despejado' 'Cubierto' 'Poco nuboso'],Muy alta,Baja,Alta,E,19.71,19.71,26.0,0.43,0.0,83.71,12.29
+392,collado-mediano,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['E' 'SO'],26.83,26.83,17.0,0.35,0.0,46.17,10.17
+393,collado-mediano,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NE,22.4,22.4,14.4,0.0,0.0,66.8,9.2
+394,collado-mediano,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,E,17.83,17.83,14.67,0.0,0.0,86.5,9.0
+395,collado-mediano,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,17.0,17.0,8.5,0.0,0.0,82.0,6.0
+396,collado-villalba,2024-08-29,mediodia,Nuboso con tormenta y lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,25.5,0.1,0.0,68.0,10.5
+397,collado-villalba,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,SE,25.83,26.0,29.83,0.03,0.0,54.0,16.0
+398,collado-villalba,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,19.8,19.8,13.4,0.12,0.0,64.8,8.0
+399,collado-villalba,2024-08-30,madrugada,"['Cubierto' 'Intervalos nubosos con lluvia escasa' 'Muy nuboso'
+ 'Muy nuboso con lluvia escasa' 'Nuboso' 'Poco nuboso']",Baja,Baja,Baja,NE,18.0,18.0,19.67,0.03,0.0,75.83,10.83
+400,collado-villalba,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,20.29,20.29,26.57,0.0,0.0,84.0,15.0
+401,collado-villalba,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,E,27.5,27.5,21.0,0.03,0.0,45.0,8.33
+402,collado-villalba,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,22.8,22.8,15.4,0.0,0.0,66.0,9.6
+403,collado-villalba,2024-08-31,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,E,18.67,18.67,14.83,0.0,0.0,81.67,8.67
+404,collado-villalba,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,17.5,17.5,9.5,0.0,0.0,85.5,8.5
+405,colmenar-de-oreja,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,23.0,0.1,0.0,60.0,10.0
+406,colmenar-de-oreja,2024-08-29,tarde,"['Cielo despejado' 'Cubierto' 'Cubierto con tormenta y lluvia escasa'
+ 'Intervalos nubosos con lluvia escasa' 'Muy nuboso' 'Poco nuboso']",Muy alta,Baja,Alta,S,26.33,26.33,32.0,0.03,0.0,45.83,16.83
+407,colmenar-de-oreja,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,20.2,20.2,29.8,0.08,0.0,69.4,18.6
+408,colmenar-de-oreja,2024-08-30,madrugada,['Muy nuboso con lluvia escasa' 'Nuboso' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE' 'SE'],17.33,17.33,24.0,0.03,0.0,93.0,16.83
+409,colmenar-de-oreja,2024-08-30,mediodia,['Cubierto' 'Nubes altas'],Muy alta,Baja,Baja,SE,20.14,20.14,32.29,0.0,0.0,87.43,19.71
+410,colmenar-de-oreja,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Alta,E,28.5,28.83,31.33,0.02,0.0,48.0,16.67
+411,colmenar-de-oreja,2024-08-30,noche,['Cubierto' 'Intervalos nubosos' 'Nubes altas' 'Nuboso' 'Poco nuboso'],Baja,Baja,Baja,E,22.8,22.8,25.0,0.0,0.0,70.8,16.8
+412,colmenar-de-oreja,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,['E' 'SE'],18.83,18.83,31.0,0.0,0.0,82.5,20.83
+413,colmenar-de-oreja,2024-08-31,mediodia,Poco nuboso,Baja,Baja,Baja,['N' 'NE'],17.0,17.0,12.0,0.0,0.0,96.0,8.0
+414,colmenar-del-arroyo,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,19.0,0.1,0.0,58.0,11.0
+415,colmenar-del-arroyo,2024-08-29,tarde,['Intervalos nubosos con lluvia escasa' 'Muy nuboso'],Muy alta,Baja,Alta,SE,27.5,27.5,25.17,0.05,0.0,45.67,10.5
+416,colmenar-del-arroyo,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Media,NE,20.8,20.8,17.2,0.08,0.0,62.2,11.2
+417,colmenar-del-arroyo,2024-08-30,madrugada,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,18.33,18.33,20.5,0.03,0.0,73.5,11.33
+418,colmenar-del-arroyo,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.57,20.57,32.71,0.0,0.0,83.0,18.0
+419,colmenar-del-arroyo,2024-08-30,tarde,['Intervalos nubosos con lluvia escasa' 'Nuboso con lluvia escasa'],Muy alta,Baja,Alta,['E' 'NE'],28.5,28.83,24.5,0.08,0.0,47.83,15.5
+420,colmenar-del-arroyo,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,E,22.6,22.8,16.4,0.02,0.0,72.2,10.4
+421,colmenar-del-arroyo,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,NE,19.33,19.33,20.17,0.0,0.0,85.0,13.33
+422,colmenar-del-arroyo,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,18.0,18.0,5.5,0.0,0.0,84.0,6.5
+423,colmenar-viejo,2024-08-29,mediodia,Nuboso con tormenta y lluvia escasa,Muy alta,Baja,Alta,E,23.0,23.0,21.0,0.1,0.0,71.0,9.0
+424,colmenar-viejo,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,S,24.17,24.17,28.33,0.1,0.0,58.83,12.17
+425,colmenar-viejo,2024-08-29,noche,"['Cubierto' 'Cubierto con lluvia escasa'
+ 'Intervalos nubosos con lluvia escasa' 'Nubes altas' 'Poco nuboso']",Muy alta,Baja,Alta,N,19.4,19.4,15.0,0.14,0.0,70.8,9.8
+426,colmenar-viejo,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,['N' 'NE'],17.33,17.33,24.83,0.0,0.0,85.33,15.5
+427,colmenar-viejo,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,19.71,19.71,23.71,0.0,0.0,85.29,14.86
+428,colmenar-viejo,2024-08-30,tarde,['Intervalos nubosos con lluvia escasa' 'Poco nuboso'],Muy alta,Baja,Alta,E,26.5,26.5,15.83,0.03,0.0,51.0,8.33
+429,colmenar-viejo,2024-08-30,noche,Nubes altas,Media,Baja,Media,NE,21.6,21.6,13.4,0.0,0.0,74.4,9.2
+430,colmenar-viejo,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,NE,19.17,19.17,13.17,0.0,0.0,88.5,8.83
+431,colmenar-viejo,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NO'],18.0,18.0,5.0,0.0,0.0,87.0,7.0
+432,colmenarejo,2024-08-29,mediodia,Muy nuboso con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,27.0,0.1,0.0,62.0,10.0
+433,colmenarejo,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,25.17,25.17,31.5,0.02,0.0,50.33,17.33
+434,colmenarejo,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,19.6,19.6,15.0,0.1,0.0,57.2,8.6
+435,colmenarejo,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,N,18.0,18.0,12.83,0.03,0.0,74.33,8.33
+436,colmenarejo,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,19.71,19.71,23.0,0.0,0.0,82.86,10.57
+437,colmenarejo,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['E' 'N' 'SE'],27.5,27.5,19.83,0.02,0.0,45.17,9.0
+438,colmenarejo,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,N,21.8,21.8,12.8,0.02,0.0,64.2,8.0
+439,colmenarejo,2024-08-31,madrugada,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,N,18.67,18.67,10.0,0.0,0.0,80.67,6.17
+440,colmenarejo,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,17.5,17.5,10.0,0.0,0.0,85.0,8.5
+441,corpa,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,SE,24.0,24.0,21.0,0.0,0.0,64.0,12.0
+442,corpa,2024-08-29,tarde,"['Cubierto' 'Cubierto con tormenta y lluvia escasa' 'Muy nuboso'
+ 'Nubes altas' 'Nuboso' 'Poco nuboso']",Muy alta,Baja,Muy alta,S,25.0,25.0,31.0,0.02,0.0,51.17,16.83
+443,corpa,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Alta,N,20.0,20.0,24.8,0.02,0.0,74.2,14.4
+444,corpa,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,E,17.17,17.17,25.0,0.0,0.0,92.5,17.67
+445,corpa,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,E,19.14,19.14,26.14,0.0,0.0,90.71,16.14
+446,corpa,2024-08-30,tarde,['Nuboso' 'Poco nuboso'],Muy alta,Baja,Alta,NE,27.17,28.33,22.83,0.02,0.0,63.83,13.5
+447,corpa,2024-08-30,noche,Cielo despejado,Baja,Baja,Baja,SE,21.0,21.0,17.8,0.0,0.0,82.0,11.2
+448,corpa,2024-08-31,madrugada,Nuboso,Baja,Baja,Baja,['E' 'SE'],17.83,17.83,22.83,0.0,0.0,84.0,16.0
+449,corpa,2024-08-31,mediodia,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,['E' 'NE'],16.0,16.0,11.0,0.0,0.0,95.0,5.5
+450,coslada,2024-08-29,mediodia,Muy nuboso con tormenta y lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,16.0,0.1,0.0,56.0,9.0
+451,coslada,2024-08-29,tarde,['Cubierto' 'Muy nuboso'],Muy alta,Baja,Muy alta,['E' 'S'],26.83,26.83,28.0,0.03,0.0,48.17,11.5
+452,coslada,2024-08-29,noche,"['Muy nuboso' 'Muy nuboso con lluvia escasa' 'Nubes altas' 'Nuboso'
+ 'Poco nuboso']",Muy alta,Baja,Alta,['N' 'NE'],21.6,21.6,25.8,0.2,0.0,66.6,17.8
+453,coslada,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NE,19.33,19.33,21.17,0.0,0.0,94.5,14.17
+454,coslada,2024-08-30,mediodia,Muy nuboso,Muy alta,Baja,Baja,NE,20.71,20.71,25.86,0.0,0.0,89.43,14.29
+455,coslada,2024-08-30,tarde,['Intervalos nubosos con lluvia escasa' 'Muy nuboso con lluvia escasa'],Muy alta,Baja,Media,NE,28.17,29.17,25.17,0.08,0.0,55.33,17.17
+456,coslada,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NE,23.6,23.6,13.4,0.02,0.0,79.4,10.4
+457,coslada,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,['E' 'NE'],19.83,19.83,14.0,0.0,0.0,83.5,8.83
+458,coslada,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NE,18.0,18.0,14.0,0.0,0.0,93.0,9.5
+459,cubas-de-la-sagra,2024-08-29,mediodia,Muy nuboso con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,16.0,0.1,0.0,52.0,8.0
+460,cubas-de-la-sagra,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,['E' 'SE'],27.17,27.17,22.17,0.18,0.0,45.0,8.17
+461,cubas-de-la-sagra,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Alta,NE,21.2,21.2,25.4,0.02,0.0,80.6,15.4
+462,cubas-de-la-sagra,2024-08-30,madrugada,"['Cielo despejado' 'Cubierto' 'Muy nuboso' 'Muy nuboso con lluvia escasa'
+ 'Nuboso' 'Poco nuboso']",Baja,Baja,Baja,NE,18.0,18.0,28.0,0.02,0.0,96.0,18.33
+463,cubas-de-la-sagra,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.43,20.43,28.71,0.0,0.0,89.29,19.29
+464,cubas-de-la-sagra,2024-08-30,tarde,"['Cielo despejado' 'Cubierto' 'Intervalos nubosos con lluvia escasa'
+ 'Muy nuboso' 'Nubes altas' 'Nuboso']",Muy alta,Baja,Media,NE,28.5,28.83,30.67,0.02,0.0,50.0,19.5
+465,cubas-de-la-sagra,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,E,24.8,25.2,24.0,0.02,0.0,62.0,14.8
+466,cubas-de-la-sagra,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,E,19.83,19.83,27.33,0.0,0.0,76.0,18.83
+467,cubas-de-la-sagra,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'NE'],18.0,18.0,14.5,0.0,0.0,79.0,11.0
+468,daganzo-de-arriba,2024-08-29,mediodia,Cubierto con tormenta y lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,15.0,0.1,0.0,64.0,8.0
+469,daganzo-de-arriba,2024-08-29,tarde,['Cubierto' 'Nubes altas'],Muy alta,Baja,Alta,['E' 'S' 'SO'],26.5,26.5,29.33,0.03,0.0,49.33,10.33
+470,daganzo-de-arriba,2024-08-29,noche,"['Cubierto con lluvia' 'Cubierto con lluvia escasa'
+ 'Intervalos nubosos con lluvia escasa' 'Nubes altas' 'Nuboso']",Muy alta,Baja,Alta,['E' 'NE'],21.6,21.6,20.0,1.66,0.0,69.4,15.8
+471,daganzo-de-arriba,2024-08-30,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,N,18.33,18.33,22.33,0.13,0.0,94.83,14.83
+472,daganzo-de-arriba,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.29,20.29,24.86,0.0,0.0,87.86,14.14
+473,daganzo-de-arriba,2024-08-30,tarde,Cubierto con lluvia escasa,Muy alta,Baja,Media,NE,28.33,29.33,21.33,0.08,0.0,53.0,12.67
+474,daganzo-de-arriba,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,23.2,23.2,13.8,0.02,0.0,85.2,9.6
+475,daganzo-de-arriba,2024-08-31,madrugada,['Cielo despejado' 'Cubierto'],Baja,Baja,Baja,NE,19.0,19.0,12.83,0.0,0.0,91.67,8.33
+476,daganzo-de-arriba,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'NE'],17.0,17.0,9.5,0.0,0.0,94.5,9.0
+477,escorial-el,2024-08-29,mediodia,Cubierto con lluvia escasa,Muy alta,Baja,Alta,E,23.0,23.0,21.0,0.1,0.0,68.0,9.0
+478,escorial-el,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,25.0,25.0,31.17,0.02,0.0,50.67,16.67
+479,escorial-el,2024-08-29,noche,['Intervalos nubosos con lluvia escasa' 'Nubes altas'],Muy alta,Baja,Alta,N,19.6,19.6,13.8,0.04,0.0,60.2,7.8
+480,escorial-el,2024-08-30,madrugada,Nubes altas,Baja,Baja,Baja,N,17.17,17.17,15.67,0.02,0.0,74.17,9.17
+481,escorial-el,2024-08-30,mediodia,['Cubierto' 'Poco nuboso'],Muy alta,Baja,Media,N,19.29,19.29,21.14,0.0,0.0,83.14,11.14
+482,escorial-el,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,E,27.0,27.0,20.83,0.02,0.0,47.67,9.0
+483,escorial-el,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,21.6,21.6,12.8,0.0,0.0,68.6,8.4
+484,escorial-el,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,N,17.83,17.83,12.33,0.0,0.0,84.67,7.5
+485,escorial-el,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NO'],17.0,17.0,7.5,0.0,0.0,82.0,7.5
+486,estremera,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['E' 'SE'],23.0,23.0,18.5,0.1,0.0,66.5,9.0
+487,estremera,2024-08-29,tarde,['Cubierto' 'Intervalos nubosos con lluvia escasa'],Muy alta,Baja,Muy alta,S,25.83,25.83,29.67,0.03,0.0,46.5,15.67
+488,estremera,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,22.0,22.0,28.8,0.08,0.0,62.6,19.6
+489,estremera,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,E,18.33,18.33,15.67,0.03,0.0,90.17,12.0
+490,estremera,2024-08-30,mediodia,['Cubierto' 'Poco nuboso'],Muy alta,Baja,Baja,E,20.71,20.71,25.71,0.0,0.0,84.43,14.57
+491,estremera,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,E,28.5,28.67,26.0,0.0,0.0,45.83,12.67
+492,estremera,2024-08-30,noche,"['Cielo despejado' 'Cubierto' 'Intervalos nubosos con lluvia escasa'
+ 'Nubes altas' 'Poco nuboso']",Baja,Baja,Baja,NE,22.4,22.4,18.4,0.04,0.0,70.8,14.8
+493,estremera,2024-08-31,madrugada,['Cubierto' 'Nubes altas'],Baja,Baja,Baja,SE,19.0,19.0,22.33,0.0,0.0,79.67,13.83
+494,estremera,2024-08-31,mediodia,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,NE,17.0,17.0,8.5,0.0,0.0,87.5,9.5
+495,fresnedillas-de-la-oliva,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,23.0,23.0,21.0,0.1,0.0,65.0,11.0
+496,fresnedillas-de-la-oliva,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,['S' 'SE'],25.33,25.33,29.33,0.02,0.0,50.17,13.17
+497,fresnedillas-de-la-oliva,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,N,19.6,19.6,19.6,0.02,0.0,61.8,10.6
+498,fresnedillas-de-la-oliva,2024-08-30,madrugada,Nubes altas,Baja,Baja,Baja,NE,17.33,17.33,22.83,0.02,0.0,73.67,13.17
+499,fresnedillas-de-la-oliva,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,19.71,19.71,29.0,0.0,0.0,83.0,15.57
+500,fresnedillas-de-la-oliva,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,NE,26.83,26.83,27.0,0.02,0.0,47.83,13.5
+501,fresnedillas-de-la-oliva,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Media,Baja,Media,N,21.2,21.2,17.8,0.0,0.0,69.8,10.2
+502,fresnedillas-de-la-oliva,2024-08-31,madrugada,['Cielo despejado' 'Nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,18.5,18.5,20.17,0.0,0.0,83.5,11.0
+503,fresnedillas-de-la-oliva,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,17.5,17.5,9.5,0.0,0.0,82.5,10.5
+504,fresno-de-torote,2024-08-29,mediodia,Cubierto con tormenta y lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,15.0,0.1,0.0,64.0,8.0
+505,fresno-de-torote,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,['E' 'S' 'SO'],26.17,26.17,29.33,0.03,0.0,49.33,10.33
+506,fresno-de-torote,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,['E' 'NE'],21.4,21.4,20.0,1.66,0.0,69.4,15.8
+507,fresno-de-torote,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,N,18.33,18.33,22.33,0.13,0.0,94.83,14.83
+508,fresno-de-torote,2024-08-30,mediodia,Muy nuboso,Muy alta,Baja,Baja,NE,20.14,20.14,24.86,0.0,0.0,87.86,14.14
+509,fresno-de-torote,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Media,NE,28.17,29.0,21.33,0.08,0.0,53.0,12.67
+510,fresno-de-torote,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NE,23.0,23.0,13.8,0.02,0.0,85.2,9.6
+511,fresno-de-torote,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,NE,18.5,18.5,12.83,0.0,0.0,91.67,8.33
+512,fresno-de-torote,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'NE'],17.0,17.0,9.5,0.0,0.0,94.5,9.0
+513,fuenlabrada,2024-08-29,mediodia,['Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia escasa'],"['Alta', 'Muy alta']
+Categories (4, object): ['Baja' < 'Media' < 'Alta' < 'Muy alta']",Baja,Alta,E,24.0,24.0,15.5,0.1,0.0,60.0,9.0
+514,fuenlabrada,2024-08-29,tarde,['Cubierto' 'Cubierto con tormenta y lluvia escasa'],Muy alta,Baja,Alta,['NE' 'SE'],26.67,26.83,16.0,0.35,0.0,50.33,6.83
+515,fuenlabrada,2024-08-29,noche,['Intervalos nubosos con lluvia escasa' 'Muy nuboso con lluvia escasa'],Muy alta,Baja,Alta,['N' 'NE'],20.0,20.0,23.4,0.1,0.0,85.8,16.2
+516,fuenlabrada,2024-08-30,madrugada,Cubierto,Baja,Baja,Baja,NE,18.0,18.0,25.5,0.03,0.0,96.83,16.5
+517,fuenlabrada,2024-08-30,mediodia,Muy nuboso,Muy alta,Baja,Baja,NE,20.14,20.14,28.0,0.0,0.0,89.29,18.43
+518,fuenlabrada,2024-08-30,tarde,"['Cielo despejado' 'Cubierto' 'Muy nuboso' 'Nubes altas' 'Nuboso'
+ 'Poco nuboso']",Muy alta,Baja,Media,NE,28.0,28.17,31.67,0.0,0.0,48.83,19.83
+519,fuenlabrada,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,23.8,24.0,22.2,0.0,0.0,64.4,14.0
+520,fuenlabrada,2024-08-31,madrugada,['Cubierto' 'Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,E,19.33,19.33,26.17,0.0,0.0,77.0,17.0
+521,fuenlabrada,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NE,18.0,18.0,16.5,0.0,0.0,79.5,12.5
+522,fuente-el-saz-de-jarama,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,E,23.0,23.0,13.5,0.0,0.0,72.0,7.0
+523,fuente-el-saz-de-jarama,2024-08-29,tarde,['Cubierto' 'Nubes altas'],Muy alta,Baja,Muy alta,O,26.17,26.33,22.83,0.07,0.0,55.0,7.0
+524,fuente-el-saz-de-jarama,2024-08-29,noche,['Cubierto' 'Poco nuboso'],Muy alta,Baja,Alta,NE,21.4,21.4,20.6,0.04,0.0,71.2,13.4
+525,fuente-el-saz-de-jarama,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,['E' 'N'],18.33,18.33,18.33,0.07,0.0,90.5,12.0
+526,fuente-el-saz-de-jarama,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,E,20.29,20.29,20.86,0.0,0.0,89.14,11.71
+527,fuente-el-saz-de-jarama,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Media,['N' 'NE'],28.5,29.17,16.33,0.0,0.0,50.83,9.5
+528,fuente-el-saz-de-jarama,2024-08-30,noche,Poco nuboso,Media,Baja,Media,NE,23.2,23.2,14.4,0.0,0.0,76.2,8.0
+529,fuente-el-saz-de-jarama,2024-08-31,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,E,19.17,19.17,13.0,0.0,0.0,83.0,10.0
+530,fuente-el-saz-de-jarama,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'N'],17.5,17.5,13.0,0.0,0.0,89.5,7.0
+531,fuentiduena-de-tajo,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,24.0,24.0,18.0,0.1,0.0,60.0,6.0
+532,fuentiduena-de-tajo,2024-08-29,tarde,['Cubierto' 'Poco nuboso'],Muy alta,Baja,Muy alta,S,27.17,27.17,29.83,0.03,0.0,44.5,15.17
+533,fuentiduena-de-tajo,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['NE' 'S'],22.2,22.2,26.8,0.08,0.0,58.6,17.2
+534,fuentiduena-de-tajo,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,SE,19.0,19.0,35.5,0.03,0.0,89.33,22.17
+535,fuentiduena-de-tajo,2024-08-30,mediodia,['Muy nuboso' 'Poco nuboso'],Muy alta,Baja,Baja,SE,20.86,20.86,36.43,0.0,0.0,83.43,24.29
+536,fuentiduena-de-tajo,2024-08-30,tarde,['Cubierto' 'Poco nuboso'],Muy alta,Baja,Alta,E,29.17,29.83,25.5,0.0,0.0,48.5,13.67
+537,fuentiduena-de-tajo,2024-08-30,noche,Muy nuboso,Baja,Baja,Baja,E,23.2,23.2,14.8,0.08,0.0,70.6,11.6
+538,fuentiduena-de-tajo,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,SE,19.83,19.83,31.17,0.0,0.0,78.33,19.5
+539,fuentiduena-de-tajo,2024-08-31,mediodia,['Nubes altas' 'Nuboso'],Baja,Baja,Baja,E,18.0,18.0,8.0,0.0,0.0,88.0,8.5
+540,galapagar,2024-08-29,mediodia,Muy nuboso con lluvia escasa,Muy alta,Baja,Alta,E,23.0,23.0,27.0,0.1,0.0,62.0,10.0
+541,galapagar,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,24.67,24.67,31.5,0.02,0.0,50.33,17.33
+542,galapagar,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,19.2,19.2,15.0,0.1,0.0,57.2,8.6
+543,galapagar,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,N,17.67,17.67,12.83,0.03,0.0,74.33,8.33
+544,galapagar,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,19.71,19.71,23.0,0.0,0.0,82.86,10.57
+545,galapagar,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['E' 'N' 'SE'],27.0,27.0,19.83,0.02,0.0,45.17,9.0
+546,galapagar,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,N,21.6,21.6,12.8,0.02,0.0,64.2,8.0
+547,galapagar,2024-08-31,madrugada,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,N,18.33,18.33,10.0,0.0,0.0,80.67,6.17
+548,galapagar,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,17.0,17.0,10.0,0.0,0.0,85.0,8.5
+549,garganta-de-los-montes,2024-08-29,mediodia,Muy nuboso,Muy alta,Baja,Alta,SE,22.0,22.0,24.0,0.0,0.0,70.0,7.0
+550,garganta-de-los-montes,2024-08-29,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Muy alta,S,22.83,22.83,30.5,0.08,0.0,61.17,15.0
+551,garganta-de-los-montes,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,O,18.0,18.0,10.2,0.02,0.0,60.4,7.0
+552,garganta-de-los-montes,2024-08-30,madrugada,Nuboso,Baja,Baja,Baja,S,14.5,14.5,8.83,0.37,0.0,95.33,4.17
+553,garganta-de-los-montes,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Alta,SO,16.43,16.43,18.14,2.29,0.0,91.43,7.14
+554,garganta-de-los-montes,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,N,25.33,25.33,15.33,0.18,0.0,47.83,9.0
+555,garganta-de-los-montes,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Media,Baja,Media,SE,20.8,20.8,5.6,0.0,0.0,73.4,4.0
+556,garganta-de-los-montes,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,S,15.5,15.5,5.17,0.0,0.0,96.33,3.0
+557,garganta-de-los-montes,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,SO,14.5,14.5,6.0,0.0,0.0,97.5,5.0
+558,gargantilla-del-lozoya-y-pinilla-de-buitrago,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,SE,22.0,22.0,24.0,0.0,0.0,69.0,4.0
+559,gargantilla-del-lozoya-y-pinilla-de-buitrago,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,['S' 'SE'],22.83,22.83,30.5,0.02,0.0,57.0,16.5
+560,gargantilla-del-lozoya-y-pinilla-de-buitrago,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,NO,17.8,17.8,12.2,0.0,0.0,57.0,8.2
+561,gargantilla-del-lozoya-y-pinilla-de-buitrago,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NO,14.17,14.17,10.17,0.05,0.0,90.5,5.67
+562,gargantilla-del-lozoya-y-pinilla-de-buitrago,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Alta,NO,16.29,16.29,17.86,2.29,0.0,91.71,7.14
+563,gargantilla-del-lozoya-y-pinilla-de-buitrago,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['E' 'S'],25.33,25.33,13.33,0.18,0.0,50.83,6.17
+564,gargantilla-del-lozoya-y-pinilla-de-buitrago,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NO,20.8,20.8,10.6,0.0,0.0,65.6,7.6
+565,gargantilla-del-lozoya-y-pinilla-de-buitrago,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,O,14.83,14.83,7.83,0.0,0.0,96.0,5.17
+566,gargantilla-del-lozoya-y-pinilla-de-buitrago,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['NE' 'NO'],14.0,14.0,4.5,0.0,0.0,98.5,4.0
+567,gascones,2024-08-29,mediodia,Nuboso,Muy alta,Baja,Alta,S,23.0,23.0,23.0,0.0,0.0,68.0,8.0
+568,gascones,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,23.83,23.83,29.0,0.02,0.0,57.17,15.5
+569,gascones,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,NE,18.8,18.8,14.8,0.0,0.0,58.6,7.6
+570,gascones,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NO,14.67,14.67,9.17,0.2,0.0,89.67,4.67
+571,gascones,2024-08-30,mediodia,['Cielo despejado' 'Cubierto' 'Cubierto con lluvia'],Muy alta,Baja,Alta,NO,16.29,16.29,16.86,2.14,0.0,91.71,7.43
+572,gascones,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,S,26.33,26.33,13.17,0.35,0.0,48.17,5.5
+573,gascones,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,['N' 'S'],21.6,21.6,8.4,0.0,0.0,69.4,6.6
+574,gascones,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,['NE' 'NO'],15.17,15.17,5.17,0.0,0.0,95.67,3.0
+575,gascones,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NO'],13.5,13.5,9.0,0.0,0.0,95.0,5.5
+576,getafe,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,18.0,0.1,0.0,58.0,9.0
+577,getafe,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,E,26.67,26.83,21.33,0.12,0.0,50.83,7.0
+578,getafe,2024-08-29,noche,Nuboso con lluvia escasa,Muy alta,Baja,Alta,N,20.6,20.6,20.2,0.08,0.0,71.0,12.8
+579,getafe,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NE,18.5,18.5,23.17,0.03,0.0,87.83,13.17
+580,getafe,2024-08-30,mediodia,Muy nuboso,Muy alta,Baja,Baja,NE,20.57,20.57,25.0,0.0,0.0,86.71,14.0
+581,getafe,2024-08-30,tarde,Cubierto,Muy alta,Baja,Media,NE,28.0,28.33,27.5,0.0,0.0,51.17,16.5
+582,getafe,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,23.4,23.4,16.2,0.0,0.0,77.2,10.6
+583,getafe,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,E,19.83,19.83,18.67,0.0,0.0,79.83,12.17
+584,getafe,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NE,18.0,18.0,10.5,0.0,0.0,84.5,7.0
+585,grinon,2024-08-29,mediodia,Muy nuboso con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,16.0,0.1,0.0,52.0,8.0
+586,grinon,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,['E' 'SE'],26.83,26.83,22.17,0.18,0.0,45.0,8.17
+587,grinon,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Alta,NE,20.6,20.6,25.4,0.02,0.0,80.6,15.4
+588,grinon,2024-08-30,madrugada,Cubierto,Baja,Baja,Baja,NE,18.0,18.0,28.0,0.02,0.0,96.0,18.33
+589,grinon,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.14,20.14,28.71,0.0,0.0,89.29,19.29
+590,grinon,2024-08-30,tarde,"['Cielo despejado' 'Cubierto' 'Intervalos nubosos con lluvia escasa'
+ 'Muy nuboso' 'Nubes altas' 'Nuboso']",Muy alta,Baja,Media,NE,28.33,28.5,30.67,0.02,0.0,50.0,19.5
+591,grinon,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,E,24.6,24.8,24.0,0.02,0.0,62.0,14.8
+592,grinon,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,E,19.5,19.5,27.33,0.0,0.0,76.0,18.83
+593,grinon,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'NE'],18.0,18.0,14.5,0.0,0.0,79.0,11.0
+594,guadalix-de-la-sierra,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,E,22.0,22.0,19.0,0.0,0.0,72.0,8.0
+595,guadalix-de-la-sierra,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,S,24.5,24.5,33.17,0.08,0.0,57.0,11.0
+596,guadalix-de-la-sierra,2024-08-29,noche,Muy nuboso,Muy alta,Baja,Alta,N,19.4,19.4,16.2,0.0,0.0,61.8,13.2
+597,guadalix-de-la-sierra,2024-08-30,madrugada,"['Cubierto' 'Cubierto con lluvia' 'Cubierto con lluvia escasa'
+ 'Intervalos nubosos' 'Muy nuboso' 'Nuboso']",Baja,Baja,Baja,N,16.67,16.67,15.33,1.02,0.0,93.5,9.67
+598,guadalix-de-la-sierra,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,18.86,18.86,20.71,0.0,0.0,91.71,11.0
+599,guadalix-de-la-sierra,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['NE' 'NO' 'O' 'S' 'SE' 'SO'],27.0,27.0,14.5,0.08,0.0,47.33,8.33
+600,guadalix-de-la-sierra,2024-08-30,noche,Poco nuboso,Media,Baja,Media,N,22.2,22.2,8.2,0.02,0.0,71.6,5.6
+601,guadalix-de-la-sierra,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,['N' 'NE'],18.17,18.17,9.83,0.0,0.0,89.5,6.0
+602,guadalix-de-la-sierra,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['NO' 'O'],17.0,17.0,6.0,0.0,0.0,87.0,5.5
+603,guadarrama,2024-08-29,mediodia,Muy nuboso,Muy alta,Baja,Alta,E,23.0,23.0,27.0,0.0,0.0,67.0,5.0
+604,guadarrama,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,['S' 'SE'],24.5,24.5,31.0,0.02,0.0,51.67,14.17
+605,guadarrama,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,O,18.6,18.6,13.0,0.08,0.0,63.2,6.2
+606,guadarrama,2024-08-30,madrugada,Nubes altas,Baja,Baja,Baja,O,16.33,16.33,10.33,0.03,0.0,78.33,5.67
+607,guadarrama,2024-08-30,mediodia,['Cubierto' 'Poco nuboso'],Muy alta,Baja,Media,['NO' 'O' 'SE'],19.14,19.14,20.14,0.71,0.0,84.43,6.14
+608,guadarrama,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,SE,26.83,26.83,17.0,0.35,0.0,48.17,7.83
+609,guadarrama,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,O,21.8,21.8,11.2,0.02,0.0,64.8,5.6
+610,guadarrama,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,S,17.67,17.67,7.17,0.0,0.0,87.0,2.33
+611,guadarrama,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,O,17.0,17.0,11.0,0.0,0.0,83.5,7.0
+612,hiruela-la,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,SO,20.0,20.0,17.0,0.0,0.0,81.0,7.0
+613,hiruela-la,2024-08-29,tarde,['Cubierto' 'Nubes altas'],Muy alta,Baja,Muy alta,S,21.33,21.33,22.17,0.02,0.0,66.83,9.17
+614,hiruela-la,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,E,17.6,17.6,15.2,0.0,0.0,61.0,9.0
+615,hiruela-la,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,['E' 'NE'],14.5,14.5,17.67,0.62,0.0,93.17,8.33
+616,hiruela-la,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,E,16.0,16.0,17.57,0.0,0.0,92.43,9.57
+617,hiruela-la,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,SO,24.5,24.5,15.17,0.02,0.0,48.17,7.67
+618,hiruela-la,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,E,19.8,19.8,12.0,0.0,0.0,69.8,6.4
+619,hiruela-la,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,E,15.17,15.17,9.33,0.0,0.0,85.5,6.17
+620,hiruela-la,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,E,13.5,13.5,11.0,0.0,0.0,85.5,6.5
+621,horcajo-de-la-sierra-aoslos,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,S,23.0,23.0,23.0,0.0,0.0,68.0,8.0
+622,horcajo-de-la-sierra-aoslos,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,24.0,24.0,29.0,0.02,0.0,57.17,15.5
+623,horcajo-de-la-sierra-aoslos,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,NE,19.6,19.6,14.8,0.0,0.0,58.6,7.6
+624,horcajo-de-la-sierra-aoslos,2024-08-30,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,NO,15.17,15.17,9.17,0.2,0.0,89.67,4.67
+625,horcajo-de-la-sierra-aoslos,2024-08-30,mediodia,['Cielo despejado' 'Cubierto' 'Cubierto con lluvia'],Muy alta,Baja,Alta,NO,17.14,17.14,16.86,2.14,0.0,91.71,7.43
+626,horcajo-de-la-sierra-aoslos,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,S,26.33,26.33,13.17,0.35,0.0,48.17,5.5
+627,horcajo-de-la-sierra-aoslos,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,['N' 'S'],22.4,22.4,8.4,0.0,0.0,69.4,6.6
+628,horcajo-de-la-sierra-aoslos,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,['NE' 'NO'],16.0,16.0,5.17,0.0,0.0,95.67,3.0
+629,horcajo-de-la-sierra-aoslos,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NO'],14.5,14.5,9.0,0.0,0.0,95.0,5.5
+630,horcajuelo-de-la-sierra,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,SO,22.0,22.0,19.0,0.0,0.0,77.0,7.0
+631,horcajuelo-de-la-sierra,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,22.67,22.67,25.83,0.02,0.0,62.5,11.83
+632,horcajuelo-de-la-sierra,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,['E' 'NE'],18.8,18.8,14.8,0.0,0.0,59.6,8.4
+633,horcajuelo-de-la-sierra,2024-08-30,madrugada,"['Cubierto' 'Cubierto con lluvia escasa' 'Intervalos nubosos'
+ 'Muy nuboso con lluvia' 'Nuboso' 'Poco nuboso']",Baja,Baja,Baja,['E' 'NE'],15.0,15.0,13.33,0.47,0.0,94.17,6.33
+634,horcajuelo-de-la-sierra,2024-08-30,mediodia,['Cielo despejado' 'Cubierto' 'Cubierto con lluvia'],Muy alta,Baja,Alta,NE,16.57,16.57,18.0,2.71,0.0,93.0,9.14
+635,horcajuelo-de-la-sierra,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['E' 'NE' 'NO' 'O' 'S' 'SO'],25.67,25.67,14.5,0.18,0.0,48.33,7.83
+636,horcajuelo-de-la-sierra,2024-08-30,noche,['Cielo despejado' 'Cubierto' 'Muy nuboso' 'Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,21.4,21.4,9.6,0.0,0.0,71.2,6.4
+637,horcajuelo-de-la-sierra,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,NE,15.83,15.83,8.67,0.0,0.0,92.5,5.0
+638,horcajuelo-de-la-sierra,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],14.5,14.5,11.5,0.0,0.0,92.0,7.0
+639,hoyo-de-manzanares,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,23.0,23.0,25.0,0.1,0.0,67.0,13.0
+640,hoyo-de-manzanares,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,['E' 'S' 'SE'],24.5,24.5,24.33,0.18,0.0,54.0,10.83
+641,hoyo-de-manzanares,2024-08-29,noche,"['Cubierto' 'Cubierto con tormenta y lluvia escasa'
+ 'Intervalos nubosos con lluvia escasa' 'Nuboso' 'Poco nuboso']",Muy alta,Baja,Alta,['N' 'NO'],18.6,18.6,19.6,0.22,0.0,76.8,10.8
+642,hoyo-de-manzanares,2024-08-30,madrugada,['Cubierto' 'Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,17.0,17.0,30.67,0.0,0.0,81.0,18.0
+643,hoyo-de-manzanares,2024-08-30,mediodia,['Cubierto' 'Muy nuboso'],Muy alta,Baja,Media,NE,19.14,19.14,26.86,0.0,0.0,85.57,15.71
+644,hoyo-de-manzanares,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,E,26.0,26.0,24.17,0.02,0.0,44.0,9.83
+645,hoyo-de-manzanares,2024-08-30,noche,Poco nuboso,Media,Baja,Media,NE,21.2,21.2,20.8,0.0,0.0,65.4,13.0
+646,hoyo-de-manzanares,2024-08-31,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,18.33,18.33,20.0,0.0,0.0,80.33,10.83
+647,hoyo-de-manzanares,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,17.0,17.0,9.0,0.0,0.0,81.5,11.0
+648,humanes-de-madrid,2024-08-29,mediodia,Nuboso con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,17.0,0.1,0.0,56.0,9.0
+649,humanes-de-madrid,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,['NE' 'SE'],26.67,26.83,19.33,0.07,0.0,49.0,7.33
+650,humanes-de-madrid,2024-08-29,noche,Nuboso con lluvia escasa,Muy alta,Baja,Alta,NE,19.8,19.8,25.0,0.08,0.0,73.6,14.8
+651,humanes-de-madrid,2024-08-30,madrugada,Cubierto,Baja,Baja,Baja,NE,18.0,18.0,28.17,0.03,0.0,91.0,17.67
+652,humanes-de-madrid,2024-08-30,mediodia,['Cubierto' 'Muy nuboso'],Muy alta,Baja,Baja,NE,20.0,20.0,28.43,0.0,0.0,87.86,18.0
+653,humanes-de-madrid,2024-08-30,tarde,Nuboso,Muy alta,Baja,Media,NE,28.0,28.5,29.17,0.0,0.0,51.33,18.67
+654,humanes-de-madrid,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,24.2,24.4,17.0,0.0,0.0,75.2,11.6
+655,humanes-de-madrid,2024-08-31,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,E,19.33,19.33,22.67,0.0,0.0,81.5,15.0
+656,humanes-de-madrid,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NE,18.0,18.0,12.5,0.0,0.0,84.5,10.0
+657,leganes,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,17.0,0.1,0.0,56.0,9.0
+658,leganes,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,['NE' 'SE'],26.33,26.5,19.33,0.07,0.0,49.0,7.33
+659,leganes,2024-08-29,noche,Cubierto con lluvia escasa,Muy alta,Baja,Alta,NE,20.2,20.2,25.0,0.08,0.0,73.6,14.8
+660,leganes,2024-08-30,madrugada,Cubierto,Baja,Baja,Baja,NE,18.17,18.17,28.17,0.03,0.0,91.0,17.67
+661,leganes,2024-08-30,mediodia,['Cubierto' 'Muy nuboso'],Muy alta,Baja,Baja,NE,20.29,20.29,28.43,0.0,0.0,87.86,18.0
+662,leganes,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Media,NE,27.83,28.33,29.17,0.0,0.0,51.33,18.67
+663,leganes,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,23.2,23.2,17.0,0.0,0.0,75.2,11.6
+664,leganes,2024-08-31,madrugada,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,E,19.33,19.33,22.67,0.0,0.0,81.5,15.0
+665,leganes,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NE,18.0,18.0,12.5,0.0,0.0,84.5,10.0
+666,loeches,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,26.0,26.0,19.0,0.1,0.0,57.0,9.0
+667,loeches,2024-08-29,tarde,Muy nuboso,Muy alta,Baja,Muy alta,S,27.33,27.33,31.17,0.02,0.0,44.83,15.17
+668,loeches,2024-08-29,noche,Muy nuboso con lluvia escasa,Muy alta,Baja,Alta,N,21.4,21.4,26.4,0.38,0.0,74.6,18.4
+669,loeches,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,['N' 'NE'],18.17,18.17,19.5,0.0,0.0,98.33,14.0
+670,loeches,2024-08-30,mediodia,['Cubierto' 'Muy nuboso'],Muy alta,Baja,Baja,NE,20.14,20.14,33.14,0.0,0.0,87.86,16.71
+671,loeches,2024-08-30,tarde,['Nuboso' 'Poco nuboso'],Muy alta,Baja,Alta,NE,28.5,30.0,22.0,0.0,0.0,56.17,16.0
+672,loeches,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,23.2,23.2,12.0,0.02,0.0,82.8,8.2
+673,loeches,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,N,19.33,19.33,12.33,0.0,0.0,87.0,6.5
+674,loeches,2024-08-31,mediodia,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],17.0,17.0,15.0,0.0,0.0,97.0,8.5
+675,lozoya,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,E,23.0,23.0,23.0,0.0,0.0,64.0,6.0
+676,lozoya,2024-08-29,tarde,['Nubes altas' 'Nuboso'],Muy alta,Baja,Alta,S,23.83,23.83,33.17,0.02,0.0,51.0,13.33
+677,lozoya,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Media,NO,18.0,18.0,10.8,0.02,0.0,60.2,8.0
+678,lozoya,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NO,14.0,14.0,12.33,0.0,0.0,86.33,5.67
+679,lozoya,2024-08-30,mediodia,['Cielo despejado' 'Cubierto' 'Cubierto con lluvia'],Muy alta,Baja,Alta,NO,16.57,16.57,16.43,2.0,0.0,86.0,5.71
+680,lozoya,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['S' 'SE'],26.0,26.0,16.17,0.53,0.0,44.17,7.5
+681,lozoya,2024-08-30,noche,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,NO,21.4,21.4,10.6,0.0,0.0,58.0,5.6
+682,lozoya,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,N,14.67,14.67,11.67,0.0,0.0,88.83,5.5
+683,lozoya,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['NO' 'O'],14.0,14.0,11.5,0.0,0.0,87.5,7.0
+684,lozoyuela-navas-sieteiglesias,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,SE,22.0,22.0,24.0,0.0,0.0,73.0,8.0
+685,lozoyuela-navas-sieteiglesias,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,23.33,23.33,31.5,0.0,0.0,61.83,15.83
+686,lozoyuela-navas-sieteiglesias,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,S,19.0,19.0,10.4,0.06,0.0,62.0,5.0
+687,lozoyuela-navas-sieteiglesias,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NO,15.0,15.0,12.17,0.83,0.0,96.0,5.83
+688,lozoyuela-navas-sieteiglesias,2024-08-30,mediodia,['Cielo despejado' 'Cubierto' 'Cubierto con lluvia'],Muy alta,Baja,Alta,O,17.0,17.0,20.0,1.57,0.0,90.43,8.43
+689,lozoyuela-navas-sieteiglesias,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,S,26.33,26.33,18.33,0.35,0.0,45.17,9.5
+690,lozoyuela-navas-sieteiglesias,2024-08-30,noche,Poco nuboso,Media,Baja,Media,O,21.8,21.8,6.6,0.0,0.0,72.4,4.6
+691,lozoyuela-navas-sieteiglesias,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,O,16.67,16.67,6.33,0.0,0.0,97.17,2.17
+692,lozoyuela-navas-sieteiglesias,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NO,15.0,15.0,10.5,0.0,0.0,98.5,6.5
+693,madarcos,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,S,23.0,23.0,23.0,0.0,0.0,68.0,8.0
+694,madarcos,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,23.67,23.67,29.0,0.02,0.0,57.17,15.5
+695,madarcos,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,NE,19.6,19.6,14.8,0.0,0.0,58.6,7.6
+696,madarcos,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NO,15.0,15.0,9.17,0.2,0.0,89.67,4.67
+697,madarcos,2024-08-30,mediodia,['Cielo despejado' 'Cubierto' 'Cubierto con lluvia'],Muy alta,Baja,Alta,NO,16.86,16.86,16.86,2.14,0.0,91.71,7.43
+698,madarcos,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,S,26.83,26.83,13.17,0.35,0.0,48.17,5.5
+699,madarcos,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,['N' 'S'],22.2,22.2,8.4,0.0,0.0,69.4,6.6
+700,madarcos,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,['NE' 'NO'],15.83,15.83,5.17,0.0,0.0,95.67,3.0
+701,madarcos,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NO'],14.5,14.5,9.0,0.0,0.0,95.0,5.5
+702,madrid,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,16.0,0.1,0.0,60.0,9.0
+703,madrid,2024-08-29,tarde,Cubierto,Muy alta,Baja,Muy alta,['E' 'NO' 'O' 'S' 'SE' 'SO'],26.5,26.67,25.17,0.52,0.0,52.17,6.5
+704,madrid,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Alta,['N' 'NE'],20.4,20.4,25.6,0.02,0.0,74.6,17.8
+705,madrid,2024-08-30,madrugada,['Cubierto' 'Muy nuboso'],Baja,Baja,Baja,NE,20.0,20.0,29.0,0.0,0.0,87.33,17.0
+706,madrid,2024-08-30,mediodia,Muy nuboso,Muy alta,Baja,Baja,NE,21.0,21.0,28.0,0.0,0.0,86.86,16.71
+707,madrid,2024-08-30,tarde,['Cielo despejado' 'Muy nuboso'],Muy alta,Baja,Media,NE,27.5,27.83,29.33,0.0,0.0,51.5,16.17
+708,madrid,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,22.6,22.6,18.8,0.02,0.0,77.8,11.8
+709,madrid,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,E,20.67,20.67,18.5,0.0,0.0,73.67,11.67
+710,madrid,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NE,19.5,19.5,20.0,0.0,0.0,82.0,12.0
+711,majadahonda,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,20.0,0.1,0.0,61.0,9.0
+712,majadahonda,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,SE,25.83,25.83,22.5,0.35,0.0,50.0,10.0
+713,majadahonda,2024-08-29,noche,Muy nuboso,Muy alta,Baja,Alta,NE,19.8,19.8,19.6,0.02,0.0,78.6,9.6
+714,majadahonda,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NE,17.33,17.33,25.33,0.0,0.0,92.0,15.5
+715,majadahonda,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.14,20.14,31.43,0.0,0.0,86.57,17.43
+716,majadahonda,2024-08-30,tarde,['Nubes altas' 'Poco nuboso'],Muy alta,Baja,Alta,NE,27.67,28.0,26.5,0.02,0.0,49.33,15.83
+717,majadahonda,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,21.2,21.2,17.6,0.0,0.0,78.6,11.6
+718,majadahonda,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,NE,18.67,18.67,15.33,0.0,0.0,92.0,9.83
+719,majadahonda,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,17.5,17.5,8.0,0.0,0.0,90.5,6.0
+720,manzanares-el-real,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,E,23.0,23.0,24.0,0.0,0.0,68.0,10.0
+721,manzanares-el-real,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,SE,25.17,25.17,28.33,0.03,0.0,55.67,12.17
+722,manzanares-el-real,2024-08-29,noche,"['Cubierto' 'Muy nuboso' 'Nubes altas' 'Nuboso con lluvia escasa'
+ 'Nuboso con tormenta y lluvia escasa']",Muy alta,Baja,Alta,N,19.8,19.8,12.6,0.1,0.0,67.2,6.8
+723,manzanares-el-real,2024-08-30,madrugada,['Cubierto' 'Muy nuboso'],Baja,Baja,Baja,NE,16.83,16.83,23.83,0.0,0.0,85.33,12.83
+724,manzanares-el-real,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,19.43,19.43,25.71,0.0,0.0,86.86,14.43
+725,manzanares-el-real,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,26.83,26.83,15.83,0.08,0.0,49.0,8.17
+726,manzanares-el-real,2024-08-30,noche,Poco nuboso,Media,Baja,Media,NE,21.8,21.8,10.0,0.02,0.0,72.4,6.6
+727,manzanares-el-real,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,NE,17.67,17.67,12.67,0.0,0.0,91.0,7.5
+728,manzanares-el-real,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['N' 'O'],17.0,17.0,9.5,0.0,0.0,90.5,5.0
+729,meco,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,24.0,24.0,18.0,0.1,0.0,63.0,8.0
+730,meco,2024-08-29,tarde,Cubierto,Muy alta,Baja,Muy alta,S,26.17,26.17,29.67,0.02,0.0,49.0,15.0
+731,meco,2024-08-29,noche,"['Cubierto' 'Cubierto con tormenta'
+ 'Cubierto con tormenta y lluvia escasa'
+ 'Intervalos nubosos con lluvia escasa' 'Nubes altas']",Muy alta,Baja,Alta,['N' 'NE'],21.2,21.2,28.6,0.86,0.0,78.8,15.2
+732,meco,2024-08-30,madrugada,Cielo despejado,Baja,Baja,Baja,NE,17.83,17.83,29.0,0.0,0.0,99.33,20.0
+733,meco,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.0,20.0,25.14,0.0,0.0,88.71,15.43
+734,meco,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['N' 'NE'],28.33,29.33,19.83,0.07,0.0,55.17,13.5
+735,meco,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NE,22.6,22.6,15.2,0.02,0.0,84.0,10.0
+736,meco,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,NE,18.17,18.17,13.67,0.0,0.0,92.5,8.0
+737,meco,2024-08-31,mediodia,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NE'],16.5,16.5,12.5,0.0,0.0,96.0,8.5
+738,mejorada-del-campo,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,26.0,26.0,18.0,0.1,0.0,55.0,9.0
+739,mejorada-del-campo,2024-08-29,tarde,Cubierto,Muy alta,Baja,Muy alta,S,27.83,27.83,30.5,0.02,0.0,43.5,15.17
+740,mejorada-del-campo,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['N' 'NE'],22.2,22.2,30.4,0.28,0.0,74.0,19.2
+741,mejorada-del-campo,2024-08-30,madrugada,Cielo despejado,Baja,Baja,Baja,NE,18.83,18.83,19.33,0.0,0.0,96.33,14.83
+742,mejorada-del-campo,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,['E' 'NE'],21.0,21.0,30.0,0.0,0.0,88.29,15.29
+743,mejorada-del-campo,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Alta,N,29.0,30.83,25.33,0.0,0.0,56.5,17.83
+744,mejorada-del-campo,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,24.0,24.4,14.4,0.02,0.0,76.4,10.6
+745,mejorada-del-campo,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,SE,19.83,19.83,21.17,0.0,0.0,83.33,12.0
+746,mejorada-del-campo,2024-08-31,mediodia,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,NE,18.0,18.0,16.0,0.0,0.0,94.5,10.0
+747,miraflores-de-la-sierra,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,SE,22.0,22.0,22.0,0.0,0.0,68.0,8.0
+748,miraflores-de-la-sierra,2024-08-29,tarde,['Cubierto' 'Nubes altas'],Muy alta,Baja,Alta,S,23.0,23.0,35.0,0.0,0.0,59.0,14.17
+749,miraflores-de-la-sierra,2024-08-29,noche,Muy nuboso,Muy alta,Baja,Alta,SO,17.8,17.8,10.8,0.02,0.0,62.0,11.2
+750,miraflores-de-la-sierra,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NO,14.83,14.83,15.83,0.33,0.0,94.33,8.0
+751,miraflores-de-la-sierra,2024-08-30,mediodia,['Cielo despejado' 'Cubierto'],Muy alta,Baja,Alta,N,17.14,17.14,18.86,2.14,0.0,90.14,7.71
+752,miraflores-de-la-sierra,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,S,25.33,25.33,21.33,0.42,0.0,46.0,10.5
+753,miraflores-de-la-sierra,2024-08-30,noche,Poco nuboso,Media,Baja,Media,NO,20.6,20.6,6.6,0.02,0.0,64.0,4.0
+754,miraflores-de-la-sierra,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,['NO' 'O'],16.33,16.33,7.83,0.0,0.0,87.83,2.5
+755,miraflores-de-la-sierra,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['NO' 'SO'],15.0,15.0,10.5,0.0,0.0,85.5,8.0
+756,molar-el,2024-08-29,mediodia,Muy nuboso con tormenta y lluvia escasa,Muy alta,Baja,Alta,SE,23.0,23.0,14.0,0.1,0.0,76.0,7.0
+757,molar-el,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,['S' 'SE'],24.33,24.33,29.83,0.12,0.0,58.5,8.5
+758,molar-el,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,19.4,19.4,19.8,0.2,0.0,74.8,14.2
+759,molar-el,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,N,16.83,16.83,18.0,0.02,0.0,93.5,11.83
+760,molar-el,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,18.86,18.86,23.43,0.0,0.0,89.0,12.57
+761,molar-el,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,['E' 'N'],27.0,27.17,18.17,0.0,0.0,50.0,11.5
+762,molar-el,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Media,Baja,Media,N,22.2,22.2,8.8,0.0,0.0,78.0,6.0
+763,molar-el,2024-08-31,madrugada,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,N,18.33,18.33,10.0,0.0,0.0,90.17,5.67
+764,molar-el,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NO,16.5,16.5,8.0,0.0,0.0,93.0,7.0
+765,molinos-los,2024-08-29,mediodia,Nuboso,Muy alta,Baja,Alta,SE,23.0,23.0,27.0,0.0,0.0,70.0,10.0
+766,molinos-los,2024-08-29,tarde,['Cubierto' 'Nuboso'],Muy alta,Baja,Alta,SE,24.17,24.17,32.17,0.02,0.0,52.67,17.5
+767,molinos-los,2024-08-29,noche,"['Cielo despejado' 'Cubierto con lluvia escasa' 'Nubes altas' 'Nuboso'
+ 'Poco nuboso']",Muy alta,Baja,Alta,NO,18.8,18.8,11.2,0.02,0.0,60.0,8.0
+768,molinos-los,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,O,16.17,16.17,8.5,0.0,0.0,78.17,4.83
+769,molinos-los,2024-08-30,mediodia,['Cielo despejado' 'Cubierto' 'Poco nuboso'],Muy alta,Baja,Alta,SE,18.86,18.86,21.0,0.29,0.0,83.57,7.57
+770,molinos-los,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,26.17,26.17,15.33,0.42,0.0,49.67,10.5
+771,molinos-los,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NE,21.2,21.2,8.2,0.02,0.0,69.6,5.6
+772,molinos-los,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,S,17.0,17.0,10.17,0.0,0.0,90.17,4.83
+773,molinos-los,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NO,16.0,16.0,9.5,0.0,0.0,84.0,8.0
+774,montejo-de-la-sierra,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,SO,21.0,21.0,19.0,0.0,0.0,77.0,7.0
+775,montejo-de-la-sierra,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,22.5,22.5,25.83,0.02,0.0,62.5,11.83
+776,montejo-de-la-sierra,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,['E' 'NE'],18.8,18.8,14.8,0.0,0.0,59.6,8.4
+777,montejo-de-la-sierra,2024-08-30,madrugada,"['Cubierto' 'Cubierto con lluvia escasa' 'Intervalos nubosos'
+ 'Muy nuboso con lluvia' 'Nuboso' 'Poco nuboso']",Baja,Baja,Baja,['E' 'NE'],15.0,15.0,13.33,0.47,0.0,94.17,6.33
+778,montejo-de-la-sierra,2024-08-30,mediodia,['Cielo despejado' 'Cubierto' 'Cubierto con lluvia'],Muy alta,Baja,Alta,NE,16.71,16.71,18.0,2.71,0.0,93.0,9.14
+779,montejo-de-la-sierra,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['E' 'NE' 'NO' 'O' 'S' 'SO'],26.0,26.0,14.5,0.18,0.0,48.33,7.83
+780,montejo-de-la-sierra,2024-08-30,noche,['Cielo despejado' 'Cubierto' 'Nubes altas' 'Nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,21.6,21.6,9.6,0.0,0.0,71.2,6.4
+781,montejo-de-la-sierra,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,NE,16.0,16.0,8.67,0.0,0.0,92.5,5.0
+782,montejo-de-la-sierra,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],14.5,14.5,11.5,0.0,0.0,92.0,7.0
+783,moraleja-de-enmedio,2024-08-29,mediodia,Nuboso con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,15.0,0.1,0.0,55.0,8.0
+784,moraleja-de-enmedio,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,SE,26.67,26.67,19.83,0.05,0.0,45.5,7.17
+785,moraleja-de-enmedio,2024-08-29,noche,Nuboso,Muy alta,Baja,Alta,NE,19.8,19.8,28.4,0.02,0.0,77.0,16.6
+786,moraleja-de-enmedio,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NE,18.0,18.0,31.83,0.02,0.0,92.17,20.83
+787,moraleja-de-enmedio,2024-08-30,mediodia,['Cubierto' 'Muy nuboso'],Muy alta,Baja,Baja,NE,20.14,20.14,30.57,0.0,0.0,88.29,20.57
+788,moraleja-de-enmedio,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Media,NE,28.0,28.83,27.83,0.02,0.0,55.67,19.17
+789,moraleja-de-enmedio,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],24.0,24.2,20.4,0.0,0.0,71.8,12.8
+790,moraleja-de-enmedio,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,E,19.33,19.33,26.17,0.0,0.0,81.5,17.83
+791,moraleja-de-enmedio,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'NE'],18.0,18.0,14.5,0.0,0.0,86.0,11.0
+792,moralzarzal,2024-08-29,mediodia,Nuboso,Muy alta,Baja,Alta,E,24.0,24.0,27.0,0.0,0.0,65.0,13.0
+793,moralzarzal,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,['E' 'S' 'SE'],25.0,25.0,26.83,0.02,0.0,51.0,14.0
+794,moralzarzal,2024-08-29,noche,['Intervalos nubosos con lluvia escasa' 'Nuboso'],Muy alta,Baja,Alta,E,19.0,19.0,9.4,0.04,0.0,57.8,4.8
+795,moralzarzal,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,E,17.17,17.17,12.5,0.02,0.0,79.0,7.5
+796,moralzarzal,2024-08-30,mediodia,Poco nuboso,Muy alta,Baja,Alta,E,19.57,19.57,23.0,1.89,0.0,84.29,13.14
+797,moralzarzal,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['N' 'NE'],26.5,26.5,14.67,0.42,0.0,47.33,8.33
+798,moralzarzal,2024-08-30,noche,Poco nuboso,Media,Baja,Media,NE,22.2,22.2,8.4,0.02,0.0,68.4,6.6
+799,moralzarzal,2024-08-31,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,18.0,18.0,9.17,0.0,0.0,88.67,7.33
+800,moralzarzal,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['NO' 'O'],17.0,17.0,5.0,0.0,0.0,87.5,2.0
+801,morata-de-tajuna,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,26.0,26.0,18.0,0.1,0.0,54.0,10.0
+802,morata-de-tajuna,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,27.5,27.5,30.17,0.02,0.0,41.33,15.0
+803,morata-de-tajuna,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Alta,N,21.4,21.4,26.2,0.14,0.0,68.0,18.4
+804,morata-de-tajuna,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,E,18.33,18.33,18.5,0.02,0.0,91.5,12.67
+805,morata-de-tajuna,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,SE,21.0,21.0,27.71,0.0,0.0,84.86,16.57
+806,morata-de-tajuna,2024-08-30,tarde,Muy nuboso,Muy alta,Baja,Alta,NE,29.17,30.33,32.33,0.02,0.0,53.5,18.33
+807,morata-de-tajuna,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,E,23.8,23.8,23.4,0.0,0.0,61.6,16.0
+808,morata-de-tajuna,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,E,19.5,19.5,36.5,0.0,0.0,75.17,24.67
+809,morata-de-tajuna,2024-08-31,mediodia,Poco nuboso,Baja,Baja,Baja,['E' 'N'],18.0,18.0,11.5,0.0,0.0,87.0,6.5
+810,mostoles,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,19.0,0.1,0.0,59.0,9.0
+811,mostoles,2024-08-29,tarde,Muy nuboso,Muy alta,Baja,Alta,SE,26.83,26.83,30.17,0.4,0.0,48.17,14.5
+812,mostoles,2024-08-29,noche,"['Cubierto' 'Muy nuboso' 'Muy nuboso con lluvia escasa' 'Nubes altas'
+ 'Nuboso']",Muy alta,Baja,Alta,['N' 'NE'],20.2,20.2,23.2,0.02,0.0,82.6,13.6
+813,mostoles,2024-08-30,madrugada,Nuboso,Baja,Baja,Baja,NE,18.17,18.17,30.33,0.0,0.0,89.83,18.83
+814,mostoles,2024-08-30,mediodia,['Cubierto' 'Poco nuboso'],Muy alta,Baja,Baja,NE,20.57,20.57,31.86,0.0,0.0,85.57,19.29
+815,mostoles,2024-08-30,tarde,Nuboso,Muy alta,Baja,Media,NE,28.0,28.5,29.5,0.02,0.0,51.83,19.0
+816,mostoles,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,23.2,23.2,20.6,0.0,0.0,76.4,13.2
+817,mostoles,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,E,19.33,19.33,17.67,0.0,0.0,86.33,12.0
+818,mostoles,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NE,18.0,18.0,12.5,0.0,0.0,86.5,8.5
+819,navacerrada,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,SE,22.0,22.0,34.0,0.0,0.0,62.0,10.0
+820,navacerrada,2024-08-29,tarde,['Cubierto' 'Nubes altas'],Muy alta,Baja,Alta,S,23.17,23.17,35.5,0.02,0.0,53.67,14.5
+821,navacerrada,2024-08-29,noche,"['Cielo despejado' 'Intervalos nubosos con lluvia escasa' 'Nubes altas'
+ 'Nuboso' 'Poco nuboso']",Muy alta,Baja,Alta,NE,17.6,17.6,12.2,0.02,0.0,60.0,5.4
+822,navacerrada,2024-08-30,madrugada,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,E,15.67,15.67,12.0,0.0,0.0,79.33,5.83
+823,navacerrada,2024-08-30,mediodia,['Cielo despejado' 'Poco nuboso'],Muy alta,Baja,Alta,N,18.14,18.14,23.14,0.73,0.0,78.14,6.14
+824,navacerrada,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['SE' 'SO'],25.0,25.0,20.83,0.42,0.0,44.0,9.17
+825,navacerrada,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,E,20.8,20.8,14.8,0.02,0.0,62.8,6.8
+826,navacerrada,2024-08-31,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,SE,16.17,16.17,18.67,0.0,0.0,82.83,8.0
+827,navacerrada,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],15.0,15.0,8.5,0.0,0.0,77.5,4.5
+828,navalafuente,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,E,22.0,22.0,17.0,0.0,0.0,73.0,6.0
+829,navalafuente,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,S,24.17,24.17,33.33,0.12,0.0,57.17,10.5
+830,navalafuente,2024-08-29,noche,Muy nuboso,Muy alta,Baja,Alta,N,19.2,19.2,17.2,0.02,0.0,67.2,12.4
+831,navalafuente,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,N,16.17,16.17,15.83,1.33,0.0,93.83,10.5
+832,navalafuente,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,18.14,18.14,21.0,0.0,0.0,91.71,11.71
+833,navalafuente,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,N,26.83,26.83,13.83,0.02,0.0,48.5,9.0
+834,navalafuente,2024-08-30,noche,Poco nuboso,Media,Baja,Media,N,22.0,22.0,7.6,0.0,0.0,74.4,5.2
+835,navalafuente,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,N,17.5,17.5,9.5,0.0,0.0,92.17,6.17
+836,navalafuente,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'O'],16.5,16.5,5.0,0.0,0.0,88.0,5.0
+837,navalagamella,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,24.0,24.0,21.0,0.1,0.0,65.0,10.0
+838,navalagamella,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,['S' 'SE'],26.17,26.17,27.17,0.03,0.0,49.17,11.33
+839,navalagamella,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,20.4,20.4,20.4,0.06,0.0,58.4,10.2
+840,navalagamella,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,N,18.33,18.33,20.5,0.02,0.0,70.5,11.33
+841,navalagamella,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.43,20.43,27.86,0.0,0.0,81.43,13.86
+842,navalagamella,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,NE,27.83,27.83,26.83,0.08,0.0,45.5,13.0
+843,navalagamella,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,22.4,22.4,16.2,0.02,0.0,64.4,9.2
+844,navalagamella,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,N,19.33,19.33,18.67,0.0,0.0,79.5,9.67
+845,navalagamella,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,18.0,18.0,12.0,0.0,0.0,80.5,11.5
+846,navalcarnero,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,18.0,0.1,0.0,54.0,8.0
+847,navalcarnero,2024-08-29,tarde,['Intervalos nubosos con lluvia escasa' 'Nubes altas'],Muy alta,Baja,Alta,S,27.33,27.33,24.5,0.48,0.0,45.0,10.0
+848,navalcarnero,2024-08-29,noche,Muy nuboso,Muy alta,Baja,Alta,NE,20.6,20.6,20.0,0.02,0.0,88.0,14.2
+849,navalcarnero,2024-08-30,madrugada,['Cubierto' 'Muy nuboso'],Baja,Baja,Baja,NE,18.17,18.17,22.0,0.0,0.0,95.0,14.5
+850,navalcarnero,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.43,20.43,24.57,0.0,0.0,87.86,15.71
+851,navalcarnero,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Media,NE,28.67,29.67,28.17,0.08,0.0,54.33,18.5
+852,navalcarnero,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,24.2,24.6,19.6,0.0,0.0,73.0,13.4
+853,navalcarnero,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,['E' 'NE'],19.67,19.67,19.17,0.0,0.0,87.83,13.0
+854,navalcarnero,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,18.0,18.0,11.0,0.0,0.0,88.0,8.0
+855,navarredonda-y-san-mames,2024-08-29,mediodia,Muy nuboso,Muy alta,Baja,Alta,SE,22.0,22.0,24.0,0.0,0.0,69.0,4.0
+856,navarredonda-y-san-mames,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,['S' 'SE'],22.17,22.17,30.5,0.02,0.0,57.0,16.5
+857,navarredonda-y-san-mames,2024-08-29,noche,['Cielo despejado' 'Nubes altas'],Muy alta,Baja,Alta,NO,17.6,17.6,12.2,0.0,0.0,57.0,8.2
+858,navarredonda-y-san-mames,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NO,13.67,13.67,10.17,0.05,0.0,90.5,5.67
+859,navarredonda-y-san-mames,2024-08-30,mediodia,['Cielo despejado' 'Cubierto'],Muy alta,Baja,Alta,NO,15.71,15.71,17.86,2.29,0.0,91.71,7.14
+860,navarredonda-y-san-mames,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['E' 'S'],24.67,24.67,13.33,0.18,0.0,50.83,6.17
+861,navarredonda-y-san-mames,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NO,20.8,20.8,10.6,0.0,0.0,65.6,7.6
+862,navarredonda-y-san-mames,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,O,14.5,14.5,7.83,0.0,0.0,96.0,5.17
+863,navarredonda-y-san-mames,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['NE' 'NO'],13.0,13.0,4.5,0.0,0.0,98.5,4.0
+864,navas-del-rey,2024-08-29,mediodia,Muy nuboso con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,22.0,0.1,0.0,57.0,10.0
+865,navas-del-rey,2024-08-29,tarde,Poco nuboso,Muy alta,Baja,Alta,SE,27.5,27.67,26.33,0.03,0.0,44.5,9.0
+866,navas-del-rey,2024-08-29,noche,['Cielo despejado' 'Poco nuboso'],Muy alta,Baja,Media,E,21.4,21.4,13.0,0.0,0.0,62.0,8.4
+867,navas-del-rey,2024-08-30,madrugada,['Nubes altas' 'Nuboso' 'Poco nuboso'],Baja,Baja,Baja,['E' 'SO'],18.0,18.0,9.83,0.0,0.0,79.67,3.17
+868,navas-del-rey,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,E,20.43,20.43,29.86,0.0,0.0,84.57,13.14
+869,navas-del-rey,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,E,28.83,29.0,26.17,0.02,0.0,44.83,11.67
+870,navas-del-rey,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,E,22.6,22.6,17.0,0.0,0.0,63.4,8.0
+871,navas-del-rey,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,E,19.17,19.17,16.83,0.0,0.0,85.33,9.5
+872,navas-del-rey,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,O,18.0,18.0,4.0,0.0,0.0,89.5,2.0
+873,nuevo-baztan,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,24.0,24.0,20.0,0.1,0.0,66.0,12.0
+874,nuevo-baztan,2024-08-29,tarde,Cubierto,Muy alta,Baja,Muy alta,['S' 'SE'],25.17,25.17,29.83,0.03,0.0,53.67,16.83
+875,nuevo-baztan,2024-08-29,noche,"['Cielo despejado' 'Cubierto' 'Cubierto con lluvia escasa'
+ 'Intervalos nubosos con lluvia escasa' 'Poco nuboso']",Muy alta,Baja,Alta,NE,19.6,19.6,28.6,0.04,0.0,74.0,15.4
+876,nuevo-baztan,2024-08-30,madrugada,Cielo despejado,Baja,Baja,Baja,E,17.17,17.17,18.17,0.0,0.0,91.83,12.5
+877,nuevo-baztan,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,E,19.14,19.14,24.86,0.0,0.0,90.43,14.0
+878,nuevo-baztan,2024-08-30,tarde,Muy nuboso,Muy alta,Baja,Alta,N,26.67,27.17,23.17,0.02,0.0,63.83,13.33
+879,nuevo-baztan,2024-08-30,noche,['Cielo despejado' 'Poco nuboso'],Media,Baja,Media,SE,20.6,20.6,18.4,0.0,0.0,76.2,13.2
+880,nuevo-baztan,2024-08-31,madrugada,['Cubierto' 'Muy nuboso'],Baja,Baja,Baja,E,17.67,17.67,19.83,0.0,0.0,77.0,13.67
+881,nuevo-baztan,2024-08-31,mediodia,Poco nuboso,Baja,Baja,Baja,NE,16.0,16.0,12.0,0.0,0.0,87.0,7.0
+882,olmeda-de-las-fuentes,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,24.0,24.0,21.0,0.1,0.0,67.0,11.0
+883,olmeda-de-las-fuentes,2024-08-29,tarde,['Cubierto' 'Nuboso'],Muy alta,Baja,Muy alta,S,25.17,25.17,29.5,0.03,0.0,53.33,15.67
+884,olmeda-de-las-fuentes,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,NE,20.0,20.0,28.0,0.08,0.0,73.2,17.0
+885,olmeda-de-las-fuentes,2024-08-30,madrugada,['Intervalos nubosos con lluvia escasa' 'Muy nuboso'],Baja,Baja,Baja,E,17.33,17.33,16.17,0.03,0.0,92.0,10.5
+886,olmeda-de-las-fuentes,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,E,19.29,19.29,26.71,0.0,0.0,88.86,12.71
+887,olmeda-de-las-fuentes,2024-08-30,tarde,['Cubierto' 'Muy nuboso'],Muy alta,Baja,Alta,['E' 'N'],27.5,28.17,23.83,0.05,0.0,53.83,11.83
+888,olmeda-de-las-fuentes,2024-08-30,noche,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,SE,21.0,21.0,18.0,0.0,0.0,71.8,12.6
+889,olmeda-de-las-fuentes,2024-08-31,madrugada,Nuboso,Baja,Baja,Baja,E,17.83,17.83,19.0,0.0,0.0,75.67,11.5
+890,olmeda-de-las-fuentes,2024-08-31,mediodia,Poco nuboso,Baja,Baja,Baja,NE,16.0,16.0,12.0,0.0,0.0,82.5,8.0
+891,orusco-de-tajuna,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,22.0,0.1,0.0,62.0,10.0
+892,orusco-de-tajuna,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,25.67,25.67,28.83,0.03,0.0,47.67,13.83
+893,orusco-de-tajuna,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,NE,20.6,20.6,31.4,0.08,0.0,66.6,15.8
+894,orusco-de-tajuna,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,E,18.0,18.0,22.67,0.03,0.0,90.83,13.83
+895,orusco-de-tajuna,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,E,20.14,20.14,31.29,0.0,0.0,85.29,14.86
+896,orusco-de-tajuna,2024-08-30,tarde,['Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia escasa'],Muy alta,Baja,Alta,E,28.33,28.5,27.67,0.08,0.0,46.83,12.0
+897,orusco-de-tajuna,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,E,22.0,22.0,21.8,0.02,0.0,67.2,14.0
+898,orusco-de-tajuna,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,SE,18.67,18.67,24.33,0.0,0.0,73.17,14.33
+899,orusco-de-tajuna,2024-08-31,mediodia,['Intervalos nubosos' 'Poco nuboso'],Baja,Baja,Baja,NE,17.0,17.0,14.0,0.0,0.0,76.0,8.0
+900,paracuellos-de-jarama,2024-08-29,mediodia,Cubierto con tormenta y lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,16.0,0.1,0.0,62.0,9.0
+901,paracuellos-de-jarama,2024-08-29,tarde,['Cubierto' 'Nubes altas'],Muy alta,Baja,Alta,['E' 'S' 'SO'],26.83,26.83,29.33,0.05,0.0,47.83,10.67
+902,paracuellos-de-jarama,2024-08-29,noche,"['Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia'
+ 'Muy nuboso con lluvia' 'Nuboso con tormenta y lluvia escasa'
+ 'Poco nuboso']",Muy alta,Baja,Alta,NE,22.0,22.0,21.2,1.52,0.0,68.2,17.2
+903,paracuellos-de-jarama,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NE,19.17,19.17,24.5,0.0,0.0,93.0,17.67
+904,paracuellos-de-jarama,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.86,20.86,26.0,0.0,0.0,87.86,14.57
+905,paracuellos-de-jarama,2024-08-30,tarde,Cubierto,Muy alta,Baja,Media,NE,28.33,29.5,23.0,0.0,0.0,54.17,14.5
+906,paracuellos-de-jarama,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NE,23.2,23.2,16.2,0.0,0.0,84.4,10.8
+907,paracuellos-de-jarama,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,['E' 'NE'],19.83,19.83,15.83,0.0,0.0,85.33,10.17
+908,paracuellos-de-jarama,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'NE'],18.0,18.0,13.5,0.0,0.0,92.0,9.5
+909,parla,2024-08-29,mediodia,Muy nuboso con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,17.0,0.1,0.0,54.0,8.0
+910,parla,2024-08-29,tarde,Muy nuboso,Muy alta,Baja,Alta,['N' 'SE'],26.67,26.83,16.33,0.68,0.0,51.0,6.67
+911,parla,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['N' 'NE'],20.4,20.4,22.0,0.04,0.0,83.2,13.4
+912,parla,2024-08-30,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,18.0,18.0,23.0,0.0,0.0,97.0,14.17
+913,parla,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.14,20.14,27.14,0.0,0.0,89.57,16.71
+914,parla,2024-08-30,tarde,Muy nuboso,Muy alta,Baja,Media,NE,28.33,28.67,32.5,0.0,0.0,49.17,19.0
+915,parla,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,24.2,24.4,21.2,0.0,0.0,66.0,13.4
+916,parla,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,E,19.5,19.5,25.0,0.0,0.0,77.83,15.33
+917,parla,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,18.0,18.0,16.0,0.0,0.0,80.5,12.0
+918,patones,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,SE,23.0,23.0,16.0,0.0,0.0,73.0,6.0
+919,patones,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,['S' 'SE' 'SO'],23.83,23.83,24.83,0.57,0.0,64.0,7.83
+920,patones,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,NO,19.6,19.6,16.2,0.64,0.0,70.0,7.4
+921,patones,2024-08-30,madrugada,['Muy nuboso' 'Nuboso'],Baja,Baja,Baja,['N' 'NO'],16.83,16.83,17.67,0.02,0.0,92.5,8.33
+922,patones,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,['E' 'NO'],18.43,18.43,19.43,0.0,0.0,88.71,7.86
+923,patones,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['NO' 'S'],27.5,27.5,20.83,0.08,0.0,44.33,9.5
+924,patones,2024-08-30,noche,Nubes altas,Media,Baja,Media,NO,22.0,22.0,7.2,0.02,0.0,70.0,3.4
+925,patones,2024-08-31,madrugada,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,N,18.0,18.0,7.67,0.0,0.0,86.0,3.0
+926,patones,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NO,16.0,16.0,20.0,0.0,0.0,94.0,10.0
+927,pedrezuela,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,22.0,22.0,14.0,0.1,0.0,76.0,7.0
+928,pedrezuela,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,['S' 'SE'],24.33,24.33,29.83,0.12,0.0,58.5,8.5
+929,pedrezuela,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,19.0,19.0,19.8,0.2,0.0,74.8,14.2
+930,pedrezuela,2024-08-30,madrugada,Cubierto,Baja,Baja,Baja,N,16.83,16.83,18.0,0.02,0.0,93.5,11.83
+931,pedrezuela,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,18.86,18.86,23.43,0.0,0.0,89.0,12.57
+932,pedrezuela,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,['E' 'N'],27.0,27.17,18.17,0.0,0.0,50.0,11.5
+933,pedrezuela,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Media,Baja,Media,N,22.2,22.2,8.8,0.0,0.0,78.0,6.0
+934,pedrezuela,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,N,18.33,18.33,10.0,0.0,0.0,90.17,5.67
+935,pedrezuela,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NO,16.5,16.5,8.0,0.0,0.0,93.0,7.0
+936,pelayos-de-la-presa,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Alta,Baja,Alta,SE,26.0,26.0,26.0,0.1,0.0,55.0,8.0
+937,pelayos-de-la-presa,2024-08-29,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,28.5,28.5,32.0,0.1,0.0,42.0,10.83
+938,pelayos-de-la-presa,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Media,N,23.0,23.0,11.0,0.02,0.0,61.8,4.8
+939,pelayos-de-la-presa,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NO,18.5,18.5,6.83,0.0,0.0,80.33,2.67
+940,pelayos-de-la-presa,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,E,21.14,21.14,18.71,0.0,0.0,75.29,6.14
+941,pelayos-de-la-presa,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Media,E,29.67,29.83,20.33,0.08,0.0,43.0,6.83
+942,pelayos-de-la-presa,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,E,24.0,24.0,8.8,0.02,0.0,64.8,4.4
+943,pelayos-de-la-presa,2024-08-31,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,E,19.83,19.83,13.5,0.0,0.0,81.83,5.83
+944,pelayos-de-la-presa,2024-08-31,mediodia,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NO'],18.5,18.5,6.0,0.0,0.0,88.5,2.5
+945,perales-de-tajuna,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,21.0,0.1,0.0,60.0,12.0
+946,perales-de-tajuna,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,27.0,27.0,30.83,0.02,0.0,45.83,16.33
+947,perales-de-tajuna,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Alta,NO,21.4,21.4,34.0,0.06,0.0,69.6,20.6
+948,perales-de-tajuna,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,E,18.17,18.17,25.0,0.0,0.0,91.0,18.17
+949,perales-de-tajuna,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,E,20.57,20.57,28.71,0.0,0.0,85.57,17.14
+950,perales-de-tajuna,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['N' 'NE'],28.83,29.83,32.67,0.08,0.0,52.0,17.0
+951,perales-de-tajuna,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,E,23.2,23.2,24.6,0.02,0.0,65.0,16.2
+952,perales-de-tajuna,2024-08-31,madrugada,Nuboso,Baja,Baja,Baja,SE,19.17,19.17,26.33,0.0,0.0,73.5,18.67
+953,perales-de-tajuna,2024-08-31,mediodia,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NE'],17.0,17.0,17.0,0.0,0.0,79.5,10.0
+954,pezuela-de-las-torres,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,SE,23.0,23.0,20.0,0.0,0.0,66.0,12.0
+955,pezuela-de-las-torres,2024-08-29,tarde,['Cubierto' 'Muy nuboso'],Muy alta,Baja,Muy alta,['S' 'SE'],24.0,24.0,29.5,0.02,0.0,54.33,17.0
+956,pezuela-de-las-torres,2024-08-29,noche,"['Cielo despejado' 'Cubierto' 'Intervalos nubosos con lluvia escasa'
+ 'Muy nuboso' 'Poco nuboso']",Muy alta,Baja,Alta,N,19.6,19.6,26.0,0.02,0.0,78.6,15.8
+957,pezuela-de-las-torres,2024-08-30,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,E,17.17,17.17,22.17,0.0,0.0,93.0,15.67
+958,pezuela-de-las-torres,2024-08-30,mediodia,Muy nuboso,Muy alta,Baja,Baja,E,19.0,19.0,26.29,0.0,0.0,91.57,16.43
+959,pezuela-de-las-torres,2024-08-30,tarde,Muy nuboso,Muy alta,Baja,Alta,['E' 'N' 'NE'],26.67,27.33,20.83,0.02,0.0,64.5,13.83
+960,pezuela-de-las-torres,2024-08-30,noche,Poco nuboso,Media,Baja,Media,E,20.6,20.6,17.8,0.0,0.0,84.6,10.6
+961,pezuela-de-las-torres,2024-08-31,madrugada,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,E,17.5,17.5,16.83,0.0,0.0,88.33,12.0
+962,pezuela-de-las-torres,2024-08-31,mediodia,Nuboso,Baja,Baja,Baja,NE,16.0,16.0,11.0,0.0,0.0,94.5,7.0
+963,pinilla-del-valle,2024-08-29,mediodia,Nuboso,Muy alta,Baja,Alta,E,23.0,23.0,23.0,0.0,0.0,64.0,6.0
+964,pinilla-del-valle,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,S,24.17,24.17,33.17,0.02,0.0,51.0,13.33
+965,pinilla-del-valle,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Media,NO,18.0,18.0,10.8,0.02,0.0,60.2,8.0
+966,pinilla-del-valle,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NO,13.67,13.67,12.33,0.0,0.0,86.33,5.67
+967,pinilla-del-valle,2024-08-30,mediodia,['Cielo despejado' 'Cubierto con lluvia'],Muy alta,Baja,Alta,NO,16.57,16.57,16.43,2.0,0.0,86.0,5.71
+968,pinilla-del-valle,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['S' 'SE'],26.17,26.17,16.17,0.53,0.0,44.17,7.5
+969,pinilla-del-valle,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NO,21.4,21.4,10.6,0.0,0.0,58.0,5.6
+970,pinilla-del-valle,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,N,14.17,14.17,11.67,0.0,0.0,88.83,5.5
+971,pinilla-del-valle,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['NO' 'O'],13.0,13.0,11.5,0.0,0.0,87.5,7.0
+972,pinto,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,16.0,0.1,0.0,53.0,7.0
+973,pinto,2024-08-29,tarde,['Cubierto' 'Intervalos nubosos con lluvia escasa'],Muy alta,Baja,Alta,['E' 'S'],26.83,27.0,19.83,0.22,0.0,49.5,6.0
+974,pinto,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,20.6,20.6,19.6,0.18,0.0,83.6,13.4
+975,pinto,2024-08-30,madrugada,Cielo despejado,Baja,Baja,Baja,NE,18.17,18.17,20.67,0.0,0.0,95.5,13.0
+976,pinto,2024-08-30,mediodia,['Cubierto' 'Nuboso' 'Poco nuboso'],Muy alta,Baja,Baja,NE,20.71,20.71,26.0,0.0,0.0,89.43,17.0
+977,pinto,2024-08-30,tarde,Cielo despejado,Muy alta,Baja,Media,NE,28.33,28.67,32.83,0.0,0.0,50.67,19.0
+978,pinto,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,E,24.2,24.4,18.6,0.0,0.0,67.2,12.6
+979,pinto,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,E,19.5,19.5,23.0,0.0,0.0,77.83,14.17
+980,pinto,2024-08-31,mediodia,['Muy nuboso' 'Nubes altas'],Baja,Baja,Baja,NE,18.0,18.0,14.5,0.0,0.0,82.5,11.5
+981,pinuecar-gandullas,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,S,23.0,23.0,23.0,0.0,0.0,68.0,8.0
+982,pinuecar-gandullas,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,23.33,23.33,29.0,0.02,0.0,57.17,15.5
+983,pinuecar-gandullas,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,NE,18.8,18.8,14.8,0.0,0.0,58.6,7.6
+984,pinuecar-gandullas,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NO,14.5,14.5,9.17,0.2,0.0,89.67,4.67
+985,pinuecar-gandullas,2024-08-30,mediodia,['Cielo despejado' 'Cubierto' 'Cubierto con lluvia'],Muy alta,Baja,Alta,NO,16.29,16.29,16.86,2.14,0.0,91.71,7.43
+986,pinuecar-gandullas,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,S,26.17,26.17,13.17,0.35,0.0,48.17,5.5
+987,pinuecar-gandullas,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,['N' 'S'],21.4,21.4,8.4,0.0,0.0,69.4,6.6
+988,pinuecar-gandullas,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,['NE' 'NO'],15.0,15.0,5.17,0.0,0.0,95.67,3.0
+989,pinuecar-gandullas,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NO'],13.5,13.5,9.0,0.0,0.0,95.0,5.5
+990,pozuelo-de-alarcon,2024-08-29,mediodia,Nuboso con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,18.0,0.1,0.0,61.0,9.0
+991,pozuelo-de-alarcon,2024-08-29,tarde,['Cubierto' 'Nubes altas'],Muy alta,Baja,Alta,SE,26.17,26.17,24.33,0.12,0.0,49.67,9.0
+992,pozuelo-de-alarcon,2024-08-29,noche,['Cubierto' 'Muy nuboso'],Muy alta,Baja,Alta,N,20.2,20.2,20.0,0.02,0.0,75.0,13.8
+993,pozuelo-de-alarcon,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NE,17.17,17.17,22.33,0.0,0.0,89.67,13.33
+994,pozuelo-de-alarcon,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.0,20.0,24.71,0.0,0.0,86.0,14.71
+995,pozuelo-de-alarcon,2024-08-30,tarde,Muy nuboso,Muy alta,Baja,Media,NE,27.83,28.33,26.5,0.02,0.0,51.5,14.83
+996,pozuelo-de-alarcon,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,22.2,22.2,16.2,0.0,0.0,76.6,11.6
+997,pozuelo-de-alarcon,2024-08-31,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,E,18.5,18.5,17.5,0.0,0.0,84.67,11.33
+998,pozuelo-de-alarcon,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NE,17.5,17.5,9.0,0.0,0.0,89.0,6.5
+999,pozuelo-del-rey,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,25.0,25.0,22.0,0.1,0.0,64.0,13.0
+1000,pozuelo-del-rey,2024-08-29,tarde,Nuboso,Muy alta,Baja,Muy alta,S,25.67,25.67,30.67,0.03,0.0,50.33,17.0
+1001,pozuelo-del-rey,2024-08-29,noche,Nuboso,Muy alta,Baja,Alta,NE,20.0,20.0,27.2,0.02,0.0,72.6,13.8
+1002,pozuelo-del-rey,2024-08-30,madrugada,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,E,17.33,17.33,24.17,0.0,0.0,92.33,16.83
+1003,pozuelo-del-rey,2024-08-30,mediodia,Muy nuboso,Muy alta,Baja,Baja,['E' 'SE'],19.29,19.29,26.0,0.0,0.0,90.43,15.86
+1004,pozuelo-del-rey,2024-08-30,tarde,"['Cielo despejado' 'Cubierto' 'Muy nuboso' 'Nubes altas'
+ 'Nuboso con lluvia escasa' 'Poco nuboso']",Muy alta,Baja,Alta,['E' 'N' 'NE'],27.33,28.5,25.5,0.02,0.0,63.5,14.67
+1005,pozuelo-del-rey,2024-08-30,noche,Cielo despejado,Baja,Baja,Baja,E,21.4,21.4,20.2,0.0,0.0,76.8,14.8
+1006,pozuelo-del-rey,2024-08-31,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,['E' 'SE'],17.83,17.83,24.67,0.0,0.0,80.83,17.33
+1007,pozuelo-del-rey,2024-08-31,mediodia,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NE'],16.0,16.0,13.0,0.0,0.0,92.5,8.5
+1008,pradena-del-rincon,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,SO,22.0,22.0,19.0,0.0,0.0,77.0,7.0
+1009,pradena-del-rincon,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,23.17,23.17,25.83,0.02,0.0,62.5,11.83
+1010,pradena-del-rincon,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,['E' 'NE'],19.0,19.0,14.8,0.0,0.0,59.6,8.4
+1011,pradena-del-rincon,2024-08-30,madrugada,"['Cubierto' 'Cubierto con lluvia' 'Cubierto con lluvia escasa'
+ 'Intervalos nubosos' 'Nuboso' 'Poco nuboso']",Baja,Baja,Baja,['E' 'NE'],15.17,15.17,13.33,0.47,0.0,94.17,6.33
+1012,pradena-del-rincon,2024-08-30,mediodia,['Cielo despejado' 'Cubierto' 'Cubierto con lluvia'],Muy alta,Baja,Alta,NE,17.0,17.0,18.0,2.71,0.0,93.0,9.14
+1013,pradena-del-rincon,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['E' 'NE' 'NO' 'O' 'S' 'SO'],26.0,26.0,14.5,0.18,0.0,48.33,7.83
+1014,pradena-del-rincon,2024-08-30,noche,['Cielo despejado' 'Cubierto' 'Muy nuboso' 'Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,21.8,21.8,9.6,0.0,0.0,71.2,6.4
+1015,pradena-del-rincon,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,NE,15.83,15.83,8.67,0.0,0.0,92.5,5.0
+1016,pradena-del-rincon,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],14.5,14.5,11.5,0.0,0.0,92.0,7.0
+1017,puebla-de-la-sierra,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Muy alta,SE,21.0,21.0,24.0,0.0,0.0,78.0,7.0
+1018,puebla-de-la-sierra,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,['S' 'SE'],21.33,21.33,25.0,0.67,0.0,70.0,7.83
+1019,puebla-de-la-sierra,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,NO,17.6,17.6,13.2,0.6,0.0,82.4,4.6
+1020,puebla-de-la-sierra,2024-08-30,madrugada,Cubierto,Baja,Baja,Baja,O,14.83,14.83,12.83,0.02,0.0,93.67,5.0
+1021,puebla-de-la-sierra,2024-08-30,mediodia,['Cielo despejado' 'Cubierto'],Muy alta,Baja,Alta,SE,16.43,16.43,17.43,1.0,0.0,91.43,6.14
+1022,puebla-de-la-sierra,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['NO' 'SE'],25.0,25.0,20.67,0.12,0.0,46.5,6.0
+1023,puebla-de-la-sierra,2024-08-30,noche,Cielo despejado,Baja,Baja,Baja,O,20.2,20.2,10.2,0.02,0.0,75.4,4.4
+1024,puebla-de-la-sierra,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,O,15.83,15.83,9.0,0.0,0.0,89.5,4.0
+1025,puebla-de-la-sierra,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NO,13.0,13.0,11.0,0.0,0.0,92.5,5.0
+1026,puentes-viejas-manjiron,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,SE,22.0,22.0,24.0,0.0,0.0,73.0,8.0
+1027,puentes-viejas-manjiron,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,23.17,23.17,31.5,0.0,0.0,61.83,15.83
+1028,puentes-viejas-manjiron,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,S,19.0,19.0,10.4,0.06,0.0,62.0,5.0
+1029,puentes-viejas-manjiron,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NO,14.67,14.67,12.17,0.83,0.0,96.0,5.83
+1030,puentes-viejas-manjiron,2024-08-30,mediodia,['Cielo despejado' 'Cubierto' 'Cubierto con lluvia'],Muy alta,Baja,Alta,O,16.86,16.86,20.0,1.57,0.0,90.43,8.43
+1031,puentes-viejas-manjiron,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,S,26.33,26.33,18.33,0.35,0.0,45.17,9.5
+1032,puentes-viejas-manjiron,2024-08-30,noche,Poco nuboso,Media,Baja,Media,O,21.8,21.8,6.6,0.0,0.0,72.4,4.6
+1033,puentes-viejas-manjiron,2024-08-31,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,O,15.83,15.83,6.33,0.0,0.0,97.17,2.17
+1034,puentes-viejas-manjiron,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NO,14.5,14.5,10.5,0.0,0.0,98.5,6.5
+1035,quijorna,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,20.0,0.1,0.0,59.0,10.0
+1036,quijorna,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,27.67,27.83,21.33,0.87,0.0,45.83,8.33
+1037,quijorna,2024-08-29,noche,Muy nuboso,Muy alta,Baja,Alta,['E' 'N'],21.4,21.4,19.4,0.02,0.0,83.4,12.8
+1038,quijorna,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NE,19.33,19.33,21.67,0.0,0.0,91.0,14.33
+1039,quijorna,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,21.29,21.29,29.57,0.0,0.0,87.86,16.71
+1040,quijorna,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,NE,29.17,30.17,23.83,0.0,0.0,51.33,18.17
+1041,quijorna,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,23.4,23.6,15.6,0.0,0.0,76.8,10.4
+1042,quijorna,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,NE,20.17,20.17,18.33,0.0,0.0,89.0,12.67
+1043,quijorna,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],19.0,19.0,11.0,0.0,0.0,88.0,7.0
+1044,rascafria,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,N,23.0,23.0,14.0,0.0,0.0,63.0,8.0
+1045,rascafria,2024-08-29,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,S,24.67,24.67,29.67,0.08,0.0,49.0,9.5
+1046,rascafria,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,17.0,17.0,8.4,0.1,0.0,61.2,7.8
+1047,rascafria,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,S,10.33,10.33,8.5,0.03,0.0,98.67,3.67
+1048,rascafria,2024-08-30,mediodia,['Cielo despejado' 'Cubierto'],Muy alta,Baja,Alta,['S' 'SE' 'SO'],14.43,14.43,17.29,0.71,0.0,88.57,5.14
+1049,rascafria,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,N,26.83,26.83,14.83,1.02,0.0,42.83,7.67
+1050,rascafria,2024-08-30,noche,Poco nuboso,Media,Baja,Media,E,20.0,20.0,6.8,0.0,0.0,67.2,4.2
+1051,rascafria,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,S,10.83,10.83,6.33,0.0,0.0,99.83,2.83
+1052,rascafria,2024-08-31,mediodia,['Nuboso' 'Poco nuboso'],Baja,Baja,Baja,S,9.5,9.5,6.5,0.0,0.0,100.0,5.0
+1053,reduena,2024-08-29,mediodia,Nuboso,Muy alta,Baja,Alta,E,23.0,23.0,17.0,0.0,0.0,73.0,6.0
+1054,reduena,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,S,24.5,24.5,33.33,0.12,0.0,57.17,10.5
+1055,reduena,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Alta,N,19.6,19.6,17.2,0.02,0.0,67.2,12.4
+1056,reduena,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,N,16.83,16.83,15.83,1.33,0.0,93.83,10.5
+1057,reduena,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,18.71,18.71,21.0,0.0,0.0,91.71,11.71
+1058,reduena,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,N,27.5,27.5,13.83,0.02,0.0,48.5,9.0
+1059,reduena,2024-08-30,noche,Cielo despejado,Media,Baja,Media,N,22.4,22.4,7.6,0.0,0.0,74.4,5.2
+1060,reduena,2024-08-31,madrugada,['Cielo despejado' 'Cubierto'],Baja,Baja,Baja,N,18.33,18.33,9.5,0.0,0.0,92.17,6.17
+1061,reduena,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'O'],16.5,16.5,5.0,0.0,0.0,88.0,5.0
+1062,ribatejada,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,E,24.0,24.0,14.0,0.0,0.0,68.0,8.0
+1063,ribatejada,2024-08-29,tarde,['Cubierto' 'Nubes altas'],Muy alta,Baja,Alta,S,25.0,25.17,25.33,0.0,0.0,54.33,10.67
+1064,ribatejada,2024-08-29,noche,"['Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia escasa'
+ 'Muy nuboso' 'Nubes altas' 'Poco nuboso']",Muy alta,Baja,Alta,NE,20.6,20.6,23.0,0.34,0.0,82.8,14.4
+1065,ribatejada,2024-08-30,madrugada,Poco nuboso,Media,Baja,Media,NE,17.67,17.67,24.83,0.33,0.0,97.33,16.83
+1066,ribatejada,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,['E' 'NE' 'SE'],19.57,19.57,20.71,0.0,0.0,91.57,12.86
+1067,ribatejada,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,E,27.5,28.33,14.17,0.02,0.0,56.83,9.0
+1068,ribatejada,2024-08-30,noche,Poco nuboso,Media,Baja,Media,NE,22.2,22.2,13.8,0.0,0.0,79.0,8.4
+1069,ribatejada,2024-08-31,madrugada,['Cielo despejado' 'Cubierto' 'Poco nuboso'],Baja,Baja,Baja,NE,18.17,18.17,12.33,0.0,0.0,84.67,8.83
+1070,ribatejada,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'N'],16.5,16.5,11.0,0.0,0.0,90.5,7.5
+1071,rivas-vaciamadrid,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,26.0,26.0,17.0,0.1,0.0,54.0,9.0
+1072,rivas-vaciamadrid,2024-08-29,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,S,27.83,27.83,31.67,0.1,0.0,42.5,13.5
+1073,rivas-vaciamadrid,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Alta,['N' 'NE'],22.2,22.2,26.4,0.22,0.0,74.8,19.4
+1074,rivas-vaciamadrid,2024-08-30,madrugada,['Cielo despejado' 'Nuboso'],Baja,Baja,Baja,['N' 'NE'],18.17,18.17,21.83,0.0,0.0,98.0,14.17
+1075,rivas-vaciamadrid,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,N,21.0,21.0,24.57,0.0,0.0,88.14,13.71
+1076,rivas-vaciamadrid,2024-08-30,tarde,['Cubierto' 'Poco nuboso'],Muy alta,Baja,Media,['N' 'NE'],29.0,30.17,27.83,0.02,0.0,55.17,17.67
+1077,rivas-vaciamadrid,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,24.2,24.4,15.8,0.0,0.0,71.8,10.6
+1078,rivas-vaciamadrid,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,['N' 'SE'],19.33,19.33,16.0,0.0,0.0,85.17,10.17
+1079,rivas-vaciamadrid,2024-08-31,mediodia,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],18.0,18.0,12.5,0.0,0.0,94.0,8.5
+1080,robledillo-de-la-jara,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,S,22.0,22.0,22.0,0.0,0.0,76.0,8.0
+1081,robledillo-de-la-jara,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,23.33,23.33,24.0,0.02,0.0,62.33,12.5
+1082,robledillo-de-la-jara,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,E,19.0,19.0,12.0,0.0,0.0,55.4,6.4
+1083,robledillo-de-la-jara,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NE,15.5,15.5,8.83,0.83,0.0,94.0,6.17
+1084,robledillo-de-la-jara,2024-08-30,mediodia,Cielo despejado,Muy alta,Baja,Media,SE,17.43,17.43,15.29,2.14,0.0,90.57,7.86
+1085,robledillo-de-la-jara,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,S,26.67,26.67,16.67,0.35,0.0,44.83,8.0
+1086,robledillo-de-la-jara,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,['E' 'S'],21.6,21.6,7.4,0.0,0.0,68.2,6.0
+1087,robledillo-de-la-jara,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,['E' 'SE'],16.83,16.83,8.5,0.0,0.0,89.0,4.83
+1088,robledillo-de-la-jara,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NE,14.5,14.5,10.0,0.0,0.0,90.5,6.0
+1089,robledo-de-chavela,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,23.0,23.0,25.0,0.1,0.0,64.0,12.0
+1090,robledo-de-chavela,2024-08-29,tarde,['Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia escasa'],Muy alta,Baja,Alta,SE,25.5,25.5,32.17,0.1,0.0,49.0,14.0
+1091,robledo-de-chavela,2024-08-29,noche,Nubes altas,Muy alta,Baja,Media,NE,19.8,19.8,16.6,0.02,0.0,68.6,9.4
+1092,robledo-de-chavela,2024-08-30,madrugada,Nubes altas,Baja,Baja,Baja,E,17.33,17.33,27.5,0.0,0.0,75.0,13.67
+1093,robledo-de-chavela,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,E,19.71,19.71,31.71,0.0,0.0,85.0,16.57
+1094,robledo-de-chavela,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,27.0,27.17,21.67,0.08,0.0,49.0,10.33
+1095,robledo-de-chavela,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,21.4,21.4,21.2,0.02,0.0,71.6,11.0
+1096,robledo-de-chavela,2024-08-31,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,E,18.33,18.33,24.0,0.0,0.0,85.83,14.17
+1097,robledo-de-chavela,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],17.0,17.0,7.5,0.0,0.0,84.0,6.0
+1098,robregordo,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Muy alta,S,21.0,21.0,23.0,0.0,0.0,74.0,8.0
+1099,robregordo,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,22.17,22.17,31.0,0.02,0.0,59.83,14.33
+1100,robregordo,2024-08-29,noche,Nubes altas,Muy alta,Baja,Media,NE,18.4,18.4,13.8,0.0,0.0,55.4,7.0
+1101,robregordo,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NO,14.83,14.83,9.83,0.05,0.0,86.33,3.83
+1102,robregordo,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Alta,S,16.14,16.14,18.57,4.0,0.0,94.0,6.86
+1103,robregordo,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,S,24.5,24.5,16.33,0.35,0.0,48.5,6.83
+1104,robregordo,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,['N' 'S'],21.4,21.4,6.8,0.0,0.0,65.0,5.2
+1105,robregordo,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,['N' 'SE'],15.67,15.67,6.33,0.0,0.0,87.0,2.83
+1106,robregordo,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,14.0,14.0,10.0,0.0,0.0,87.5,4.0
+1107,rozas-de-madrid-las,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,22.0,0.1,0.0,61.0,9.0
+1108,rozas-de-madrid-las,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,['S' 'SE'],26.0,26.0,24.83,0.85,0.0,48.5,13.33
+1109,rozas-de-madrid-las,2024-08-29,noche,['Muy nuboso' 'Poco nuboso'],Muy alta,Baja,Alta,NE,19.8,19.8,23.2,0.08,0.0,80.6,13.2
+1110,rozas-de-madrid-las,2024-08-30,madrugada,Nuboso,Baja,Baja,Baja,NE,17.67,17.67,29.33,0.0,0.0,90.83,18.67
+1111,rozas-de-madrid-las,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.14,20.14,32.57,0.0,0.0,87.0,19.43
+1112,rozas-de-madrid-las,2024-08-30,tarde,['Nubes altas' 'Poco nuboso'],Muy alta,Baja,Media,NE,27.83,28.0,27.83,0.02,0.0,49.17,18.33
+1113,rozas-de-madrid-las,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,21.2,21.2,20.6,0.0,0.0,78.4,12.8
+1114,rozas-de-madrid-las,2024-08-31,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],18.67,18.67,18.0,0.0,0.0,90.83,12.5
+1115,rozas-de-madrid-las,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,17.5,17.5,14.0,0.0,0.0,89.0,9.0
+1116,rozas-de-puerto-real,2024-08-29,mediodia,Cubierto con lluvia escasa,Media,Baja,Media,E,23.0,23.0,23.0,0.1,0.0,55.0,9.0
+1117,rozas-de-puerto-real,2024-08-29,tarde,Muy nuboso,Muy alta,Baja,Alta,['S' 'SE'],25.33,25.33,29.33,0.02,0.0,42.67,13.0
+1118,rozas-de-puerto-real,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Media,N,20.2,20.2,14.6,0.08,0.0,75.6,8.2
+1119,rozas-de-puerto-real,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,['N' 'NO'],16.67,16.67,13.17,0.0,0.0,81.83,7.5
+1120,rozas-de-puerto-real,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,N,18.71,18.71,19.0,0.0,0.0,82.71,9.43
+1121,rozas-de-puerto-real,2024-08-30,tarde,['Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia escasa'],Muy alta,Baja,Media,NE,26.83,26.83,22.33,0.08,0.0,50.17,10.17
+1122,rozas-de-puerto-real,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,22.8,22.8,15.4,0.02,0.0,64.0,9.0
+1123,rozas-de-puerto-real,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,NE,17.83,17.83,15.83,0.0,0.0,86.17,8.67
+1124,rozas-de-puerto-real,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NO,17.0,17.0,10.5,0.0,0.0,87.5,7.5
+1125,san-agustin-del-guadalix,2024-08-29,mediodia,Cubierto con tormenta y lluvia escasa,Muy alta,Baja,Alta,E,23.0,23.0,13.0,0.1,0.0,74.0,6.0
+1126,san-agustin-del-guadalix,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,SO,26.0,26.33,28.33,0.2,0.0,54.83,6.83
+1127,san-agustin-del-guadalix,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Alta,['N' 'NO'],20.6,20.6,25.0,0.28,0.0,70.0,15.6
+1128,san-agustin-del-guadalix,2024-08-30,madrugada,Cielo despejado,Baja,Baja,Baja,N,18.0,18.0,24.33,0.0,0.0,87.67,14.17
+1129,san-agustin-del-guadalix,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,N,19.86,19.86,24.57,0.0,0.0,84.71,11.86
+1130,san-agustin-del-guadalix,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,['E' 'N'],28.17,28.17,20.5,0.0,0.0,46.67,10.0
+1131,san-agustin-del-guadalix,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Media,Baja,Media,N,23.2,23.2,14.4,0.0,0.0,71.8,8.2
+1132,san-agustin-del-guadalix,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,N,19.5,19.5,14.33,0.0,0.0,85.33,7.33
+1133,san-agustin-del-guadalix,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,N,18.0,18.0,10.0,0.0,0.0,87.5,9.5
+1134,san-fernando-de-henares,2024-08-29,mediodia,Muy nuboso con tormenta y lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,17.0,0.1,0.0,57.0,8.0
+1135,san-fernando-de-henares,2024-08-29,tarde,Cubierto,Muy alta,Baja,Muy alta,S,27.33,27.33,28.83,0.1,0.0,44.33,11.17
+1136,san-fernando-de-henares,2024-08-29,noche,['Muy nuboso con lluvia escasa' 'Poco nuboso'],Muy alta,Baja,Alta,NE,22.0,22.0,24.2,0.46,0.0,74.0,19.0
+1137,san-fernando-de-henares,2024-08-30,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,NE,19.33,19.33,21.0,0.0,0.0,94.5,15.17
+1138,san-fernando-de-henares,2024-08-30,mediodia,['Cubierto' 'Muy nuboso' 'Nuboso'],Muy alta,Baja,Baja,NE,20.71,20.71,25.43,0.0,0.0,88.29,13.43
+1139,san-fernando-de-henares,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Media,NE,28.5,29.5,22.33,0.07,0.0,52.5,14.83
+1140,san-fernando-de-henares,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NE,24.0,24.0,13.8,0.02,0.0,75.6,9.4
+1141,san-fernando-de-henares,2024-08-31,madrugada,['Muy nuboso' 'Nuboso'],Baja,Baja,Baja,['E' 'NE'],19.83,19.83,13.83,0.0,0.0,80.33,9.0
+1142,san-fernando-de-henares,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'NE'],18.0,18.0,13.0,0.0,0.0,92.0,8.5
+1143,san-lorenzo-de-el-escorial,2024-08-29,mediodia,['Muy nuboso con lluvia escasa' 'Nuboso con lluvia escasa'],"['Alta', 'Muy alta']
+Categories (4, object): ['Baja' < 'Media' < 'Alta' < 'Muy alta']",Baja,Alta,['E' 'NE'],22.0,22.0,21.0,0.1,0.0,74.5,11.0
+1144,san-lorenzo-de-el-escorial,2024-08-29,tarde,Cubierto con lluvia escasa,Muy alta,Baja,Alta,S,24.0,24.0,32.0,0.1,0.0,53.67,18.17
+1145,san-lorenzo-de-el-escorial,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,18.8,18.8,14.2,0.1,0.0,67.2,8.8
+1146,san-lorenzo-de-el-escorial,2024-08-30,madrugada,Nubes altas,Baja,Baja,Baja,N,16.17,16.17,18.17,0.03,0.0,78.5,11.0
+1147,san-lorenzo-de-el-escorial,2024-08-30,mediodia,['Cubierto' 'Niebla' 'Poco nuboso'],Muy alta,Baja,Media,['E' 'N'],18.71,18.71,23.86,0.0,0.0,87.57,13.43
+1148,san-lorenzo-de-el-escorial,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,E,26.0,26.0,19.33,0.02,0.0,53.17,8.33
+1149,san-lorenzo-de-el-escorial,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,20.8,20.8,14.8,0.0,0.0,73.8,10.0
+1150,san-lorenzo-de-el-escorial,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,N,17.17,17.17,14.0,0.0,0.0,89.33,9.33
+1151,san-lorenzo-de-el-escorial,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NO'],16.0,16.0,8.0,0.0,0.0,87.0,7.5
+1152,san-martin-de-la-vega,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,26.0,26.0,18.0,0.1,0.0,52.0,9.0
+1153,san-martin-de-la-vega,2024-08-29,tarde,Nuboso,Muy alta,Baja,Alta,S,27.83,27.83,33.17,0.02,0.0,42.17,13.83
+1154,san-martin-de-la-vega,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Alta,NE,21.2,21.2,26.4,0.06,0.0,74.0,20.0
+1155,san-martin-de-la-vega,2024-08-30,madrugada,['Nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,18.33,18.33,22.0,0.0,0.0,94.17,15.0
+1156,san-martin-de-la-vega,2024-08-30,mediodia,['Cubierto' 'Muy nuboso' 'Poco nuboso'],Muy alta,Baja,Baja,N,21.0,21.0,22.57,0.0,0.0,88.57,13.71
+1157,san-martin-de-la-vega,2024-08-30,tarde,['Cielo despejado' 'Nubes altas'],Muy alta,Baja,Media,NE,29.17,30.67,28.83,0.0,0.0,56.5,18.5
+1158,san-martin-de-la-vega,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NE,24.6,25.0,13.6,0.02,0.0,74.8,9.4
+1159,san-martin-de-la-vega,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,['E' 'N'],19.5,19.5,15.83,0.0,0.0,84.67,10.17
+1160,san-martin-de-la-vega,2024-08-31,mediodia,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,NE,18.0,18.0,14.5,0.0,0.0,92.0,7.5
+1161,san-martin-de-valdeiglesias,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,23.0,0.1,0.0,56.0,11.0
+1162,san-martin-de-valdeiglesias,2024-08-29,tarde,['Intervalos nubosos con lluvia escasa' 'Muy nuboso con lluvia escasa'],Muy alta,Baja,Alta,['E' 'SE'],27.33,27.33,26.67,0.1,0.0,43.0,11.0
+1163,san-martin-de-valdeiglesias,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Media,SO,22.2,22.2,9.4,0.02,0.0,62.4,5.6
+1164,san-martin-de-valdeiglesias,2024-08-30,madrugada,['Nuboso' 'Poco nuboso'],Baja,Baja,Baja,SO,18.0,18.0,7.0,0.0,0.0,77.5,4.33
+1165,san-martin-de-valdeiglesias,2024-08-30,mediodia,Cielo despejado,Muy alta,Baja,Baja,E,20.71,20.71,16.86,0.0,0.0,80.0,6.86
+1166,san-martin-de-valdeiglesias,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,29.0,29.33,20.83,0.07,0.0,47.33,10.67
+1167,san-martin-de-valdeiglesias,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,E,24.2,24.4,8.4,0.02,0.0,66.0,6.4
+1168,san-martin-de-valdeiglesias,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,E,19.17,19.17,8.83,0.0,0.0,86.17,4.67
+1169,san-martin-de-valdeiglesias,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,SO,18.0,18.0,6.5,0.0,0.0,90.0,4.5
+1170,san-sebastian-de-los-reyes,2024-08-29,mediodia,Cubierto con lluvia escasa,Muy alta,Baja,Alta,E,23.0,23.0,16.0,0.1,0.0,65.0,9.0
+1171,san-sebastian-de-los-reyes,2024-08-29,tarde,['Cubierto con tormenta y lluvia escasa' 'Nubes altas'],Muy alta,Baja,Alta,S,26.5,26.83,28.83,0.35,0.0,54.83,10.83
+1172,san-sebastian-de-los-reyes,2024-08-29,noche,"['Cielo despejado' 'Cubierto' 'Muy nuboso con lluvia escasa' 'Nubes altas'
+ 'Poco nuboso']",Muy alta,Baja,Alta,['N' 'NO'],21.8,21.8,21.8,0.02,0.0,69.0,15.4
+1173,san-sebastian-de-los-reyes,2024-08-30,madrugada,Cubierto,Baja,Baja,Baja,N,19.33,19.33,24.67,0.02,0.0,88.0,14.67
+1174,san-sebastian-de-los-reyes,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.86,20.86,23.14,0.0,0.0,85.43,12.71
+1175,san-sebastian-de-los-reyes,2024-08-30,tarde,"['Cielo despejado' 'Cubierto' 'Nubes altas' 'Nuboso'
+ 'Nuboso con lluvia escasa' 'Poco nuboso']",Muy alta,Baja,Media,NE,28.17,28.5,24.0,0.02,0.0,50.67,10.83
+1176,san-sebastian-de-los-reyes,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,23.0,23.0,15.2,0.0,0.0,78.8,10.6
+1177,san-sebastian-de-los-reyes,2024-08-31,madrugada,['Cubierto' 'Muy nuboso'],Baja,Baja,Baja,E,20.0,20.0,13.33,0.0,0.0,84.17,7.33
+1178,san-sebastian-de-los-reyes,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'NE'],18.5,18.5,8.0,0.0,0.0,90.5,8.5
+1179,santa-maria-de-la-alameda,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,SE,20.0,20.0,32.0,0.1,0.0,66.0,14.0
+1180,santa-maria-de-la-alameda,2024-08-29,tarde,Cubierto con lluvia escasa,Muy alta,Baja,Alta,S,21.67,21.67,34.0,0.1,0.0,54.5,18.17
+1181,santa-maria-de-la-alameda,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Media,E,16.8,16.8,15.0,0.02,0.0,79.0,9.8
+1182,santa-maria-de-la-alameda,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,['E' 'NE'],14.17,14.17,22.67,0.0,0.0,88.17,12.33
+1183,santa-maria-de-la-alameda,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,E,16.29,16.29,28.57,0.0,0.0,90.14,14.71
+1184,santa-maria-de-la-alameda,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['S' 'SE'],23.33,23.33,23.33,0.07,0.0,53.17,11.83
+1185,santa-maria-de-la-alameda,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,E,18.6,18.6,19.6,0.02,0.0,74.2,11.0
+1186,santa-maria-de-la-alameda,2024-08-31,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,E,15.33,15.33,25.5,0.0,0.0,91.5,15.33
+1187,santa-maria-de-la-alameda,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'NE'],13.5,13.5,8.0,0.0,0.0,90.5,7.0
+1188,santorcaz,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,SE,23.0,23.0,17.0,0.0,0.0,71.0,11.0
+1189,santorcaz,2024-08-29,tarde,['Cubierto' 'Nubes altas'],Muy alta,Baja,Muy alta,S,24.5,24.5,30.33,0.0,0.0,55.5,15.67
+1190,santorcaz,2024-08-29,noche,"['Cielo despejado' 'Cubierto' 'Intervalos nubosos con lluvia escasa'
+ 'Muy nuboso con lluvia escasa' 'Muy nuboso con tormenta y lluvia escasa']",Muy alta,Baja,Alta,['N' 'NE'],19.4,19.4,25.6,0.12,0.0,83.0,13.6
+1191,santorcaz,2024-08-30,madrugada,['Cielo despejado' 'Muy nuboso' 'Nuboso'],Baja,Baja,Baja,E,16.83,16.83,20.17,0.0,0.0,98.33,14.5
+1192,santorcaz,2024-08-30,mediodia,Muy nuboso,Muy alta,Baja,Baja,SE,18.71,18.71,27.14,0.0,0.0,91.29,15.0
+1193,santorcaz,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['E' 'N'],26.67,27.33,19.67,0.08,0.0,63.67,11.5
+1194,santorcaz,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,E,20.6,20.6,19.2,0.02,0.0,89.4,9.8
+1195,santorcaz,2024-08-31,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,['E' 'SE'],17.33,17.33,21.83,0.0,0.0,93.33,15.5
+1196,santorcaz,2024-08-31,mediodia,['Nuboso' 'Poco nuboso'],Baja,Baja,Baja,E,15.0,15.0,13.0,0.0,0.0,98.5,7.0
+1197,santos-de-la-humosa-los,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,SE,24.0,24.0,17.0,0.0,0.0,71.0,11.0
+1198,santos-de-la-humosa-los,2024-08-29,tarde,['Cubierto' 'Nubes altas'],Muy alta,Baja,Muy alta,S,24.83,25.0,30.33,0.0,0.0,55.5,15.67
+1199,santos-de-la-humosa-los,2024-08-29,noche,Cubierto con lluvia escasa,Muy alta,Baja,Alta,['N' 'NE'],19.6,19.6,25.6,0.12,0.0,83.0,13.6
+1200,santos-de-la-humosa-los,2024-08-30,madrugada,Cielo despejado,Baja,Baja,Baja,E,16.67,16.67,20.17,0.0,0.0,98.33,14.5
+1201,santos-de-la-humosa-los,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,SE,18.86,18.86,27.14,0.0,0.0,91.29,15.0
+1202,santos-de-la-humosa-los,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['E' 'N'],27.17,28.33,19.67,0.08,0.0,63.67,11.5
+1203,santos-de-la-humosa-los,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,E,21.2,21.2,19.2,0.02,0.0,89.4,9.8
+1204,santos-de-la-humosa-los,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,['E' 'SE'],17.17,17.17,21.83,0.0,0.0,93.33,15.5
+1205,santos-de-la-humosa-los,2024-08-31,mediodia,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,E,15.0,15.0,13.0,0.0,0.0,98.5,7.0
+1206,serna-del-monte-la,2024-08-29,mediodia,Muy nuboso,Muy alta,Baja,Alta,S,23.0,23.0,23.0,0.0,0.0,68.0,8.0
+1207,serna-del-monte-la,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,23.67,23.67,29.0,0.02,0.0,57.17,15.5
+1208,serna-del-monte-la,2024-08-29,noche,Nubes altas,Muy alta,Baja,Alta,NE,19.0,19.0,14.8,0.0,0.0,58.6,7.6
+1209,serna-del-monte-la,2024-08-30,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,NO,14.5,14.5,9.17,0.2,0.0,89.67,4.67
+1210,serna-del-monte-la,2024-08-30,mediodia,['Cubierto' 'Cubierto con lluvia'],Muy alta,Baja,Alta,NO,16.29,16.29,16.86,2.14,0.0,91.71,7.43
+1211,serna-del-monte-la,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,S,26.17,26.17,13.17,0.35,0.0,48.17,5.5
+1212,serna-del-monte-la,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,['N' 'S'],21.6,21.6,8.4,0.0,0.0,69.4,6.6
+1213,serna-del-monte-la,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,['NE' 'NO'],15.0,15.0,5.17,0.0,0.0,95.67,3.0
+1214,serna-del-monte-la,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NO'],13.5,13.5,9.0,0.0,0.0,95.0,5.5
+1215,serranillos-del-valle,2024-08-29,mediodia,Muy nuboso con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,16.0,0.1,0.0,56.0,8.0
+1216,serranillos-del-valle,2024-08-29,tarde,Muy nuboso,Muy alta,Baja,Alta,['E' 'SE'],27.0,27.0,27.0,0.05,0.0,46.0,12.17
+1217,serranillos-del-valle,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Alta,NE,20.6,20.6,26.2,0.02,0.0,75.6,15.4
+1218,serranillos-del-valle,2024-08-30,madrugada,Cubierto,Baja,Baja,Baja,NE,18.0,18.0,31.5,0.0,0.0,90.0,21.17
+1219,serranillos-del-valle,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.43,20.43,31.57,0.0,0.0,87.0,21.29
+1220,serranillos-del-valle,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Media,NE,28.5,29.5,26.67,0.07,0.0,55.33,17.83
+1221,serranillos-del-valle,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,24.8,25.6,17.0,0.02,0.0,74.8,10.4
+1222,serranillos-del-valle,2024-08-31,madrugada,['Muy nuboso' 'Nuboso'],Baja,Baja,Baja,E,20.0,20.0,19.83,0.0,0.0,84.17,13.67
+1223,serranillos-del-valle,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'NE'],18.0,18.0,10.5,0.0,0.0,89.0,8.0
+1224,sevilla-la-nueva,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,19.0,0.1,0.0,56.0,9.0
+1225,sevilla-la-nueva,2024-08-29,tarde,"['Cubierto' 'Cubierto con lluvia' 'Cubierto con lluvia escasa'
+ 'Intervalos nubosos con lluvia escasa' 'Muy nuboso' 'Nuboso']",Muy alta,Baja,Alta,['S' 'SE'],27.5,27.5,29.83,0.52,0.0,46.83,10.83
+1226,sevilla-la-nueva,2024-08-29,noche,Muy nuboso con lluvia escasa,Muy alta,Baja,Alta,NE,20.2,20.2,19.0,0.08,0.0,86.0,11.8
+1227,sevilla-la-nueva,2024-08-30,madrugada,['Muy nuboso' 'Nuboso'],Baja,Baja,Baja,NE,18.17,18.17,22.83,0.03,0.0,93.5,14.5
+1228,sevilla-la-nueva,2024-08-30,mediodia,['Cubierto' 'Poco nuboso'],Muy alta,Baja,Baja,NE,20.57,20.57,26.14,0.0,0.0,88.57,16.43
+1229,sevilla-la-nueva,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,NE,28.5,29.33,27.5,0.02,0.0,53.0,18.17
+1230,sevilla-la-nueva,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,23.4,23.6,17.6,0.0,0.0,74.2,12.0
+1231,sevilla-la-nueva,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,NE,19.5,19.5,17.33,0.0,0.0,87.67,11.17
+1232,sevilla-la-nueva,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,18.0,18.0,10.5,0.0,0.0,87.5,8.0
+1233,somosierra,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Muy alta,S,20.0,20.0,20.0,0.0,0.0,82.0,7.0
+1234,somosierra,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Muy alta,S,21.17,21.17,28.0,0.02,0.0,68.33,12.5
+1235,somosierra,2024-08-29,noche,Nubes altas,Muy alta,Baja,Media,NE,17.8,17.8,18.4,0.0,0.0,64.4,7.2
+1236,somosierra,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NE,14.5,14.5,15.83,0.2,0.0,94.0,7.83
+1237,somosierra,2024-08-30,mediodia,Bruma,Muy alta,Baja,Alta,['NE' 'S'],15.29,15.29,22.0,3.29,0.0,96.29,10.57
+1238,somosierra,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,S,23.83,23.83,14.83,0.35,0.0,49.5,7.0
+1239,somosierra,2024-08-30,noche,Nuboso,Baja,Baja,Baja,['NE' 'S'],20.6,20.6,12.6,0.0,0.0,70.8,6.6
+1240,somosierra,2024-08-31,madrugada,Nuboso,Baja,Baja,Baja,E,15.5,15.5,9.83,0.0,0.0,89.67,5.5
+1241,somosierra,2024-08-31,mediodia,['Nubes altas' 'Nuboso'],Baja,Baja,Baja,N,13.5,13.5,11.5,0.0,0.0,92.0,6.0
+1242,soto-del-real,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,E,23.0,23.0,20.0,0.0,0.0,66.0,8.0
+1243,soto-del-real,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,24.17,24.17,30.0,0.0,0.0,56.17,12.83
+1244,soto-del-real,2024-08-29,noche,"['Cielo despejado' 'Cubierto' 'Cubierto con lluvia escasa'
+ 'Cubierto con tormenta y lluvia escasa' 'Nubes altas']",Muy alta,Baja,Alta,['N' 'SO'],19.0,19.0,17.2,0.04,0.0,59.4,10.6
+1245,soto-del-real,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,N,16.67,16.67,18.83,0.17,0.0,84.83,12.5
+1246,soto-del-real,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,E,18.71,18.71,18.57,0.0,0.0,88.14,11.0
+1247,soto-del-real,2024-08-30,tarde,['Intervalos nubosos con lluvia escasa' 'Nubes altas'],Muy alta,Baja,Alta,SE,26.5,26.5,13.5,0.03,0.0,48.33,7.5
+1248,soto-del-real,2024-08-30,noche,Poco nuboso,Media,Baja,Media,N,22.0,22.0,13.4,0.0,0.0,67.2,8.8
+1249,soto-del-real,2024-08-31,madrugada,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,N,18.33,18.33,12.0,0.0,0.0,83.67,9.0
+1250,soto-del-real,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['NO' 'O'],17.0,17.0,7.5,0.0,0.0,80.5,5.0
+1251,talamanca-de-jarama,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,E,24.0,24.0,7.0,0.0,0.0,76.0,4.0
+1252,talamanca-de-jarama,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,O,25.67,25.83,19.83,0.18,0.0,61.0,6.67
+1253,talamanca-de-jarama,2024-08-29,noche,['Intervalos nubosos con lluvia escasa' 'Poco nuboso'],Muy alta,Baja,Alta,N,20.6,20.6,21.6,0.04,0.0,79.2,15.2
+1254,talamanca-de-jarama,2024-08-30,madrugada,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,N,17.83,17.83,20.67,0.0,0.0,93.5,14.17
+1255,talamanca-de-jarama,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,['E' 'N' 'SE'],19.86,19.86,21.57,0.0,0.0,89.57,11.29
+1256,talamanca-de-jarama,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,N,28.33,29.0,14.5,0.0,0.0,51.5,9.0
+1257,talamanca-de-jarama,2024-08-30,noche,Nubes altas,Media,Baja,Media,['N' 'NE'],23.4,23.4,12.4,0.0,0.0,82.4,7.6
+1258,talamanca-de-jarama,2024-08-31,madrugada,['Cielo despejado' 'Cubierto' 'Muy nuboso'],Baja,Baja,Baja,E,19.0,19.0,12.0,0.0,0.0,91.67,8.33
+1259,talamanca-de-jarama,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'NE'],17.0,17.0,13.0,0.0,0.0,94.5,7.0
+1260,tielmes,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,21.0,0.1,0.0,60.0,10.0
+1261,tielmes,2024-08-29,tarde,Muy nuboso,Muy alta,Baja,Alta,S,26.67,26.67,28.5,0.03,0.0,46.0,14.5
+1262,tielmes,2024-08-29,noche,['Cielo despejado' 'Muy nuboso'],Muy alta,Baja,Alta,NE,21.2,21.2,31.0,0.02,0.0,65.6,15.6
+1263,tielmes,2024-08-30,madrugada,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,E,17.83,17.83,21.67,0.0,0.0,90.5,14.33
+1264,tielmes,2024-08-30,mediodia,['Cubierto' 'Muy nuboso'],Muy alta,Baja,Baja,E,20.29,20.29,28.57,0.0,0.0,84.43,14.57
+1265,tielmes,2024-08-30,tarde,Muy nuboso,Muy alta,Baja,Alta,E,28.5,28.83,26.0,0.02,0.0,45.83,11.67
+1266,tielmes,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,E,22.6,22.6,20.6,0.0,0.0,65.0,13.8
+1267,tielmes,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,SE,18.83,18.83,23.0,0.0,0.0,73.33,14.33
+1268,tielmes,2024-08-31,mediodia,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,NE,17.0,17.0,13.0,0.0,0.0,77.5,7.5
+1269,titulcia,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,26.0,26.0,17.0,0.1,0.0,52.0,7.0
+1270,titulcia,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,28.0,28.0,36.33,0.02,0.0,40.83,13.5
+1271,titulcia,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Alta,['N' 'NE'],21.2,21.2,21.0,0.22,0.0,78.6,19.2
+1272,titulcia,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,N,17.33,17.33,15.33,0.0,0.0,97.33,10.67
+1273,titulcia,2024-08-30,mediodia,['Cubierto' 'Muy nuboso' 'Poco nuboso'],Muy alta,Baja,Baja,N,20.86,20.86,24.43,0.0,0.0,88.0,12.43
+1274,titulcia,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,29.83,31.83,28.67,0.07,0.0,56.17,18.67
+1275,titulcia,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,['N' 'SE'],24.6,25.2,12.2,0.02,0.0,72.6,8.0
+1276,titulcia,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,['N' 'SE'],19.0,19.0,22.33,0.0,0.0,85.67,12.17
+1277,titulcia,2024-08-31,mediodia,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,N,18.0,18.0,6.5,0.0,0.0,92.5,9.0
+1278,torrejon-de-ardoz,2024-08-29,mediodia,"['Cubierto con tormenta y lluvia escasa'
+ 'Muy nuboso con tormenta y lluvia escasa']",Muy alta,Baja,Alta,['E' 'SE'],24.0,24.0,17.0,0.1,0.0,62.0,7.0
+1279,torrejon-de-ardoz,2024-08-29,tarde,Cubierto,Muy alta,Baja,Muy alta,S,27.5,27.5,28.83,0.1,0.0,44.33,11.17
+1280,torrejon-de-ardoz,2024-08-29,noche,['Cubierto con lluvia escasa' 'Poco nuboso'],Muy alta,Baja,Alta,NE,22.2,22.2,24.2,0.46,0.0,74.0,19.0
+1281,torrejon-de-ardoz,2024-08-30,madrugada,['Cielo despejado' 'Nuboso'],Baja,Baja,Baja,NE,19.17,19.17,21.0,0.0,0.0,94.5,15.17
+1282,torrejon-de-ardoz,2024-08-30,mediodia,Muy nuboso,Muy alta,Baja,Baja,NE,20.86,20.86,25.43,0.0,0.0,88.29,13.43
+1283,torrejon-de-ardoz,2024-08-30,tarde,['Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia escasa'],Muy alta,Baja,Media,NE,28.67,29.67,22.33,0.07,0.0,52.5,14.83
+1284,torrejon-de-ardoz,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,24.2,24.4,13.8,0.02,0.0,75.6,9.4
+1285,torrejon-de-ardoz,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,['E' 'NE'],19.83,19.83,13.83,0.0,0.0,80.33,9.0
+1286,torrejon-de-ardoz,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'NE'],18.0,18.0,13.0,0.0,0.0,92.0,8.5
+1287,torrejon-de-la-calzada,2024-08-29,mediodia,Muy nuboso con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,16.0,0.1,0.0,52.0,7.0
+1288,torrejon-de-la-calzada,2024-08-29,tarde,Muy nuboso,Muy alta,Baja,Alta,SE,27.0,27.17,17.17,0.85,0.0,49.83,8.33
+1289,torrejon-de-la-calzada,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['N' 'NE'],21.0,21.0,22.8,0.08,0.0,84.8,15.0
+1290,torrejon-de-la-calzada,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NE,18.0,18.0,22.17,0.03,0.0,99.17,14.5
+1291,torrejon-de-la-calzada,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.57,20.57,26.57,0.0,0.0,89.86,17.43
+1292,torrejon-de-la-calzada,2024-08-30,tarde,"['Cielo despejado' 'Cubierto' 'Muy nuboso' 'Nubes altas' 'Nuboso'
+ 'Poco nuboso']",Muy alta,Baja,Media,NE,28.5,28.83,31.33,0.0,0.0,50.17,19.17
+1293,torrejon-de-la-calzada,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,E,24.8,25.2,22.0,0.0,0.0,63.0,14.0
+1294,torrejon-de-la-calzada,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,E,19.67,19.67,25.17,0.0,0.0,76.5,16.17
+1295,torrejon-de-la-calzada,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'NE'],18.0,18.0,14.5,0.0,0.0,79.5,11.5
+1296,torrejon-de-velasco,2024-08-29,mediodia,Muy nuboso con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,15.0,0.1,0.0,52.0,7.0
+1297,torrejon-de-velasco,2024-08-29,tarde,Muy nuboso,Muy alta,Baja,Alta,['N' 'SE'],27.17,27.33,18.5,0.68,0.0,49.83,7.17
+1298,torrejon-de-velasco,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['N' 'NE'],21.2,21.2,21.6,0.08,0.0,87.2,12.8
+1299,torrejon-de-velasco,2024-08-30,madrugada,"['Cielo despejado' 'Cubierto' 'Intervalos nubosos con lluvia escasa'
+ 'Muy nuboso' 'Nuboso' 'Nuboso con lluvia escasa']",Baja,Baja,Baja,NE,18.17,18.17,20.83,0.03,0.0,99.5,13.5
+1300,torrejon-de-velasco,2024-08-30,mediodia,Muy nuboso,Muy alta,Baja,Baja,NE,20.71,20.71,25.71,0.0,0.0,90.14,17.0
+1301,torrejon-de-velasco,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Media,NE,28.83,29.33,32.67,0.0,0.0,50.67,20.0
+1302,torrejon-de-velasco,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,E,24.8,25.2,22.0,0.0,0.0,63.8,14.2
+1303,torrejon-de-velasco,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,E,19.67,19.67,25.67,0.0,0.0,77.5,17.0
+1304,torrejon-de-velasco,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],18.0,18.0,14.5,0.0,0.0,80.5,11.5
+1305,torrelaguna,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,SE,23.0,23.0,10.0,0.0,0.0,78.0,4.0
+1306,torrelaguna,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,SE,25.0,25.17,19.5,0.17,0.0,66.33,5.17
+1307,torrelaguna,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Alta,N,20.4,20.4,18.4,0.46,0.0,72.0,7.8
+1308,torrelaguna,2024-08-30,madrugada,['Muy nuboso' 'Nuboso'],Baja,Baja,Baja,N,17.33,17.33,28.67,0.0,0.0,90.83,15.67
+1309,torrelaguna,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,N,19.29,19.29,22.43,0.0,0.0,88.43,12.14
+1310,torrelaguna,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['NO' 'SE'],28.17,28.33,21.0,0.08,0.0,46.17,12.33
+1311,torrelaguna,2024-08-30,noche,Nubes altas,Media,Baja,Media,N,23.0,23.0,10.4,0.02,0.0,72.8,5.4
+1312,torrelaguna,2024-08-31,madrugada,['Cielo despejado' 'Cubierto' 'Muy nuboso'],Baja,Baja,Baja,NE,18.67,18.67,13.17,0.0,0.0,87.5,7.33
+1313,torrelaguna,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,N,17.0,17.0,27.0,0.0,0.0,90.5,13.0
+1314,torrelodones,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,26.0,0.1,0.0,65.0,11.0
+1315,torrelodones,2024-08-29,tarde,"['Cubierto' 'Cubierto con tormenta y lluvia escasa'
+ 'Intervalos nubosos con lluvia escasa' 'Muy nuboso' 'Nuboso'
+ 'Nuboso con tormenta y lluvia escasa']",Muy alta,Baja,Alta,S,25.0,25.0,28.5,0.07,0.0,55.17,13.17
+1316,torrelodones,2024-08-29,noche,"['Cubierto' 'Intervalos nubosos con lluvia escasa' 'Nuboso'
+ 'Nuboso con lluvia escasa' 'Poco nuboso']",Muy alta,Baja,Alta,NE,19.0,19.0,16.8,0.1,0.0,70.0,8.2
+1317,torrelodones,2024-08-30,madrugada,['Muy nuboso' 'Nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,17.33,17.33,27.83,0.0,0.0,77.17,15.17
+1318,torrelodones,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,19.86,19.86,27.0,0.0,0.0,84.0,14.43
+1319,torrelodones,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,27.33,27.33,22.83,0.08,0.0,42.83,7.0
+1320,torrelodones,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,21.2,21.2,19.4,0.02,0.0,63.8,10.4
+1321,torrelodones,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,E,18.67,18.67,18.5,0.0,0.0,78.67,9.5
+1322,torrelodones,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,17.0,17.0,9.5,0.0,0.0,82.0,9.0
+1323,torremocha-de-jarama,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,SE,24.0,24.0,10.0,0.0,0.0,78.0,4.0
+1324,torremocha-de-jarama,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,SE,25.0,25.17,19.5,0.17,0.0,66.33,5.17
+1325,torremocha-de-jarama,2024-08-29,noche,"['Intervalos nubosos con lluvia escasa' 'Muy nuboso con lluvia escasa'
+ 'Nubes altas' 'Nuboso' 'Poco nuboso']",Muy alta,Baja,Alta,N,20.6,20.6,18.4,0.46,0.0,72.0,7.8
+1326,torremocha-de-jarama,2024-08-30,madrugada,['Cubierto' 'Nuboso'],Baja,Baja,Baja,N,17.5,17.5,28.67,0.0,0.0,90.83,15.67
+1327,torremocha-de-jarama,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,N,19.29,19.29,22.43,0.0,0.0,88.43,12.14
+1328,torremocha-de-jarama,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['NO' 'SE'],28.33,28.5,21.0,0.08,0.0,46.17,12.33
+1329,torremocha-de-jarama,2024-08-30,noche,Nubes altas,Media,Baja,Media,N,23.0,23.0,10.4,0.02,0.0,72.8,5.4
+1330,torremocha-de-jarama,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,NE,18.67,18.67,13.17,0.0,0.0,87.5,7.33
+1331,torremocha-de-jarama,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,N,17.0,17.0,27.0,0.0,0.0,90.5,13.0
+1332,torres-de-la-alameda,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,25.0,25.0,18.0,0.1,0.0,60.0,7.0
+1333,torres-de-la-alameda,2024-08-29,tarde,Cubierto,Muy alta,Baja,Muy alta,S,26.83,26.83,33.83,0.02,0.0,46.33,13.83
+1334,torres-de-la-alameda,2024-08-29,noche,"['Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia'
+ 'Intervalos nubosos con lluvia escasa' 'Muy nuboso' 'Nuboso']",Muy alta,Baja,Alta,NE,21.2,21.2,25.0,1.04,0.0,74.4,15.4
+1335,torres-de-la-alameda,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NE,18.17,18.17,21.67,0.0,0.0,98.0,12.5
+1336,torres-de-la-alameda,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.14,20.14,31.57,0.0,0.0,86.86,16.71
+1337,torres-de-la-alameda,2024-08-30,tarde,"['Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia escasa'
+ 'Muy nuboso con lluvia escasa' 'Nubes altas' 'Nuboso con lluvia escasa'
+ 'Poco nuboso']",Muy alta,Baja,Alta,NE,28.5,29.5,22.0,0.07,0.0,53.17,14.0
+1338,torres-de-la-alameda,2024-08-30,noche,"['Cielo despejado' 'Cubierto' 'Intervalos nubosos con lluvia escasa'
+ 'Nubes altas' 'Poco nuboso']",Baja,Baja,Baja,NE,22.2,22.2,13.8,0.02,0.0,80.2,8.2
+1339,torres-de-la-alameda,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,['E' 'NE'],19.0,19.0,13.33,0.0,0.0,85.17,7.67
+1340,torres-de-la-alameda,2024-08-31,mediodia,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,E,17.0,17.0,14.5,0.0,0.0,94.0,9.0
+1341,tres-cantos,2024-08-29,mediodia,Cubierto con tormenta y lluvia escasa,Muy alta,Baja,Alta,E,23.0,23.0,17.0,0.1,0.0,72.0,9.0
+1342,tres-cantos,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,['E' 'S' 'SE'],25.0,25.0,25.67,0.35,0.0,54.83,8.83
+1343,tres-cantos,2024-08-29,noche,"['Cielo despejado' 'Muy nuboso' 'Muy nuboso con lluvia escasa'
+ 'Nuboso con lluvia escasa' 'Poco nuboso']",Muy alta,Baja,Alta,N,20.2,20.2,23.0,0.22,0.0,75.0,12.2
+1344,tres-cantos,2024-08-30,madrugada,['Cielo despejado' 'Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NE'],18.17,18.17,26.67,0.0,0.0,88.67,18.33
+1345,tres-cantos,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,20.0,20.0,27.14,0.0,0.0,85.86,16.43
+1346,tres-cantos,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,27.0,27.17,17.33,0.08,0.0,51.67,11.67
+1347,tres-cantos,2024-08-30,noche,Nubes altas,Media,Baja,Media,N,22.0,22.0,15.0,0.02,0.0,77.8,10.2
+1348,tres-cantos,2024-08-31,madrugada,['Cielo despejado' 'Cubierto'],Baja,Baja,Baja,NE,19.33,19.33,15.17,0.0,0.0,85.5,9.83
+1349,tres-cantos,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,N,18.0,18.0,7.0,0.0,0.0,86.0,8.5
+1350,valdaracete,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,23.0,23.0,22.0,0.1,0.0,66.0,11.0
+1351,valdaracete,2024-08-29,tarde,['Cubierto' 'Intervalos nubosos con lluvia escasa'],Muy alta,Baja,Muy alta,S,25.17,25.17,30.33,0.03,0.0,50.0,15.5
+1352,valdaracete,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Alta,['N' 'S'],20.0,20.0,28.4,0.02,0.0,68.4,17.8
+1353,valdaracete,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,SE,17.33,17.33,23.0,0.02,0.0,92.0,15.17
+1354,valdaracete,2024-08-30,mediodia,['Cubierto' 'Nubes altas'],Muy alta,Baja,Baja,SE,19.86,19.86,30.29,0.0,0.0,87.0,17.71
+1355,valdaracete,2024-08-30,tarde,Muy nuboso con lluvia escasa,Muy alta,Baja,Alta,E,27.5,27.5,27.33,0.08,0.0,47.33,12.67
+1356,valdaracete,2024-08-30,noche,Cielo despejado,Baja,Baja,Baja,SE,21.2,21.2,23.4,0.02,0.0,72.0,14.8
+1357,valdaracete,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,SE,18.17,18.17,25.83,0.0,0.0,76.0,16.67
+1358,valdaracete,2024-08-31,mediodia,Cubierto,Baja,Baja,Baja,NE,16.5,16.5,13.0,0.0,0.0,80.5,11.0
+1359,valdeavero,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,SE,24.0,24.0,18.0,0.0,0.0,65.0,9.0
+1360,valdeavero,2024-08-29,tarde,['Cubierto' 'Nubes altas'],Muy alta,Baja,Alta,S,25.17,25.17,29.5,0.0,0.0,51.67,15.33
+1361,valdeavero,2024-08-29,noche,"['Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia'
+ 'Nubes altas' 'Nuboso con lluvia escasa' 'Poco nuboso']",Muy alta,Baja,Alta,N,21.0,21.0,27.6,0.7,0.0,82.4,15.8
+1362,valdeavero,2024-08-30,madrugada,"['Cielo despejado' 'Cubierto' 'Intervalos nubosos'
+ 'Intervalos nubosos con lluvia escasa' 'Nuboso' 'Poco nuboso']",Baja,Baja,Baja,NE,17.83,17.83,28.0,0.02,0.0,99.67,18.5
+1363,valdeavero,2024-08-30,mediodia,Muy nuboso,Muy alta,Baja,Media,NE,19.86,19.86,25.0,0.0,0.0,90.71,16.29
+1364,valdeavero,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Alta,['E' 'N'],27.83,28.67,18.83,0.02,0.0,57.0,12.5
+1365,valdeavero,2024-08-30,noche,Poco nuboso,Media,Baja,Media,NE,22.4,22.4,15.4,0.0,0.0,84.8,10.0
+1366,valdeavero,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,NE,18.17,18.17,13.17,0.0,0.0,92.33,9.0
+1367,valdeavero,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'N'],16.5,16.5,12.5,0.0,0.0,96.0,9.0
+1368,valdelaguna,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,19.0,0.1,0.0,59.0,11.0
+1369,valdelaguna,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,26.33,26.33,30.0,0.02,0.0,44.5,15.67
+1370,valdelaguna,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Alta,N,20.2,20.2,25.6,0.08,0.0,70.4,18.2
+1371,valdelaguna,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,E,17.33,17.33,23.5,0.0,0.0,92.67,15.33
+1372,valdelaguna,2024-08-30,mediodia,['Cubierto' 'Nubes altas' 'Poco nuboso'],Muy alta,Baja,Baja,SE,19.86,19.86,33.57,0.0,0.0,85.86,19.71
+1373,valdelaguna,2024-08-30,tarde,['Muy nuboso' 'Poco nuboso'],Muy alta,Baja,Alta,['E' 'N'],28.0,28.67,32.67,0.02,0.0,51.0,17.33
+1374,valdelaguna,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,E,22.2,22.2,25.6,0.0,0.0,66.2,17.2
+1375,valdelaguna,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,SE,18.67,18.67,36.83,0.0,0.0,78.0,25.67
+1376,valdelaguna,2024-08-31,mediodia,Poco nuboso,Baja,Baja,Baja,['E' 'N'],17.0,17.0,12.0,0.0,0.0,86.5,5.0
+1377,valdemanco,2024-08-29,mediodia,Nuboso,Muy alta,Baja,Alta,SE,21.0,21.0,23.0,0.0,0.0,72.0,6.0
+1378,valdemanco,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,S,22.67,22.67,41.5,0.02,0.0,62.0,11.5
+1379,valdemanco,2024-08-29,noche,['Nubes altas' 'Poco nuboso'],Muy alta,Baja,Alta,['NE' 'NO' 'O' 'S' 'SO'],17.8,17.8,13.8,0.12,0.0,66.0,10.0
+1380,valdemanco,2024-08-30,madrugada,Cubierto,Baja,Baja,Baja,NO,15.0,15.0,10.5,0.67,0.0,97.83,4.0
+1381,valdemanco,2024-08-30,mediodia,['Cielo despejado' 'Cubierto'],Muy alta,Baja,Alta,['E' 'NO' 'SE'],17.0,17.0,20.0,1.8,0.0,90.29,6.14
+1382,valdemanco,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,S,25.33,25.33,24.5,0.25,0.0,44.83,8.67
+1383,valdemanco,2024-08-30,noche,Poco nuboso,Media,Baja,Media,['S' 'SE'],20.8,20.8,7.6,0.02,0.0,67.8,3.2
+1384,valdemanco,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,SE,16.33,16.33,14.0,0.0,0.0,87.0,5.5
+1385,valdemanco,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,O,15.5,15.5,12.0,0.0,0.0,86.5,6.0
+1386,valdemaqueda,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,24.0,24.0,25.0,0.1,0.0,61.0,10.0
+1387,valdemaqueda,2024-08-29,tarde,['Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia escasa'],Muy alta,Baja,Alta,['S' 'SE'],25.83,25.83,30.67,0.1,0.0,45.67,12.17
+1388,valdemaqueda,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Media,NE,20.4,20.4,14.0,0.02,0.0,67.2,7.8
+1389,valdemaqueda,2024-08-30,madrugada,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,17.33,17.33,20.5,0.0,0.0,74.0,9.33
+1390,valdemaqueda,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,E,19.71,19.71,30.29,0.0,0.0,82.14,13.43
+1391,valdemaqueda,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,27.5,27.5,20.17,0.08,0.0,44.17,8.17
+1392,valdemaqueda,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,21.8,21.8,19.8,0.02,0.0,64.4,9.0
+1393,valdemaqueda,2024-08-31,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,E,18.33,18.33,20.17,0.0,0.0,82.0,11.0
+1394,valdemaqueda,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'NE'],17.0,17.0,7.0,0.0,0.0,79.5,3.5
+1395,valdemorillo,2024-08-29,mediodia,Cubierto con lluvia escasa,Muy alta,Baja,Alta,E,22.5,22.5,23.0,0.1,0.0,73.5,10.0
+1396,valdemorillo,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,26.0,26.0,29.17,0.03,0.0,54.67,15.0
+1397,valdemorillo,2024-08-29,noche,Muy nuboso,Muy alta,Baja,Alta,N,20.6,20.6,15.2,0.06,0.0,64.2,8.4
+1398,valdemorillo,2024-08-30,madrugada,['Muy nuboso' 'Nuboso'],Baja,Baja,Baja,N,19.0,19.0,12.33,0.0,0.0,77.83,7.17
+1399,valdemorillo,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,20.14,20.14,21.86,0.0,0.0,86.43,11.71
+1400,valdemorillo,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['E' 'NE'],27.5,27.5,22.0,0.02,0.0,46.0,9.5
+1401,valdemorillo,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,N,22.0,22.0,12.4,0.0,0.0,66.4,8.0
+1402,valdemorillo,2024-08-31,madrugada,['Cielo despejado' 'Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,N,19.67,19.67,12.0,0.0,0.0,82.83,6.33
+1403,valdemorillo,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,N,18.0,18.0,10.0,0.0,0.0,89.0,8.0
+1404,valdemoro,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,17.0,0.1,0.0,53.0,9.0
+1405,valdemoro,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,SE,26.83,26.83,37.33,0.02,0.0,42.67,15.33
+1406,valdemoro,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Alta,N,20.2,20.2,23.4,0.04,0.0,75.6,18.0
+1407,valdemoro,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NE,18.0,18.0,19.17,0.0,0.0,94.33,13.33
+1408,valdemoro,2024-08-30,mediodia,['Cubierto' 'Nuboso'],Muy alta,Baja,Baja,N,20.29,20.29,24.43,0.0,0.0,89.43,15.43
+1409,valdemoro,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Alta,['N' 'NE'],28.67,29.83,30.33,0.02,0.0,56.67,19.5
+1410,valdemoro,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,24.2,24.4,17.6,0.0,0.0,66.4,11.2
+1411,valdemoro,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,['E' 'SE'],19.33,19.33,24.17,0.0,0.0,81.67,14.17
+1412,valdemoro,2024-08-31,mediodia,['Cubierto' 'Intervalos nubosos'],Baja,Baja,Baja,['N' 'NE'],17.5,17.5,10.5,0.0,0.0,90.0,13.5
+1413,valdeolmos-alalpardo,2024-08-29,mediodia,Cubierto con tormenta y lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,15.0,0.1,0.0,67.0,8.0
+1414,valdeolmos-alalpardo,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,S,25.83,26.0,27.83,0.03,0.0,52.0,10.83
+1415,valdeolmos-alalpardo,2024-08-29,noche,['Cubierto' 'Cubierto con lluvia' 'Muy nuboso' 'Nuboso' 'Poco nuboso'],Muy alta,Baja,Alta,NE,21.0,21.0,23.4,0.4,0.0,68.8,15.8
+1416,valdeolmos-alalpardo,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NE,18.33,18.33,20.17,0.17,0.0,94.5,14.5
+1417,valdeolmos-alalpardo,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.0,20.0,23.43,0.0,0.0,88.71,13.29
+1418,valdeolmos-alalpardo,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Alta,NE,28.17,28.67,20.17,0.02,0.0,51.67,11.33
+1419,valdeolmos-alalpardo,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NE,23.2,23.2,15.6,0.0,0.0,81.6,9.4
+1420,valdeolmos-alalpardo,2024-08-31,madrugada,['Cubierto' 'Poco nuboso'],Baja,Baja,Baja,E,19.0,19.0,13.17,0.0,0.0,88.33,9.67
+1421,valdeolmos-alalpardo,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['E' 'N'],17.0,17.0,16.0,0.0,0.0,90.5,11.0
+1422,valdepielagos,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,E,23.0,23.0,12.0,0.0,0.0,78.0,7.0
+1423,valdepielagos,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,['E' 'O'],25.0,25.0,16.5,0.17,0.0,62.5,7.0
+1424,valdepielagos,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,NE,20.2,20.2,22.8,0.12,0.0,82.4,11.4
+1425,valdepielagos,2024-08-30,madrugada,['Cielo despejado' 'Muy nuboso'],Media,Baja,Media,NE,17.5,17.5,22.17,0.0,0.0,93.67,15.5
+1426,valdepielagos,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,19.14,19.14,28.29,0.0,0.0,90.57,15.0
+1427,valdepielagos,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,E,27.5,28.0,15.33,0.02,0.0,52.83,11.33
+1428,valdepielagos,2024-08-30,noche,Poco nuboso,Media,Baja,Media,['E' 'NE'],22.8,22.8,14.6,0.0,0.0,81.8,8.4
+1429,valdepielagos,2024-08-31,madrugada,['Cielo despejado' 'Cubierto' 'Muy nuboso'],Baja,Baja,Baja,['E' 'NE'],18.5,18.5,15.17,0.0,0.0,90.5,10.33
+1430,valdepielagos,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NE,16.5,16.5,14.0,0.0,0.0,93.5,10.5
+1431,valdetorres-de-jarama,2024-08-29,mediodia,Cubierto,Muy alta,Baja,Alta,E,24.0,24.0,7.0,0.0,0.0,76.0,4.0
+1432,valdetorres-de-jarama,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,O,26.0,26.33,19.83,0.18,0.0,61.0,6.67
+1433,valdetorres-de-jarama,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Alta,N,21.0,21.0,21.6,0.04,0.0,79.2,15.2
+1434,valdetorres-de-jarama,2024-08-30,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,N,18.17,18.17,20.67,0.0,0.0,93.5,14.17
+1435,valdetorres-de-jarama,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,['E' 'N' 'SE'],20.0,20.0,21.57,0.0,0.0,89.57,11.29
+1436,valdetorres-de-jarama,2024-08-30,tarde,['Nubes altas' 'Poco nuboso'],Muy alta,Baja,Media,N,28.17,28.67,14.5,0.0,0.0,51.5,9.0
+1437,valdetorres-de-jarama,2024-08-30,noche,Poco nuboso,Media,Baja,Media,['N' 'NE'],23.2,23.2,12.4,0.0,0.0,82.4,7.6
+1438,valdetorres-de-jarama,2024-08-31,madrugada,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,E,19.0,19.0,12.0,0.0,0.0,91.67,8.33
+1439,valdetorres-de-jarama,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'NE'],17.0,17.0,13.0,0.0,0.0,94.5,7.0
+1440,valdilecha,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,24.0,24.0,22.0,0.1,0.0,63.0,12.0
+1441,valdilecha,2024-08-29,tarde,['Cubierto' 'Nuboso'],Muy alta,Baja,Alta,S,25.5,25.5,30.33,0.03,0.0,49.33,16.0
+1442,valdilecha,2024-08-29,noche,['Cielo despejado' 'Cubierto'],Muy alta,Baja,Alta,NE,19.8,19.8,29.8,0.02,0.0,70.6,15.0
+1443,valdilecha,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,E,17.33,17.33,23.83,0.0,0.0,92.33,16.0
+1444,valdilecha,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,SE,19.57,19.57,28.29,0.0,0.0,87.57,15.43
+1445,valdilecha,2024-08-30,tarde,"['Cubierto' 'Intervalos nubosos con lluvia escasa'
+ 'Muy nuboso con lluvia escasa' 'Nubes altas' 'Nuboso' 'Poco nuboso']",Muy alta,Baja,Alta,N,27.5,28.0,30.5,0.03,0.0,54.33,15.83
+1446,valdilecha,2024-08-30,noche,Nuboso,Baja,Baja,Baja,E,21.6,21.6,21.0,0.0,0.0,68.0,14.6
+1447,valdilecha,2024-08-31,madrugada,Poco nuboso,Baja,Baja,Baja,SE,18.17,18.17,25.0,0.0,0.0,74.67,15.83
+1448,valdilecha,2024-08-31,mediodia,Poco nuboso,Baja,Baja,Baja,NE,16.0,16.0,16.5,0.0,0.0,83.0,10.0
+1449,valverde-de-alcala,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,SE,24.0,24.0,19.0,0.0,0.0,65.0,11.0
+1450,valverde-de-alcala,2024-08-29,tarde,['Cubierto' 'Nuboso'],Muy alta,Baja,Muy alta,S,25.5,25.5,31.17,0.0,0.0,51.67,15.67
+1451,valverde-de-alcala,2024-08-29,noche,"['Cubierto con lluvia escasa' 'Cubierto con tormenta y lluvia escasa'
+ 'Intervalos nubosos con lluvia escasa' 'Muy nuboso con lluvia escasa'
+ 'Poco nuboso']",Muy alta,Baja,Alta,['N' 'NE'],20.4,20.4,26.6,0.14,0.0,78.4,14.8
+1452,valverde-de-alcala,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,E,17.5,17.5,22.83,0.0,0.0,94.67,16.33
+1453,valverde-de-alcala,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,E,19.57,19.57,28.57,0.0,0.0,90.29,16.43
+1454,valverde-de-alcala,2024-08-30,tarde,"['Cubierto' 'Intervalos nubosos con lluvia escasa' 'Muy nuboso'
+ 'Nubes altas' 'Nuboso' 'Poco nuboso']",Muy alta,Baja,Alta,['N' 'NE'],27.67,29.0,21.5,0.02,0.0,61.17,12.67
+1455,valverde-de-alcala,2024-08-30,noche,Cielo despejado,Baja,Baja,Baja,E,21.8,21.8,18.2,0.0,0.0,86.2,9.4
+1456,valverde-de-alcala,2024-08-31,madrugada,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,E,18.33,18.33,24.17,0.0,0.0,86.67,16.0
+1457,valverde-de-alcala,2024-08-31,mediodia,['Cielo despejado' 'Cubierto'],Baja,Baja,Baja,['E' 'NE'],16.0,16.0,13.0,0.0,0.0,96.5,6.0
+1458,velilla-de-san-antonio,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,26.0,26.0,17.0,0.1,0.0,55.0,8.0
+1459,velilla-de-san-antonio,2024-08-29,tarde,"['Cubierto' 'Cubierto con tormenta y lluvia escasa'
+ 'Intervalos nubosos con lluvia escasa' 'Muy nuboso' 'Nubes altas'
+ 'Poco nuboso']",Muy alta,Baja,Muy alta,S,27.67,27.67,33.0,0.07,0.0,43.33,13.83
+1460,velilla-de-san-antonio,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Alta,NE,22.2,22.2,26.6,0.2,0.0,72.4,20.2
+1461,velilla-de-san-antonio,2024-08-30,madrugada,['Cielo despejado' 'Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,18.33,18.33,19.5,0.0,0.0,96.5,13.83
+1462,velilla-de-san-antonio,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,21.0,21.0,25.0,0.0,0.0,87.43,13.0
+1463,velilla-de-san-antonio,2024-08-30,tarde,Cubierto,Muy alta,Baja,Alta,NE,29.0,30.33,23.0,0.02,0.0,53.17,15.33
+1464,velilla-de-san-antonio,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,24.0,24.2,10.4,0.0,0.0,77.8,7.4
+1465,velilla-de-san-antonio,2024-08-31,madrugada,['Cubierto' 'Nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,19.67,19.67,10.83,0.0,0.0,83.83,6.5
+1466,velilla-de-san-antonio,2024-08-31,mediodia,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],18.0,18.0,12.5,0.0,0.0,93.0,8.0
+1467,vellon-el,2024-08-29,mediodia,Muy nuboso,Muy alta,Baja,Alta,E,22.0,22.0,14.0,0.0,0.0,77.0,5.0
+1468,vellon-el,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,['E' 'SO'],24.0,24.0,32.0,0.03,0.0,61.17,8.0
+1469,vellon-el,2024-08-29,noche,"['Cielo despejado' 'Cubierto' 'Intervalos nubosos con lluvia escasa'
+ 'Nuboso con tormenta y lluvia escasa' 'Poco nuboso']",Muy alta,Baja,Alta,N,19.0,19.0,14.8,0.08,0.0,71.2,11.0
+1470,vellon-el,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,N,16.5,16.5,18.0,0.08,0.0,92.5,10.67
+1471,vellon-el,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,18.43,18.43,22.86,0.0,0.0,90.57,10.71
+1472,vellon-el,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,N,26.67,26.67,18.5,0.02,0.0,45.33,10.0
+1473,vellon-el,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Media,Baja,Media,N,22.0,22.0,6.4,0.0,0.0,73.2,3.6
+1474,vellon-el,2024-08-31,madrugada,['Cielo despejado' 'Cubierto'],Baja,Baja,Baja,['N' 'NE'],18.33,18.33,7.33,0.0,0.0,90.33,3.83
+1475,vellon-el,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,['N' 'SO'],16.5,16.5,4.0,0.0,0.0,89.0,3.5
+1476,venturada,2024-08-29,mediodia,Nuboso con tormenta y lluvia escasa,Muy alta,Baja,Alta,SE,23.0,23.0,14.0,0.1,0.0,76.0,7.0
+1477,venturada,2024-08-29,tarde,Nubes altas,Muy alta,Baja,Alta,['S' 'SE'],24.5,24.5,29.83,0.12,0.0,58.5,8.5
+1478,venturada,2024-08-29,noche,Poco nuboso,Muy alta,Baja,Alta,N,19.2,19.2,19.8,0.2,0.0,74.8,14.2
+1479,venturada,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,N,16.67,16.67,18.0,0.02,0.0,93.5,11.83
+1480,venturada,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Media,NE,18.29,18.29,23.43,0.0,0.0,89.0,12.57
+1481,venturada,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,['E' 'N'],27.0,27.17,18.17,0.0,0.0,50.0,11.5
+1482,venturada,2024-08-30,noche,Cielo despejado,Media,Baja,Media,N,22.0,22.0,8.8,0.0,0.0,78.0,6.0
+1483,venturada,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,N,18.33,18.33,10.0,0.0,0.0,90.17,5.67
+1484,venturada,2024-08-31,mediodia,['Cielo despejado' 'Nubes altas'],Baja,Baja,Baja,NO,16.5,16.5,8.0,0.0,0.0,93.0,7.0
+1485,villa-del-prado,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Alta,Baja,Alta,E,26.0,26.0,16.0,0.1,0.0,46.0,8.0
+1486,villa-del-prado,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,SE,29.17,29.33,24.17,0.15,0.0,40.83,10.5
+1487,villa-del-prado,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Media,NE,23.4,23.6,19.4,0.0,0.0,72.4,13.4
+1488,villa-del-prado,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,NE,18.67,18.67,14.67,0.0,0.0,87.17,9.17
+1489,villa-del-prado,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,21.29,21.57,24.71,0.0,0.0,83.57,14.43
+1490,villa-del-prado,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,NE,30.33,30.67,30.67,0.0,0.0,46.0,17.17
+1491,villa-del-prado,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,25.6,25.6,18.4,0.0,0.0,61.6,12.8
+1492,villa-del-prado,2024-08-31,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,NE,20.17,20.17,18.33,0.0,0.0,85.33,11.33
+1493,villa-del-prado,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,19.0,19.0,8.0,0.0,0.0,85.0,5.5
+1494,villaconejos,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,19.0,0.1,0.0,56.0,10.0
+1495,villaconejos,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,27.17,27.17,33.83,0.02,0.0,42.17,18.83
+1496,villaconejos,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['N' 'NE'],20.6,20.6,30.8,0.1,0.0,68.4,19.0
+1497,villaconejos,2024-08-30,madrugada,Nuboso,Baja,Baja,Baja,E,17.17,17.17,29.67,0.03,0.0,92.83,21.17
+1498,villaconejos,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,SE,20.57,20.57,33.43,0.0,0.0,85.86,21.71
+1499,villaconejos,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,29.33,29.67,32.83,0.08,0.0,44.67,16.67
+1500,villaconejos,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,E,23.8,23.8,29.8,0.02,0.0,65.2,20.0
+1501,villaconejos,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,E,18.33,18.33,38.33,0.0,0.0,80.83,26.67
+1502,villaconejos,2024-08-31,mediodia,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,N,17.0,17.0,15.0,0.0,0.0,91.5,11.5
+1503,villalbilla,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,SE,24.0,24.0,19.0,0.0,0.0,65.0,11.0
+1504,villalbilla,2024-08-29,tarde,['Cubierto' 'Nubes altas'],Muy alta,Baja,Muy alta,S,25.17,25.17,31.17,0.0,0.0,51.67,15.67
+1505,villalbilla,2024-08-29,noche,Cubierto con lluvia escasa,Muy alta,Baja,Alta,['N' 'NE'],20.2,20.2,26.6,0.14,0.0,78.4,14.8
+1506,villalbilla,2024-08-30,madrugada,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,E,17.33,17.33,22.83,0.0,0.0,94.67,16.33
+1507,villalbilla,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,E,19.29,19.29,28.57,0.0,0.0,90.29,16.43
+1508,villalbilla,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['N' 'NE'],27.5,28.67,21.5,0.02,0.0,61.17,12.67
+1509,villalbilla,2024-08-30,noche,Cielo despejado,Baja,Baja,Baja,E,21.2,21.2,18.2,0.0,0.0,86.2,9.4
+1510,villalbilla,2024-08-31,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,E,18.0,18.0,24.17,0.0,0.0,86.67,16.0
+1511,villalbilla,2024-08-31,mediodia,['Cielo despejado' 'Cubierto'],Baja,Baja,Baja,['E' 'NE'],16.0,16.0,13.0,0.0,0.0,96.5,6.0
+1512,villamanrique-de-tajo,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,19.0,0.1,0.0,60.0,7.0
+1513,villamanrique-de-tajo,2024-08-29,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,S,27.5,27.5,29.0,0.05,0.0,44.5,15.33
+1514,villamanrique-de-tajo,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,['N' 'S'],23.0,23.0,28.0,0.08,0.0,59.8,18.6
+1515,villamanrique-de-tajo,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NE,19.0,19.0,15.0,0.03,0.0,89.33,11.67
+1516,villamanrique-de-tajo,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,SE,21.43,21.43,28.29,0.0,0.0,84.0,15.14
+1517,villamanrique-de-tajo,2024-08-30,tarde,Poco nuboso,Muy alta,Baja,Alta,E,29.5,29.83,30.67,0.0,0.0,45.17,15.5
+1518,villamanrique-de-tajo,2024-08-30,noche,Cubierto,Baja,Baja,Baja,NE,24.2,24.4,18.4,0.06,0.0,70.6,14.2
+1519,villamanrique-de-tajo,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,['E' 'N' 'SE'],20.0,20.0,26.33,0.0,0.0,80.33,15.33
+1520,villamanrique-de-tajo,2024-08-31,mediodia,['Muy nuboso' 'Nubes altas'],Baja,Baja,Baja,E,18.0,18.0,10.5,0.0,0.0,93.0,8.0
+1521,villamanta,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,26.0,26.0,19.0,0.1,0.0,55.0,9.0
+1522,villamanta,2024-08-29,tarde,['Cubierto' 'Intervalos nubosos con lluvia escasa'],Muy alta,Baja,Alta,S,28.5,28.67,21.83,0.53,0.0,43.5,9.67
+1523,villamanta,2024-08-29,noche,Muy nuboso,Muy alta,Baja,Alta,NE,21.6,21.6,21.6,0.02,0.0,85.0,14.6
+1524,villamanta,2024-08-30,madrugada,['Cubierto' 'Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,18.67,18.67,25.17,0.0,0.0,92.17,17.0
+1525,villamanta,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,21.14,21.14,26.0,0.0,0.0,86.86,16.86
+1526,villamanta,2024-08-30,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Media,NE,29.67,30.67,26.67,0.08,0.0,51.67,18.67
+1527,villamanta,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,25.0,25.6,20.2,0.02,0.0,70.4,13.4
+1528,villamanta,2024-08-31,madrugada,['Cielo despejado' 'Muy nuboso'],Baja,Baja,Baja,NE,20.17,20.17,18.33,0.0,0.0,86.83,13.0
+1529,villamanta,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,19.0,19.0,12.0,0.0,0.0,84.0,9.0
+1530,villamantilla,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,26.0,26.0,16.0,0.1,0.0,53.0,8.0
+1531,villamantilla,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,28.5,28.67,18.83,0.85,0.0,43.0,7.83
+1532,villamantilla,2024-08-29,noche,Muy nuboso,Muy alta,Baja,Alta,['N' 'NE'],21.6,21.6,18.8,0.02,0.0,83.8,12.6
+1533,villamantilla,2024-08-30,madrugada,['Cubierto' 'Muy nuboso'],Baja,Baja,Baja,NE,18.5,18.5,21.17,0.0,0.0,92.17,13.0
+1534,villamantilla,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,21.14,21.14,23.86,0.0,0.0,87.71,13.43
+1535,villamantilla,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,NE,29.67,30.67,28.17,0.02,0.0,49.67,18.0
+1536,villamantilla,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,24.4,24.8,18.4,0.0,0.0,70.2,12.8
+1537,villamantilla,2024-08-31,madrugada,Muy nuboso,Baja,Baja,Baja,NE,19.83,19.83,15.67,0.0,0.0,89.67,10.33
+1538,villamantilla,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,19.0,19.0,8.5,0.0,0.0,88.0,6.5
+1539,villanueva-de-la-canada,2024-08-29,mediodia,Muy nuboso con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,20.0,0.1,0.0,60.0,10.0
+1540,villanueva-de-la-canada,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,SE,27.0,27.0,28.17,0.68,0.0,47.67,10.83
+1541,villanueva-de-la-canada,2024-08-29,noche,Cubierto con lluvia escasa,Muy alta,Baja,Alta,['N' 'NE'],20.8,20.8,18.6,0.1,0.0,81.0,11.2
+1542,villanueva-de-la-canada,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NE,18.67,18.67,19.33,0.0,0.0,89.17,12.0
+1543,villanueva-de-la-canada,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.71,20.71,29.14,0.0,0.0,86.71,15.57
+1544,villanueva-de-la-canada,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,NE,28.5,28.83,24.67,0.0,0.0,49.0,17.5
+1545,villanueva-de-la-canada,2024-08-30,noche,Nubes altas,Baja,Baja,Baja,NE,22.4,22.4,14.4,0.0,0.0,75.8,9.8
+1546,villanueva-de-la-canada,2024-08-31,madrugada,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,NE,19.67,19.67,15.67,0.0,0.0,88.0,10.33
+1547,villanueva-de-la-canada,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,18.0,18.0,8.5,0.0,0.0,87.0,6.0
+1548,villanueva-de-perales,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,25.0,25.0,19.0,0.1,0.0,57.0,9.0
+1549,villanueva-de-perales,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,S,28.33,28.5,19.83,0.85,0.0,44.5,8.5
+1550,villanueva-de-perales,2024-08-29,noche,['Cubierto' 'Muy nuboso'],Muy alta,Baja,Alta,NE,21.2,21.2,19.4,0.02,0.0,81.8,12.0
+1551,villanueva-de-perales,2024-08-30,madrugada,['Cubierto' 'Muy nuboso'],Baja,Baja,Baja,NE,18.5,18.5,23.17,0.0,0.0,90.67,14.17
+1552,villanueva-de-perales,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,21.0,21.0,28.14,0.0,0.0,87.0,15.43
+1553,villanueva-de-perales,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,NE,29.17,29.5,28.0,0.02,0.0,48.33,18.0
+1554,villanueva-de-perales,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,24.0,24.2,17.2,0.0,0.0,72.8,11.2
+1555,villanueva-de-perales,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,NE,19.67,19.67,17.5,0.0,0.0,90.0,11.17
+1556,villanueva-de-perales,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['E' 'NE'],19.0,19.0,12.0,0.0,0.0,87.0,8.5
+1557,villanueva-del-pardillo,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,20.0,0.1,0.0,60.0,10.0
+1558,villanueva-del-pardillo,2024-08-29,tarde,Cubierto,Muy alta,Baja,Alta,SE,26.83,26.83,28.17,0.68,0.0,47.67,10.83
+1559,villanueva-del-pardillo,2024-08-29,noche,"['Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia escasa'
+ 'Muy nuboso' 'Nubes altas' 'Poco nuboso']",Muy alta,Baja,Alta,['N' 'NE'],20.4,20.4,18.6,0.1,0.0,81.0,11.2
+1560,villanueva-del-pardillo,2024-08-30,madrugada,['Muy nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,18.33,18.33,19.33,0.0,0.0,89.17,12.0
+1561,villanueva-del-pardillo,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.86,20.86,29.14,0.0,0.0,86.71,15.57
+1562,villanueva-del-pardillo,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Media,NE,28.67,29.0,24.67,0.0,0.0,49.0,17.5
+1563,villanueva-del-pardillo,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,22.2,22.2,14.4,0.0,0.0,75.8,9.8
+1564,villanueva-del-pardillo,2024-08-31,madrugada,['Nuboso' 'Poco nuboso'],Baja,Baja,Baja,NE,19.33,19.33,15.67,0.0,0.0,88.0,10.33
+1565,villanueva-del-pardillo,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,18.0,18.0,8.5,0.0,0.0,87.0,6.0
+1566,villar-del-olmo,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,SE,23.0,23.0,20.0,0.1,0.0,65.0,9.0
+1567,villar-del-olmo,2024-08-29,tarde,['Cubierto' 'Nuboso'],Muy alta,Baja,Muy alta,S,24.83,24.83,29.0,0.03,0.0,51.17,14.17
+1568,villar-del-olmo,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,NE,19.6,19.6,26.8,0.08,0.0,69.4,15.6
+1569,villar-del-olmo,2024-08-30,madrugada,Intervalos nubosos con lluvia escasa,Baja,Baja,Baja,NE,17.33,17.33,16.5,0.03,0.0,92.17,10.17
+1570,villar-del-olmo,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,E,19.29,19.29,27.29,0.0,0.0,87.43,12.29
+1571,villar-del-olmo,2024-08-30,tarde,Nuboso,Muy alta,Baja,Alta,E,27.5,27.67,27.0,0.03,0.0,49.83,10.33
+1572,villar-del-olmo,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,['E' 'SE'],21.0,21.0,16.6,0.0,0.0,70.2,11.8
+1573,villar-del-olmo,2024-08-31,madrugada,Nuboso,Baja,Baja,Baja,SE,17.83,17.83,18.67,0.0,0.0,73.67,10.0
+1574,villar-del-olmo,2024-08-31,mediodia,['Cielo despejado' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NE'],16.0,16.0,10.5,0.0,0.0,78.5,7.5
+1575,villarejo-de-salvanes,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,24.0,24.0,21.0,0.1,0.0,61.0,11.0
+1576,villarejo-de-salvanes,2024-08-29,tarde,Poco nuboso,Muy alta,Baja,Alta,S,25.5,25.5,31.83,0.03,0.0,46.83,17.17
+1577,villarejo-de-salvanes,2024-08-29,noche,Cielo despejado,Muy alta,Baja,Alta,NE,19.6,19.6,29.8,0.02,0.0,71.0,19.2
+1578,villarejo-de-salvanes,2024-08-30,madrugada,Nuboso,Baja,Baja,Baja,SE,17.33,17.33,26.17,0.02,0.0,92.5,18.5
+1579,villarejo-de-salvanes,2024-08-30,mediodia,['Cubierto' 'Poco nuboso'],Muy alta,Baja,Baja,SE,19.71,19.71,34.29,0.0,0.0,86.43,22.0
+1580,villarejo-de-salvanes,2024-08-30,tarde,"['Cubierto' 'Intervalos nubosos con lluvia escasa' 'Muy nuboso' 'Nuboso'
+ 'Nuboso con lluvia escasa' 'Poco nuboso']",Muy alta,Baja,Alta,E,27.67,27.67,32.0,0.03,0.0,46.0,16.67
+1581,villarejo-de-salvanes,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,E,21.6,21.6,26.0,0.0,0.0,70.6,18.2
+1582,villarejo-de-salvanes,2024-08-31,madrugada,Cubierto,Baja,Baja,Baja,SE,18.33,18.33,31.17,0.0,0.0,81.33,20.67
+1583,villarejo-de-salvanes,2024-08-31,mediodia,['Muy nuboso' 'Nuboso'],Baja,Baja,Baja,N,16.5,16.5,11.5,0.0,0.0,93.5,6.0
+1584,villaviciosa-de-odon,2024-08-29,mediodia,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,E,25.0,25.0,21.0,0.1,0.0,59.0,9.0
+1585,villaviciosa-de-odon,2024-08-29,tarde,"['Cubierto' 'Cubierto con lluvia escasa' 'Intervalos nubosos con lluvia'
+ 'Intervalos nubosos con lluvia escasa' 'Muy nuboso' 'Nuboso']",Muy alta,Baja,Alta,SE,27.0,27.0,30.0,0.7,0.0,48.83,15.67
+1586,villaviciosa-de-odon,2024-08-29,noche,Nuboso,Muy alta,Baja,Alta,NE,20.2,20.2,24.6,0.02,0.0,80.4,14.2
+1587,villaviciosa-de-odon,2024-08-30,madrugada,Muy nuboso,Baja,Baja,Baja,NE,18.17,18.17,31.83,0.0,0.0,89.83,20.0
+1588,villaviciosa-de-odon,2024-08-30,mediodia,Cubierto,Muy alta,Baja,Baja,NE,20.57,20.57,33.43,0.0,0.0,86.29,19.86
+1589,villaviciosa-de-odon,2024-08-30,tarde,['Muy nuboso' 'Nubes altas'],Muy alta,Baja,Alta,NE,28.17,28.33,28.5,0.0,0.0,50.0,19.0
+1590,villaviciosa-de-odon,2024-08-30,noche,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,22.8,22.8,21.4,0.02,0.0,77.4,13.4
+1591,villaviciosa-de-odon,2024-08-31,madrugada,['Cubierto' 'Muy nuboso'],Baja,Baja,Baja,NE,19.33,19.33,17.83,0.0,0.0,88.17,12.33
+1592,villaviciosa-de-odon,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,NE,18.0,18.0,13.5,0.0,0.0,86.5,8.5
+1593,villavieja-del-lozoya,2024-08-29,mediodia,Nubes altas,Muy alta,Baja,Alta,SE,23.0,23.0,24.0,0.0,0.0,63.0,4.0
+1594,villavieja-del-lozoya,2024-08-29,tarde,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Muy alta,['S' 'SE'],23.67,23.67,28.5,0.08,0.0,54.5,15.83
+1595,villavieja-del-lozoya,2024-08-29,noche,['Cielo despejado' 'Nubes altas'],Muy alta,Baja,Alta,['N' 'NE' 'NO' 'SE' 'SO'],18.8,18.8,11.8,0.02,0.0,53.0,7.6
+1596,villavieja-del-lozoya,2024-08-30,madrugada,Poco nuboso,Baja,Baja,Baja,SO,14.83,14.83,8.33,0.18,0.0,89.5,4.5
+1597,villavieja-del-lozoya,2024-08-30,mediodia,['Cielo despejado' 'Cubierto'],Muy alta,Baja,Alta,NO,16.71,16.71,16.71,2.14,0.0,90.86,6.43
+1598,villavieja-del-lozoya,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,['N' 'SE'],26.17,26.17,12.5,0.18,0.0,48.0,6.67
+1599,villavieja-del-lozoya,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,NO,21.8,21.8,9.2,0.0,0.0,67.6,7.2
+1600,villavieja-del-lozoya,2024-08-31,madrugada,Cielo despejado,Baja,Baja,Baja,['NO' 'O'],15.33,15.33,7.17,0.0,0.0,97.83,3.83
+1601,villavieja-del-lozoya,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['NE' 'NO'],13.5,13.5,3.5,0.0,0.0,99.5,4.5
+1602,zarzalejo,2024-08-29,mediodia,Cubierto con lluvia escasa,Alta,Baja,Alta,E,22.0,22.0,20.0,0.1,0.0,70.0,11.0
+1603,zarzalejo,2024-08-29,tarde,Muy nuboso con lluvia escasa,Muy alta,Baja,Alta,S,24.0,24.0,32.0,0.1,0.0,53.67,18.17
+1604,zarzalejo,2024-08-29,noche,Intervalos nubosos con lluvia escasa,Muy alta,Baja,Alta,N,18.8,18.8,14.2,0.1,0.0,67.2,8.8
+1605,zarzalejo,2024-08-30,madrugada,['Muy nuboso con lluvia escasa' 'Nubes altas'],Baja,Baja,Baja,N,16.33,16.33,18.17,0.03,0.0,78.5,11.0
+1606,zarzalejo,2024-08-30,mediodia,['Cielo despejado' 'Muy nuboso'],Muy alta,Baja,Media,['E' 'N'],18.71,18.71,23.86,0.0,0.0,87.57,13.43
+1607,zarzalejo,2024-08-30,tarde,Nubes altas,Muy alta,Baja,Alta,E,25.83,25.83,19.33,0.02,0.0,53.17,8.33
+1608,zarzalejo,2024-08-30,noche,Poco nuboso,Baja,Baja,Baja,N,20.4,20.4,14.8,0.0,0.0,73.8,10.0
+1609,zarzalejo,2024-08-31,madrugada,Nuboso,Baja,Baja,Baja,N,17.5,17.5,14.0,0.0,0.0,89.33,9.33
+1610,zarzalejo,2024-08-31,mediodia,['Nubes altas' 'Poco nuboso'],Baja,Baja,Baja,['N' 'NO'],16.0,16.0,8.0,0.0,0.0,87.0,7.5
